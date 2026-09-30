@@ -57,7 +57,27 @@ class DomNode {
     this.childNodes = [];
     this.parentNode = null;
     this.attributes = new Map();
-    this.dataset = {};
+    // dataset 必须与 attributes 联动：真实 DOM 里 el.dataset.id = 'x'
+    // 等价于 setAttribute('data-id','x')，否则属性选择器 [data-id="x"] 匹配不到。
+    this.dataset = new Proxy(
+      {},
+      {
+        get: (t, key) => t[key],
+        set: (t, key, value) => {
+          t[key] = value;
+          const attr = `data-${String(key).replace(/[A-Z]/g, (c) => `-${c.toLowerCase()}`)}`;
+          this.attributes.set(attr, String(value));
+          return true;
+        },
+        deleteProperty: (t, key) => {
+          delete t[key];
+          const attr = `data-${String(key).replace(/[A-Z]/g, (c) => `-${c.toLowerCase()}`)}`;
+          this.attributes.delete(attr);
+          return true;
+        },
+        has: (t, key) => key in t,
+      }
+    );
     this.style = new Proxy({}, { get: (t, k) => t[k] ?? '', set: (t, k, v) => ((t[k] = v), true) });
     this.listeners = new Map();
     this._classes = new Set();
@@ -264,18 +284,9 @@ function walk(node, fn) {
   }
 }
 
-/** 支持后代选择器（空格分隔）以及 *、#id、.class、tag、[attr]、tag.class、.a.b */
+/** 支持后代选择器（空格分隔）以及 *、#id、.class、tag、[attr]、tag.class、.a.b、以及它们的任意组合 */
 function matchesCompound(node, sel) {
   if (sel === '*') return true;
-
-  const attrMatch = sel.match(/^\[([a-zA-Z0-9_-]+)(?:=["']?([^"'\]]+)["']?)?\]$/);
-  if (attrMatch) {
-    const [, name, value] = attrMatch;
-    if (value === undefined) {
-      return node.attributes.has(name.toLowerCase()) || (name.startsWith('data-') && name.slice(5) in node.dataset);
-    }
-    return node.getAttribute(name) === value;
-  }
 
   let rest = sel;
   let constrained = false;
@@ -288,20 +299,52 @@ function matchesCompound(node, sel) {
     constrained = true;
   }
 
-  const classes = [...rest.matchAll(/\.([a-zA-Z0-9_-]+)/g)].map((m) => m[1]);
-  for (const c of classes) if (!node.classList.contains(c)) return false;
-  if (classes.length) constrained = true;
+  // 标签名（位于最前）
+  const tagName = rest.split(/[.#\[]/)[0];
+  if (tagName) {
+    if (node.nodeName !== tagName.toUpperCase()) return false;
+    constrained = true;
+    rest = rest.slice(tagName.length);
+  }
 
-  const tagPart = rest.split(/[.#\[]/)[0];
-  if (tagPart && tagPart !== '*') {
-    if (node.nodeName !== tagPart.toUpperCase()) return false;
+  // 类名
+  for (const m of rest.matchAll(/\.([a-zA-Z0-9_-]+)/g)) {
+    if (!node.classList.contains(m[1])) return false;
     constrained = true;
   }
+
+  // 属性选择器（可能带值，也可能只有属性名）—— 必须逐个检查，
+  // 否则 .card[data-id="x"] 这种组合式会把属性条件整段忽略掉
+  const attrRe = /\[\s*([a-zA-Z0-9_-]+)\s*(?:=\s*(?:"([^"]*)"|'([^']*)'|([^\]\s]+)))?\s*\]/g;
+  let attrMatch;
+  let sawAttr = false;
+  while ((attrMatch = attrRe.exec(rest))) {
+    sawAttr = true;
+    const [, name, dq, sq, bare] = attrMatch;
+    const expected = dq ?? sq ?? bare;
+    const actual = node.getAttribute(name);
+    if (expected === undefined) {
+      if (actual === null) return false;
+    } else if (actual !== expected) {
+      return false;
+    }
+  }
+  if (sawAttr) constrained = true;
 
   return constrained;
 }
 
 function matches(node, selector) {
+  // 选择器列表（a, button, ...）：任一命中即可。
+  // 必须支持，否则 closest('a, button, ...') 会永远返回 null。
+  if (String(selector).includes(',')) {
+    return String(selector)
+      .split(',')
+      .map((s) => s.trim())
+      .filter(Boolean)
+      .some((part) => matches(node, part));
+  }
+
   const parts = String(selector).trim().split(/\s+/).filter(Boolean);
   if (!parts.length) return false;
   if (!matchesCompound(node, parts[parts.length - 1])) return false;
@@ -478,6 +521,8 @@ const history = {
 };
 
 const scrollCalls = [];
+/** 记录 window.open 调用，用于验证「点击卡片打开原文」 */
+const openCalls = [];
 const windowObj = {
   location,
   history,
@@ -486,6 +531,10 @@ const windowObj = {
   innerWidth: 1440,
   innerHeight: 900,
   scrollTo: (opts) => scrollCalls.push(opts),
+  open: (url, target, features) => {
+    openCalls.push({ url, target, features });
+    return { closed: false };
+  },
   matchMedia: () => ({ matches: false, addEventListener: () => {}, addListener: () => {} }),
   addEventListener: (type, fn) => {
     if (!windowListeners.has(type)) windowListeners.set(type, new Set());
@@ -507,6 +556,8 @@ windowObj.self = windowObj;
 windowObj.globalThis = windowObj;
 
 const fetchCalls = [];
+/** 与 app 共享的解析结果缓存：测试可借此直接改动 app 正在使用的对象 */
+const jsonCache = new Map();
 async function fetchShim(url) {
   const rel = String(url).replace(/^\.\//, '');
   fetchCalls.push(rel);
@@ -518,7 +569,8 @@ async function fetchShim(url) {
       status: 200,
       statusText: 'OK',
       async json() {
-        return JSON.parse(text);
+        if (!jsonCache.has(rel)) jsonCache.set(rel, JSON.parse(text));
+        return jsonCache.get(rel);
       },
       async text() {
         return text;
@@ -536,6 +588,30 @@ async function fetchShim(url) {
         return '';
       },
     };
+  }
+}
+
+/**
+ * 触发一次整体重绘（renderFeed）然后立刻把折叠状态还原为「全部展开」。
+ * 注意不能盲目点一次——若分组本来就是折叠的，那一下会把它展开，状态反而更乱。
+ */
+async function refreshFeedClean() {
+  const firstHead = () => documentRoot.querySelectorAll('.group-head.is-collapsible')[0];
+  const head = firstHead();
+  if (!head) return;
+  head.click();
+  await sleep(80);
+  const h = firstHead();
+  if (h && h.getAttribute('aria-expanded') === 'false') {
+    h.click();
+    await sleep(80);
+  }
+  // 保险：任何残留的折叠都展开
+  for (const hd of documentRoot.querySelectorAll('.group-head.is-collapsible')) {
+    if (hd.getAttribute('aria-expanded') === 'false') {
+      hd.click();
+      await sleep(40);
+    }
   }
 }
 
@@ -604,6 +680,21 @@ const count = (sel) => q(sel).length;
 /** 统计真正可见的卡片：折叠的分组内容区带 hidden，其中的卡片不应计入 */
 const visibleCards = () => q('.card').filter((c) => !c.closest('[hidden]'));
 
+/**
+ * 已读集合存在 localStorage 里（app.js 的 readSet 是模块内变量，
+ * 经 new Function 执行后测试作用域无法直接访问，故从存储读取）
+ */
+const storedReadSet = () => {
+  try {
+    return new Set(JSON.parse(localStorage.getItem('techdaily:read') || '[]'));
+  } catch {
+    return new Set();
+  }
+};
+
+// 提前取出搜索框，供多处断言复用（避免 const 暂时性死区）
+const searchInput = q1('#search');
+
 const index = JSON.parse(await readFile(path.join(ROOT, 'data', 'index.json'), 'utf8'));
 const latest = index.days[0];
 const latestDay = JSON.parse(await readFile(path.join(ROOT, 'data', 'days', `${latest.date}.json`), 'utf8'));
@@ -667,9 +758,14 @@ check('健康面板标记失败源', count('.health-dot.bad') === index.sources.
 check('构建信息渲染', count('#build-meta dt') >= 5, `${count('#build-meta dt')} 项`);
 check('页脚生成时间渲染', /数据生成于/.test(text('#foot-generated')));
 
-check('卡片标题非空', q('.card').every((c) => c.querySelector('.card-title').textContent.trim().length > 3));
+check('卡片标题非空', q('.card').every((c) => c.querySelector('.card-title').getAllText().trim().length > 3));
 check('卡片含来源标签', q('.card').every((c) => c.querySelector('.src-tag')));
-check('卡片含原文链接', q('.card').every((c) => /^https?:\/\//.test(c.querySelector('.card-link').getAttribute('href') || '')));
+check('标题是真实链接（键盘/右键可用）', q('.card').every((c) => {
+  const a = c.querySelector('.card-title-link');
+  return a && /^https?:\/\//.test(a.getAttribute('href') || '') && a.getAttribute('rel') === 'noopener noreferrer';
+}));
+check('标题链接指向原文', q('.card').every((c) => c.querySelector('.card-title-link').getAttribute('href') === c.dataset.link));
+check('卡片带 data-link 兜底', q('.card').every((c) => /^https?:\/\//.test(c.dataset.link || '')));
 check('卡片含分类色条', q('.card').every((c) => c.querySelector('.card-accent')));
 check('渲染了配图', count('.card-thumb img') > 0, `${count('.card-thumb img')} 张`);
 check('配图使用懒加载', q('.card-thumb img').every((i) => i.getAttribute('loading') === 'lazy'));
@@ -678,6 +774,116 @@ check('配图使用懒加载', q('.card-thumb img').every((i) => i.getAttribute(
 if (count('.dupes') > 0) {
   check('折叠重复条目有提示', true, `${count('.dupes')} 处`);
 }
+
+console.log('\n— 点击卡片打开原文 —');
+
+const clickCard = q('.card')[0];
+const clickLink = clickCard.dataset.link;
+const clickId = clickCard.dataset.id;
+
+openCalls.length = 0;
+clickCard.querySelector('.card-desc').click();
+check('点击卡片正文打开原文', openCalls.length === 1 && openCalls[0].url === clickLink, `${openCalls.length} 次调用 → ${openCalls[0]?.url}`);
+check('新标签打开并带 noopener', openCalls[0]?.target === '_blank' && String(openCalls[0]?.features).includes('noopener'));
+check('点击卡片后标记为已读', storedReadSet().has(clickId) && clickCard.classList.contains('is-read'));
+check('已读状态写入 localStorage', (localStorage.getItem('techdaily:read') || '').includes(clickId));
+
+openCalls.length = 0;
+clickCard.querySelector('.cat-tag').click();
+check('点击分类标签也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
+
+openCalls.length = 0;
+clickCard.querySelector('.card-title-link').click();
+check('点击标题不重复弹窗（交给链接自身）', openCalls.length === 0, `${openCalls.length} 次调用`);
+
+// 关键防回归：卡片内部的「另 N 家媒体报道」链接不能被劫持
+const cardWithDupes = q('.card').find((c) => c.querySelector('.dupes a'));
+if (cardWithDupes) {
+  const dupeLink = cardWithDupes.querySelector('.dupes a');
+  const dupeHref = dupeLink.getAttribute('href');
+  openCalls.length = 0;
+  dupeLink.click();
+  check('点击「另 N 家媒体报道」不打开主条目', openCalls.length === 0, `${openCalls.length} 次调用`);
+  check('媒体报道链接本身保留正确地址', /^https?:\/\//.test(dupeHref || ''), dupeHref);
+  check('媒体报道链接带 noopener', dupeLink.getAttribute('rel') === 'noopener noreferrer');
+} else {
+  check('（本次数据无折叠重复条目，跳过媒体链接测试）', true);
+}
+
+openCalls.length = 0;
+const imgCard = q('.card').find((c) => c.querySelector('.card-thumb img'));
+if (imgCard) {
+  imgCard.querySelector('.card-thumb img').click();
+  check('点击配图也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
+} else {
+  check('（本次数据无配图，跳过配图点击测试）', true);
+}
+
+// 右键 / 中键不应触发
+openCalls.length = 0;
+const rightClick = new DomEvent('click', { bubbles: true });
+rightClick.button = 2;
+clickCard.querySelector('.card-desc').dispatchEvent(rightClick);
+check('非左键点击不跳转', openCalls.length === 0, `${openCalls.length} 次`);
+
+// 点击空白区域（无 .card 祖先）不应跳转
+openCalls.length = 0;
+q1('#feed').click();
+check('点击非卡片区域不跳转', openCalls.length === 0, `${openCalls.length} 次`);
+
+// 搜索结果里的卡片同样可点
+searchInput.value = 'AI';
+searchInput.dispatchEvent(new DomEvent('input', { bubbles: true }));
+await sleep(450);
+const searchCard = q('.card')[0];
+if (searchCard) {
+  openCalls.length = 0;
+  searchCard.querySelector('.card-desc')?.click();
+  check('搜索结果卡片也可点击跳转', openCalls.length === 1, `${openCalls.length} 次`);
+}
+q1('#search-clear').click();
+await sleep(450);
+openCalls.length = 0;
+
+// 当前数据里恰好没有折叠重复条目，而「卡片内链接不能被劫持」是本次改动最容易踩的坑。
+// 因此往 app 正在使用的日数据对象里注入一条合成重复项，重绘后验证，最后移除。
+{
+  const dayObj = jsonCache.get(`data/days/${index.days[0].date}.json`);
+  const host = dayObj?.items?.find((i) => i.link && i.category);
+  if (host) {
+    const originalDupes = host.duplicates;
+    host.duplicates = [{ sourceName: '合成测试源', link: 'https://example.com/other-coverage' }];
+    await refreshFeedClean();
+
+    const injected = q('.card').find((c) => c.querySelector('.dupes a'));
+    if (injected) {
+      const dupeA = injected.querySelector('.dupes a');
+      openCalls.length = 0;
+      dupeA.click();
+      check('点击「另 N 家媒体报道」不打开主条目', openCalls.length === 0, `${openCalls.length} 次调用`);
+      check('媒体报道链接地址正确', dupeA.getAttribute('href') === 'https://example.com/other-coverage', String(dupeA.getAttribute('href')));
+      check('媒体报道链接带 noopener', dupeA.getAttribute('rel') === 'noopener noreferrer');
+
+      openCalls.length = 0;
+      injected.querySelector('.dupes').click();
+      check('点击重复提示区域不误跳转', openCalls.length === 0, `${openCalls.length} 次`);
+
+      openCalls.length = 0;
+      const desc = injected.querySelector('.card-desc');
+      if (desc) desc.click();
+      check('同一卡片点正文仍正常跳转', openCalls.length === 1, `${openCalls.length} 次`);
+    } else {
+      check('注入合成重复项后渲染出折叠提示', false, '未找到 .dupes');
+    }
+
+    if (originalDupes === undefined) delete host.duplicates;
+    else host.duplicates = originalDupes;
+    await refreshFeedClean();
+  } else {
+    check('（无法取得日数据对象，跳过媒体链接测试）', true);
+  }
+}
+openCalls.length = 0;
 
 console.log('\n— 分类筛选 —');
 
@@ -726,7 +932,6 @@ await sleep(50);
 
 console.log('\n— 关键词搜索 —');
 
-const searchInput = q1('#search');
 searchInput.value = 'AI';
 searchInput.dispatchEvent(new DomEvent('input', { bubbles: true }));
 await sleep(450);
@@ -950,12 +1155,23 @@ await sleep(120);
 
 console.log('\n— 读取状态持久化 —');
 
-const firstCard = q('.card')[0];
-const firstId = firstCard.dataset.id;
-firstCard.querySelector('.card-link').click();
-await sleep(50);
-check('点击原文标记已读', firstCard.classList.contains('is-read'));
-check('已读状态写入 localStorage', (localStorage.getItem('techdaily:read') || '').includes(firstId));
+// 换一张还没被点过的卡片，验证点击内容区即标记已读
+const unreadCard = q('.card').find((c) => !storedReadSet().has(c.dataset.id)) || q('.card')[0];
+const unreadId = unreadCard.dataset.id;
+openCalls.length = 0;
+const clickTarget = unreadCard.querySelector('.card-desc') || unreadCard.querySelector('.card-body') || unreadCard;
+clickTarget.click();
+await sleep(80);
+// 精确查回同一张卡片，避免拿到别的节点造成假通过
+const sameCard = q1(`.card[data-id="${unreadId}"]`);
+check(
+  '点击卡片内容标记已读',
+  storedReadSet().has(unreadId) && Boolean(sameCard) && sameCard.classList.contains('is-read'),
+  `id=${unreadId} 已读集合=${storedReadSet().size} 条`
+);
+check('标记已读作用于正确的卡片', sameCard === unreadCard, '');
+check('点击卡片内容同时也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
+check('已读状态写入 localStorage', (localStorage.getItem('techdaily:read') || '').includes(unreadId));
 
 console.log('\n— 去重逻辑回归（合成样本）—');
 

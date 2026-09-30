@@ -393,6 +393,8 @@ button { font: inherit; color: inherit; }
   border: 1px solid var(--border-soft);
   border-radius: var(--radius);
   padding: 14px 16px;
+  /* 整张卡片就是「打开原文」的点击区 */
+  cursor: pointer;
   transition: border-color 0.15s, background 0.15s, transform 0.12s, box-shadow 0.15s;
 }
 .card:hover {
@@ -401,6 +403,12 @@ button { font: inherit; color: inherit; }
   box-shadow: var(--shadow);
 }
 .card:hover .card-title { color: var(--accent-text); }
+
+/* 键盘用户仍然靠标题里的链接跳转；鼠标用户点卡片任意处 */
+.card:has(a:focus-visible) {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
 
 .card-accent {
   position: absolute; left: 0; top: 14px; bottom: 14px; width: 3px;
@@ -425,6 +433,13 @@ button { font: inherit; color: inherit; }
   transition: color 0.15s;
   overflow-wrap: anywhere;
 }
+/* 标题链接继承标题样貌；点击由卡片委托统一处理，不额外加下划线 */
+.card-title-link { color: inherit; display: inline; }
+.card-title-link:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
 .card-desc {
   margin: 0 0 7px; font-size: 13.5px; color: var(--text-dim); line-height: 1.68;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
@@ -432,8 +447,17 @@ button { font: inherit; color: inherit; }
 .card-foot { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 11.5px; color: var(--text-faint); }
 .card-foot .sep { opacity: 0.45; }
 .card-foot .author { max-width: 220px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.card-link { color: var(--accent-text); margin-left: auto; white-space: nowrap; }
-.card-link:hover { text-decoration: underline; }
+
+/* 「阅读原文」现在是纯提示（点击由整张卡片承担），hover 时加强可见性 */
+.card-link {
+  margin-left: auto; white-space: nowrap;
+  color: var(--text-faint);
+  transition: color 0.15s, transform 0.15s;
+}
+.card:hover .card-link {
+  color: var(--accent-text);
+  transform: translateX(2px);
+}
 
 .card-thumb {
   width: 128px; height: 84px; flex-shrink: 0;

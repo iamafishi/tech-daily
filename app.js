@@ -425,6 +425,49 @@ function shiftMonth(delta) {
   renderCalendar();
 }
 
+/* ───────────────────────── 打开原文 ───────────────────────── */
+
+/**
+ * 打开条目原文。
+ *
+ * 用 window.open 而不是 location.href：GitHub Pages 上站点是 /tech-daily/ 子路径，
+ * 用相对路径赋值在带查询参数（?d=日期）时容易解析错，交给浏览器处理更稳。
+ * 必须同步调用，否则会被弹窗拦截器判定为非用户手势。
+ */
+function openItemLink(item) {
+  const url = item.link || item.u;
+  if (!url) return;
+  window.open(url, '_blank', 'noopener');
+}
+
+/** 点击目标是可交互元素时不劫持（内部链接、按钮等各自有行为） */
+const INTERACTIVE_SELECTOR = 'a, button, input, select, textarea, [role="button"], [data-no-card-click]';
+function isInteractiveTarget(target) {
+  return Boolean(target && typeof target.closest === 'function' && target.closest(INTERACTIVE_SELECTOR));
+}
+
+/**
+ * 卡片点击 = 打开原文，让整条内容区域都可点，不必去瞄右下角的小链接。
+ * 用事件委托挂在容器上，避免给上百张卡片各绑一个监听器。
+ */
+function onFeedClick(event) {
+  if (event.button !== undefined && event.button !== 0) return; // 只处理左键
+  if (event.defaultPrevented) return;
+  const card = event.target && event.target.closest ? event.target.closest('.card') : null;
+  if (!card) return;
+  // 点在内部链接/按钮上时交给它们自己处理
+  if (isInteractiveTarget(event.target)) return;
+
+  const id = card.dataset.id;
+  const day = state.dayCache.get(state.loadedDay);
+  const item = day ? day.items.find((i) => i.id === id) : null;
+  const url = item ? item.link : card.dataset.link;
+  if (!url) return;
+
+  markRead(id);
+  openItemLink(item || { link: url });
+}
+
 /* ───────────────────────── 正文渲染 ───────────────────────── */
 
 function matchesQuery(item, query) {
@@ -478,7 +521,8 @@ function renderCard(item, { query = '', showDay = false } = {}) {
 
   const card = h('article', {
     class: `card${isRead ? ' is-read' : ''}`,
-    dataset: { id: item.id },
+    dataset: { id: item.id, link: item.link },
+    title: '点击卡片打开原文',
   });
 
   card.append(
@@ -493,7 +537,17 @@ function renderCard(item, { query = '', showDay = false } = {}) {
         h('span', { class: `src-tag${item.sourceLang === 'en' ? ' lang-en' : ''}`, text: item.sourceName }),
         showDay && item.day ? h('span', { class: 'src-tag', text: item.day }) : null,
       ]),
-      h('h3', { class: 'card-title', html: highlight(item.title, query) }),
+      // 标题本身就是链接：键盘用户和「右键新标签打开」都靠它，
+      // 鼠标用户点卡片任意位置则由事件委托处理
+      h('h3', { class: 'card-title' }, [
+        h('a', {
+          class: 'card-title-link',
+          href: item.link,
+          target: '_blank',
+          rel: 'noopener noreferrer',
+          html: highlight(item.title, query),
+        }),
+      ]),
       item.description ? h('p', { class: 'card-desc', html: highlight(item.description, query) }) : null,
       h('div', { class: 'card-foot' }, [
         h('span', { text: relTime(item.publishedAt) }),
@@ -501,14 +555,7 @@ function renderCard(item, { query = '', showDay = false } = {}) {
         h('span', { text: clockLabel(item.publishedAt, state.index.timezoneOffsetMinutes) }),
         item.author ? h('span', { class: 'sep', text: '·' }) : null,
         item.author ? h('span', { class: 'author', text: item.author }) : null,
-        h('a', {
-          class: 'card-link',
-          href: item.link,
-          target: '_blank',
-          rel: 'noopener noreferrer',
-          text: '阅读原文 ↗',
-          onclick: () => markRead(item.id),
-        }),
+        h('span', { class: 'card-link', text: '阅读原文 ↗' }),
       ]),
     ])
   );
@@ -536,7 +583,8 @@ function renderCard(item, { query = '', showDay = false } = {}) {
       });
     }
     if (item.sameSourceDupes) bits.push(h('span', { text: `${bits.length ? '｜' : ''}同源重复 ${item.sameSourceDupes} 篇已折叠` }));
-    card.querySelector('.card-body').append(h('div', { class: 'dupes' }, bits));
+    // data-no-card-click：这段是「别的报道来源」信息，点它不该跳到主条目
+    card.querySelector('.card-body').append(h('div', { class: 'dupes', 'data-no-card-click': 'true' }, bits));
   }
 
   return card;
@@ -548,7 +596,6 @@ function markRead(id) {
   const node = dom.feed.querySelector(`.card[data-id="${id}"]`);
   if (node) node.classList.add('is-read');
 }
-
 function skeleton(count = 6) {
   return h('div', { class: 'skeleton' }, Array.from({ length: count }, () => h('div', { class: 'sk-card' })));
 }
@@ -980,6 +1027,9 @@ function bindEvents() {
   });
 
   dom.btnExport.addEventListener('click', exportCurrent);
+
+  // 事件委托：卡片内容区任意位置点击都打开原文（内部链接除外）
+  dom.feed.addEventListener('click', onFeedClick);
 
   dom.toggleAll.addEventListener('click', () => {
     // 未全部收起时先全部收起；已全部收起则全部展开
