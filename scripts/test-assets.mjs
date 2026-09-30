@@ -133,6 +133,38 @@ check('日历格子可键盘操作', /setAttribute\('tabindex', '0'\)/.test(js) 
 check('深色为默认主题', /data-theme="dark"/.test(html) && /:root\s*\{/.test(clean));
 check('声明 color-scheme', /name="color-scheme"/.test(html));
 
+/* ─────────────── 网格布局防溢出 ─────────────── */
+
+console.log('\n— 网格布局（防内容撑破容器）—');
+
+// 真实缺陷回归：grid-template-columns 用 1fr 时最小值是 min-content，
+// 7 列日历各被撑到约 114px，共 798px 冲出 264px 的侧栏，日历被正文压住。
+// 必须用 minmax(0, 1fr)。
+check(
+  '日历列宽使用 minmax(0, 1fr) 而非裸 1fr',
+  /\.cal-grid\s*\{[^}]*grid-template-columns:\s*repeat\(7,\s*minmax\(0,\s*1fr\)\)/.test(clean),
+  (clean.match(/\.cal-grid\s*\{[^}]*\}/) || [''])[0].replace(/\s+/g, ' ').slice(0, 110)
+);
+check(
+  '日历行高为 min-content（否则被 flex 拉成竖长条）',
+  /\.cal-grid\s*\{[^}]*grid-auto-rows:\s*min-content/.test(clean)
+);
+check(
+  '日历格子允许收缩（min-width: 0）',
+  /\.cal-cell\s*\{[^}]*min-width:\s*0/.test(clean)
+);
+check(
+  '日历格子宽度占满列（避免 aspect-ratio 依赖内容宽度）',
+  /\.cal-cell\s*\{[^}]*width:\s*100%/.test(clean)
+);
+
+// 兜底：多列重复用裸 1fr 是风险写法（列会被 min-content 撑开）。
+// 注意「auto 1fr」「单列 1fr」这类不重复的用法是安全的，不应误报。
+const riskyRepeat = [...clean.matchAll(/grid-template-columns:\s*repeat\(\s*(\d+)\s*,\s*1fr\s*\)/g)]
+  .filter((m) => Number(m[1]) > 1)
+  .map((m) => m[0].trim());
+check('未使用 repeat(n, 1fr) 这种易溢出的多列定义', riskyRepeat.length === 0, riskyRepeat.join(' | '));
+
 /* ─────────────── 安全 ─────────────── */
 
 console.log('\n— 安全 —');

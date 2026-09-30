@@ -175,18 +175,33 @@ button { font: inherit; color: inherit; }
 }
 .panel-title .hint { font-size: 10.5px; font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--text-faint); }
 
-/* 日历 */
+/* 日历
+   列宽必须用 minmax(0, 1fr)：1fr 的最小值是 min-content，
+   格子内容会把每列撑到约 114px，7 列共 798px 冲出 264px 的容器，
+   表现为日历被右侧正文压住。minmax(0, …) 允许列宽收缩到 0。
+   行高固定为 min-content，否则会随侧栏 flex 高度被拉伸成竖长条。 */
 .cal-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
 .cal-label { font-size: 13.5px; font-weight: 600; }
-.cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; }
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  grid-auto-rows: min-content;
+  gap: 3px;
+  align-items: center;
+}
 .cal-dow {
-  text-align: center; font-size: 10.5px; color: var(--text-faint); padding-bottom: 3px;
+  text-align: center; font-size: 10.5px; color: var(--text-faint);
+  padding-bottom: 3px; min-width: 0;
 }
 .cal-cell {
-  position: relative; aspect-ratio: 1;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  min-width: 0;
   display: flex; align-items: center; justify-content: center;
   font-size: 12px; border-radius: 7px; border: 1px solid transparent;
   color: var(--text-faint); background: transparent;
+  overflow: hidden;
 }
 .cal-cell.empty { visibility: hidden; }
 .cal-cell.has-data {

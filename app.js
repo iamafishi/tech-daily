@@ -427,23 +427,47 @@ function shiftMonth(delta) {
 
 /* ───────────────────────── 打开原文 ───────────────────────── */
 
+/** 解析出该条目对应的目标地址（用于判断链接是否指向本站自身） */
+function itemUrl(item) {
+  return (item && (item.link || item.u)) || '';
+}
+
 /**
  * 打开条目原文。
  *
- * 用 window.open 而不是 location.href：GitHub Pages 上站点是 /tech-daily/ 子路径，
- * 用相对路径赋值在带查询参数（?d=日期）时容易解析错，交给浏览器处理更稳。
- * 必须同步调用，否则会被弹窗拦截器判定为非用户手势。
+ * 用 window.open 而不是直接改 location：站点在 GitHub Pages 的 /tech-daily/ 子路径下，
+ * 带查询参数（?d=日期）时相对路径容易被解析错，交给浏览器更稳。
+ *
+ * 若被弹出窗口拦截器拦掉（返回 null），回退为当前页导航——
+ * 否则在拦截较严的浏览器里点击会「完全没反应」。
  */
 function openItemLink(item) {
-  const url = item.link || item.u;
+  const url = itemUrl(item);
   if (!url) return;
-  window.open(url, '_blank', 'noopener');
+  let win = null;
+  try {
+    win = window.open(url, '_blank', 'noopener');
+  } catch {
+    win = null;
+  }
+  if (!win) {
+    // 同步回退，避免被判定为非用户手势
+    window.location.href = url;
+  }
 }
 
-/** 点击目标是可交互元素时不劫持（内部链接、按钮等各自有行为） */
+/**
+ * 点击目标是可交互元素时不劫持（内部链接、按钮等各自有行为）。
+ * 但标题链接例外：它虽然是 <a>，我们仍希望走统一的打开逻辑，
+ * 以便和卡片其他区域行为一致、并能处理弹窗被拦截的情况。
+ */
 const INTERACTIVE_SELECTOR = 'a, button, input, select, textarea, [role="button"], [data-no-card-click]';
+
 function isInteractiveTarget(target) {
-  return Boolean(target && typeof target.closest === 'function' && target.closest(INTERACTIVE_SELECTOR));
+  if (!target || typeof target.closest !== 'function') return false;
+  // 标题链接交给卡片逻辑统一处理
+  if (target.closest('.card-title-link')) return false;
+  return Boolean(target.closest(INTERACTIVE_SELECTOR));
 }
 
 /**
@@ -453,15 +477,27 @@ function isInteractiveTarget(target) {
 function onFeedClick(event) {
   if (event.button !== undefined && event.button !== 0) return; // 只处理左键
   if (event.defaultPrevented) return;
-  const card = event.target && event.target.closest ? event.target.closest('.card') : null;
+  const target = event.target;
+  const card = target && target.closest ? target.closest('.card') : null;
   if (!card) return;
-  // 点在内部链接/按钮上时交给它们自己处理
-  if (isInteractiveTarget(event.target)) return;
+
+  const titleLink = target.closest ? target.closest('.card-title-link') : null;
+  const isTitleLink = Boolean(titleLink);
+
+  // 标题链接允许浏览器原生行为（Ctrl/⌘ 点击新标签、右键菜单等）
+  if (isTitleLink && (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey)) return;
+
+  // 其余内部可交互元素（媒体报道链接、按钮）各自处理，卡片不接管
+  if (!isTitleLink && isInteractiveTarget(target)) return;
+
+  // 标题链接统一走这里：阻止原生跳转，改用带拦截回退的打开逻辑，
+  // 避免「原生跳转 + 委托打开」导致的双开
+  if (isTitleLink) event.preventDefault();
 
   const id = card.dataset.id;
   const day = state.dayCache.get(state.loadedDay);
   const item = day ? day.items.find((i) => i.id === id) : null;
-  const url = item ? item.link : card.dataset.link;
+  const url = itemUrl(item) || card.dataset.link;
   if (!url) return;
 
   markRead(id);

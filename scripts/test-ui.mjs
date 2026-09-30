@@ -793,8 +793,17 @@ clickCard.querySelector('.cat-tag').click();
 check('点击分类标签也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
 
 openCalls.length = 0;
-clickCard.querySelector('.card-title-link').click();
-check('点击标题不重复弹窗（交给链接自身）', openCalls.length === 0, `${openCalls.length} 次调用`);
+const titleLink = clickCard.querySelector('.card-title-link');
+titleLink.click();
+check('点击标题链接打开原文', openCalls.length === 1 && openCalls[0].url === clickLink, `${openCalls.length} 次调用`);
+check('标题链接不会双开（统一走委托）', openCalls.length === 1, `${openCalls.length} 次`);
+
+// Ctrl/⌘ 点击交给浏览器原生处理（新标签），不由委托接管
+openCalls.length = 0;
+const modClick = new DomEvent('click', { bubbles: true, cancelable: true });
+modClick.ctrlKey = true;
+titleLink.dispatchEvent(modClick);
+check('Ctrl+点击交给浏览器原生处理', openCalls.length === 0, `${openCalls.length} 次`);
 
 // 关键防回归：卡片内部的「另 N 家媒体报道」链接不能被劫持
 const cardWithDupes = q('.card').find((c) => c.querySelector('.dupes a'));
