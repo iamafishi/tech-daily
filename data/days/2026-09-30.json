@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
   "label": "9月30日 周三",
-  "generatedAt": "2026-09-30T05:08:57.112Z",
-  "itemCount": 237,
+  "generatedAt": "2026-09-30T05:10:38.866Z",
+  "itemCount": 238,
   "summary": {
     "overview": "2026-09-30（9月30日 周三）共聚合 223 条科技数码动态，来自 15 个信息源，主要集中在AI 人工智能、其他动态、手机数码等方向。（当前为规则式要点；在仓库中配置 AI_API_KEY 后将自动生成 AI 综述。）",
     "highlights": [
@@ -68,7 +68,7 @@
     },
     {
       "id": "other",
-      "count": 51,
+      "count": 52,
       "label": "其他动态",
       "emoji": "📰",
       "color": "#64748b"
@@ -148,7 +148,7 @@
       "id": "cnbeta",
       "name": "cnBeta",
       "lang": "zh",
-      "count": 24
+      "count": 25
     },
     {
       "id": "engadget",
@@ -230,6 +230,23 @@
     }
   ],
   "items": [
+    {
+      "id": "1ul8el96aw",
+      "title": "英伟达前顾问称旧股权协议少算授予期 未归属期权现值逾10亿美元",
+      "link": "https://cnbeta.com.tw/articles/tech/1580136.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "other",
+      "description": "曾任英伟达技术顾问委员会成员的科技创业者、虚拟现实先驱埃里克·古利克森近日表示，英伟达因30多年前的一项文书计算错误，少向他归属了股票期权；按当前股价和历次拆股计算，这部分期权价值已超过10亿美元。英伟达则以索赔已超过法定时效为由拒绝和解。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-30T05:10:13.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
     {
       "id": "19le9k310b",
       "title": "研究发现药物非诺特罗提高人体能量消耗 却未明显激活棕色脂肪",
