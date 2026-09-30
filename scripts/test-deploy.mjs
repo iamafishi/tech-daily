@@ -90,7 +90,17 @@ console.log('\n— 归档回写 —');
 check('配置了 git 身份', /git config user\.name/.test(raw) && /git config user\.email/.test(raw));
 check('只提交 data 目录', /git add data\//.test(raw));
 check('无变更时跳过提交', /diff --staged --quiet/.test(raw));
-check('推回当前分支', /git push origin HEAD:/.test(raw));
+
+// 回归：checkout 之后远程可能前进，直接 push 会因非快进被拒绝，
+// 导致整次构建的摘要与数据全部丢失、部署被跳过。
+check('推送前执行 pull --rebase（防非快进拒绝）', /git pull --rebase/.test(raw));
+check('pull 带 --autostash（构建产物会挡住 rebase）', /pull --rebase --autostash/.test(raw));
+check('pull 与 push 在同一条件分支内', /pull --rebase --autostash origin "\$BRANCH" && git push origin "HEAD:\$BRANCH"/.test(raw));
+check('推送失败会重试而非直接放弃', /for i in 1 2 3/.test(raw) && /重试/.test(raw));
+check('重试耗尽后显式报错退出', /连续 3 次无法推送/.test(raw) && /exit 1/.test(raw));
+check('不再使用易被拒绝的裸 git push', !/git push origin HEAD:\$\{\{/.test(raw));
+check('分支名取自环境变量而非直接插值', /BRANCH="\$\{GITHUB_REF_NAME:-main\}"/.test(raw));
+check('配置 pull.rebase 避免产生 merge commit', /git config pull\.rebase true/.test(raw));
 
 console.log('\n— 部署任务 —');
 const deployIdx = raw.indexOf('\n  deploy:');

@@ -86,15 +86,38 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 用 rebase 而不是 merge，保持线性历史
+          git config pull.rebase true
+
           git add data/
           if git diff --staged --quiet; then
             echo "数据没有变化，跳过提交"
-          else
-            DATE=$(date -u +%Y-%m-%d)
-            git commit -m "chore(data): 更新科技资讯归档 ${DATE}"
-            git push origin HEAD:${{ github.ref_name }}
-            echo "已提交当日归档"
+            exit 0
           fi
+
+          DATE=$(date -u +%Y-%m-%d)
+          git commit -m "chore(data): 更新科技资讯归档 ${DATE}"
+
+          # 必须先把远程新提交 rebase 进来再推。
+          # checkout 之后远程随时可能前进（例如维护者同时推送代码），
+          # 直接 git push 会因非快进被拒绝，导致本次构建的摘要与数据全部丢失、
+          # 部署也被跳过。加 --autostash 以容忍构建期产生的未跟踪文件。
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          pushed=0
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then
+              pushed=1
+              break
+            fi
+            echo "第 $i 次推送失败，5 秒后重试…"
+            sleep 5
+          done
+
+          if [ "$pushed" != "1" ]; then
+            echo "::error::连续 3 次无法推送归档数据，请检查分支保护规则或并发推送"
+            exit 1
+          fi
+          echo "已提交当日归档"
 
       - name: 配置 Pages
         uses: actions/configure-pages@v5
