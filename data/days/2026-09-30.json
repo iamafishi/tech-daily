@@ -1,59 +1,59 @@
 {
   "date": "2026-09-30",
   "label": "9月30日 周三",
-  "generatedAt": "2026-09-30T05:29:37.155Z",
+  "generatedAt": "2026-09-30T05:30:29.169Z",
   "itemCount": 253,
   "summary": {
-    "overview": "9月30日科技圈动态密集。微软正式发布Windows 11 26H2年度更新并开放ISO下载，同时确认后续版本将放弃对骁龙850的支持。AI领域动作频频：OpenAI在开发者日推出智能体产品Dots与Codex游戏插件，但CEO奥尔特曼明确表示在确保AI安全前不会推进IPO；Anthropic被曝与SpaceX签署最高845亿美元算力采购协议；特朗普签署行政令要求联邦政府以“超级智能（SI）”取代“人工智能（AI）”表述。消费电子方面，苹果Apple Pay正式登陆印度，CounterPoint预计iPhone 18 Pro系列中国首周销量同比增长12%，首款折叠屏iPhone Duo今年预计售出600万部。此外，宝马公布2027款i3续航约468英里，比亚迪、华为、小米等厂商亦有新品与战略消息释出。",
+    "overview": "9月30日科技圈围绕AI展开多条重要动向。DeepSeek宣布与华为合作并开源面向昇腾平台的编程基础设施，涵盖计算库与通信库，被视为中国厂商减少对英伟达依赖的最新尝试。美国方面，特朗普签署行政令要求联邦政府以“超级智能”取代“人工智能”表述，并公布由白宫推动、科技巨头签署的AI行业协议，要求建立四层安全控制机制。OpenAI在开发者日推出智能体产品Dots与Codex游戏插件，但CEO奥尔特曼表示在确保AI安全前不会推进IPO。此外，Anthropic被披露与SpaceX签署最高845亿美元算力采购协议，Meta Muse智能体引发美银对苹果服务收入的担忧。硬件与消费端，Windows 11 26H2正式上线，苹果Apple Pay登陆印度，iPhone 18 Pro系列在华首周销量同比增长12%。",
     "highlights": [
       {
         "label": "AI 人工智能",
         "emoji": "🤖",
         "texts": [
-          "OpenAI在开发者日推出AI智能体产品Dots，并联合ModRetro为Codex推出Game Studio插件，可用自然语言制作Game Boy风格游戏。",
-          "Anthropic被曝与SpaceX签署价值最高达845亿美元的算力采购协议，将向后者数据中心支付AI计算费用。",
-          "特朗普签署行政令，要求美国联邦政府在所有官方沟通中以“超级智能（SI）”取代“人工智能（AI）”一词，并推出政府对话式问答网站。"
+          "DeepSeek宣布与华为合作，开源面向昇腾算力平台的TileLang编译工具、计算库和分布式通信库，所有组件与英伟达平台开源组件一一对应。",
+          "特朗普签署行政令，要求美国联邦政府官方文件与公共沟通中以“超级智能”（SI）取代“人工智能”（AI），并公布由白宫推动、科技巨头签署的AI行业协议，要求建立四层安全控制机制。",
+          "OpenAI在开发者日推出可长期运行、主动执行任务的AI智能体Dots，并与ModRetro合作推出Codex专用插件Game Studio；CEO奥尔特曼称在确保AI安全前不会推进IPO。"
         ]
       },
       {
-        "label": "电脑办公",
+        "label": "芯片硬件",
         "emoji": "💻",
         "texts": [
-          "微软正式开放Windows 11 26H2 ISO镜像下载，支持全新安装、系统重装及就地升级，并延续小型启用包机制。",
-          "微软确认Windows 11 26H2之后的下一个主要版本将不再支持基于高通骁龙850处理器的设备。",
-          "Chromium 154版本导致部分KDE桌面环境频繁崩溃，目前已有修复方案。"
+          "英特尔一项2022年提交的专利显示，其计划将微型LED直接集成到CPU封装中，通过玻璃通孔输送电力和信号，可点亮芯片表面文字。",
+          "豪威发布常开型视觉AI协处理器OAX7700，集成NPU单元，基于其构建的停车监控系统仅需市面现有方案3%的功耗。",
+          "英伟达前顾问埃里克·古利克森称公司因30多年前文书计算错误少授予其股票期权，按当前股价计算价值超10亿美元，英伟达以超过法定时效为由拒绝和解。"
         ]
       },
       {
         "label": "手机数码",
         "emoji": "📱",
         "texts": [
-          "苹果Apple Pay正式登陆印度市场，首家合作银行为Axis银行，初期仅支持一家银行。",
-          "CounterPoint报告称iPhone 18 Pro系列在中国首周销量同比增长12%，推动苹果以33%份额跃居第38周销冠。",
-          "Counterpoint预计苹果首款折叠屏手机iPhone Duo今年将售出约600万部。"
+          "苹果Apple Pay正式登陆印度市场，首家合作银行为印度第三大私营银行Axis银行，当地长期由统一支付接口UPI主导。",
+          "CounterPoint数据显示，iPhone 18 Pro系列在中国首周销量同比增长12%，推动苹果以33%份额跃居第38周销冠；预计首款折叠屏iPhone Duo今年售出约600万部。",
+          "OPPO K15s与K15x两款新机开售，闪促价1399元起，分别主打硬核防水与六年抗造长续航。"
         ]
       },
       {
-        "label": "芯片硬件",
-        "emoji": "🔧",
+        "label": "互联网商业",
+        "emoji": "🌐",
         "texts": [
-          "英特尔一项专利提出将微型LED直接集成到CPU封装中，可通过玻璃通孔输送电力与信号，点亮芯片表面文字。",
-          "豪威发布常开型视觉AI协处理器OAX7700，基于其构建的停车监控系统仅需市面现有方案3%的功耗。",
-          "消息称AMD霄龙9006系列服务器CPU的2027年产量已售罄，预估出货675万颗，已开始接收2028年订单。"
+          "抖音体系内公司天津同融终止收购海联金汇旗下支付牌照公司联动优势，后者支付牌照此前已被中止续展。",
+          "豆包宣布支持出行服务，用户可通过豆包一站式完成机票预订、火车票购买、打车及路线导航。",
+          "Robinhood推出应用内AI助手Robinhood Agents，可自动替用户盯盘交易。"
         ]
       },
       {
         "label": "汽车出行",
         "emoji": "🚗",
         "texts": [
-          "宝马公布2027款i3 50 xDrive更多信息，基于Neue Klasse平台，续航最高约468英里，起售价62850美元，2027年一季度美国上市。",
-          "比亚迪在临时股东会上表示仰望品牌后续将在海外举办发布会，并称腾势Z海外首发证明策略正确。",
-          "极星高管称2027年上市的全新一代极星2“必须击败宝马i3”，将应用极星5的主动减振器与转向系统经验。"
+          "宝马公布2027款纯电i3 50 xDrive信息，基于Neue Klasse平台，最高续航约468英里，2027年第一季度在美上市，起售价62850美元。",
+          "极星高管称2027年上市的全新一代极星2将“击败”宝马i3，相关经验来自极星5的主动减振器与转向系统开发。",
+          "鸿蒙智行问界新M8开启预售，搭载华为乾崑智驾ADS 5并采用面向未来的L3架构设计，预售价格38.98万元起。"
         ]
       }
     ],
     "mode": "ai",
-    "generatedAt": "2026-09-30T05:24:39.751Z"
+    "generatedAt": "2026-09-30T05:30:29.169Z"
   },
   "categoryStats": [
     {
@@ -534,23 +534,6 @@
       "sameSourceDupes": 0
     },
     {
-      "id": "smjnmdr7wl",
-      "title": "30% Off Canon Promo Codes | October 2026",
-      "link": "https://wired.com/story/canon-promo-code",
-      "sourceId": "wired",
-      "sourceName": "WIRED",
-      "sourceLang": "en",
-      "sourceGroup": "intl",
-      "author": "Gear Team",
-      "category": "other",
-      "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "publishedAt": "2026-09-30T05:00:00.000Z",
-      "day": "2026-09-30",
-      "duplicates": [],
-      "sameSourceDupes": 0
-    },
-    {
       "id": "1a14xxp1l6",
       "title": "LG Promo Codes and Coupons for October 2026",
       "link": "https://wired.com/story/lg-promo-code",
@@ -562,6 +545,23 @@
       "category": "other",
       "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
       "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "publishedAt": "2026-09-30T05:00:00.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "smjnmdr7wl",
+      "title": "30% Off Canon Promo Codes | October 2026",
+      "link": "https://wired.com/story/canon-promo-code",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Gear Team",
+      "category": "other",
+      "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
       "publishedAt": "2026-09-30T05:00:00.000Z",
       "day": "2026-09-30",
       "duplicates": [],
