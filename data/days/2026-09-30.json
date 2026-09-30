@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
   "label": "9月30日 周三",
-  "generatedAt": "2026-09-30T05:30:29.169Z",
-  "itemCount": 253,
+  "generatedAt": "2026-09-30T05:36:56.579Z",
+  "itemCount": 256,
   "summary": {
     "overview": "9月30日科技圈围绕AI展开多条重要动向。DeepSeek宣布与华为合作并开源面向昇腾平台的编程基础设施，涵盖计算库与通信库，被视为中国厂商减少对英伟达依赖的最新尝试。美国方面，特朗普签署行政令要求联邦政府以“超级智能”取代“人工智能”表述，并公布由白宫推动、科技巨头签署的AI行业协议，要求建立四层安全控制机制。OpenAI在开发者日推出智能体产品Dots与Codex游戏插件，但CEO奥尔特曼表示在确保AI安全前不会推进IPO。此外，Anthropic被披露与SpaceX签署最高845亿美元算力采购协议，Meta Muse智能体引发美银对苹果服务收入的担忧。硬件与消费端，Windows 11 26H2正式上线，苹果Apple Pay登陆印度，iPhone 18 Pro系列在华首周销量同比增长12%。",
     "highlights": [
@@ -58,7 +58,7 @@
   "categoryStats": [
     {
       "id": "ai",
-      "count": 80,
+      "count": 81,
       "label": "AI 人工智能",
       "emoji": "🤖",
       "color": "#8b5cf6"
@@ -79,7 +79,7 @@
     },
     {
       "id": "pc",
-      "count": 15,
+      "count": 16,
       "label": "电脑办公",
       "emoji": "💻",
       "color": "#06b6d4"
@@ -92,18 +92,18 @@
       "color": "#f97316"
     },
     {
+      "id": "ai-hardware",
+      "count": 14,
+      "label": "智能硬件",
+      "emoji": "⌚",
+      "color": "#14b8a6"
+    },
+    {
       "id": "game",
       "count": 13,
       "label": "游戏娱乐",
       "emoji": "🎮",
       "color": "#ec4899"
-    },
-    {
-      "id": "ai-hardware",
-      "count": 13,
-      "label": "智能硬件",
-      "emoji": "⌚",
-      "color": "#14b8a6"
     },
     {
       "id": "chip",
@@ -139,13 +139,13 @@
       "id": "ithome",
       "name": "IT之家",
       "lang": "zh",
-      "count": 64
+      "count": 65
     },
     {
       "id": "cnbeta",
       "name": "cnBeta",
       "lang": "zh",
-      "count": 36
+      "count": 37
     },
     {
       "id": "engadget",
@@ -205,7 +205,7 @@
       "id": "wired",
       "name": "WIRED",
       "lang": "en",
-      "count": 8
+      "count": 9
     },
     {
       "id": "arstechnica",
@@ -227,6 +227,57 @@
     }
   ],
   "items": [
+    {
+      "id": "15llxjr9h7",
+      "title": "Fairphone 预告 TWS 耳机 Fairbuds 2，延续模块化可维修设计",
+      "link": "https://ithome.com/1/008/698.htm",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "",
+      "category": "ai-hardware",
+      "description": "IT之家 9 月 30 日消息，模块化消费电子硬件品牌 Fairphone 近日正式启动新款 TWS 耳机的预热。根据其向 The Verge 透露的消息，该产品就是 Fairphone (Gen. 6+) 新闻稿中提到的 Fairbuds 2 ，将于 10 月 14 日正式发布。 Fairbuds 2 将延续 Fairphone 产品一贯的维修友好设计， 由 7 个可完全更换的模块化部件组成 。其在 SBC、ACC 音频编解码器的基础上 还将支持 LDAC ，带来更为出色的聆听体验。 Fairbuds 2 将首先在欧洲上市，售价 119 欧元 （IT之家注：现汇率约合 906.4…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/4dfea270-280e-4cd9-81a6-2f4dc07b22d7.jpg",
+      "publishedAt": "2026-09-30T05:32:28.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1mo0pt719e",
+      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+      "link": "https://wired.com/gallery/best-laptop-docking-stations",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Luke Larsen",
+      "category": "pc",
+      "description": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+      "image": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png",
+      "publishedAt": "2026-09-30T05:30:53.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1ux3noyg79",
+      "title": "OpenAI推出500美元ChatGPT Pro套餐 并带来Codex与API升级",
+      "link": "https://cnbeta.com.tw/articles/tech/1580160.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "ai",
+      "description": "OpenAI在9月29日举行的DevDay 2026开发者大会上公布了一系列面向开发者、企业和高强度用户的新产品与功能，其中最受关注的变化之一，是推出每月500美元的ChatGPT Pro 500套餐。与此同时，原有每月200美元的Pro 200套餐使用额度将被下调，OpenAI还对Codex、Agents API以及API平台进行了大规模升级。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-30T05:30:41.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
     {
       "id": "1wksxen17x",
       "title": "微软发布Quine生物学“世界模型” AI有望将药物研发周期从数月缩短至数天",
@@ -534,23 +585,6 @@
       "sameSourceDupes": 0
     },
     {
-      "id": "1a14xxp1l6",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "link": "https://wired.com/story/lg-promo-code",
-      "sourceId": "wired",
-      "sourceName": "WIRED",
-      "sourceLang": "en",
-      "sourceGroup": "intl",
-      "author": "Harry Rabinowitz",
-      "category": "other",
-      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "publishedAt": "2026-09-30T05:00:00.000Z",
-      "day": "2026-09-30",
-      "duplicates": [],
-      "sameSourceDupes": 0
-    },
-    {
       "id": "smjnmdr7wl",
       "title": "30% Off Canon Promo Codes | October 2026",
       "link": "https://wired.com/story/canon-promo-code",
@@ -562,6 +596,23 @@
       "category": "other",
       "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
       "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "publishedAt": "2026-09-30T05:00:00.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1a14xxp1l6",
+      "title": "LG Promo Codes and Coupons for October 2026",
+      "link": "https://wired.com/story/lg-promo-code",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Harry Rabinowitz",
+      "category": "other",
+      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
       "publishedAt": "2026-09-30T05:00:00.000Z",
       "day": "2026-09-30",
       "duplicates": [],
