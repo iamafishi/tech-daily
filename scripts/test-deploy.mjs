@@ -56,6 +56,10 @@ check('配置了定时触发', Boolean(cronMatch), cronMatch?.[1] || '');
   check('定时时间落在北京时间清晨（0-9 点）', bjHour >= 0 && bjHour <= 9, `UTC ${hourUtc} 点 = 北京时间 ${bjHour} 点`);
 }
 check('支持手动触发', /workflow_dispatch:/.test(raw));
+check('手动触发提供 force_summary 布尔开关', /force_summary:/.test(raw) && /type:\s*boolean/.test(raw));
+check('force_summary 默认 false（避免定时任务误重算）', /force_summary:[\s\S]{0,200}?default:\s*false/.test(raw));
+check('force_summary 经 env 传递而非直接插值进脚本', /FORCE_SUMMARY:\s*\$\{\{\s*inputs\.force_summary\s*\}\}/.test(raw) && /"\$FORCE_SUMMARY"\s*=/.test(raw));
+check('开启开关时调用 build:summary', /npm run build:summary/.test(raw));
 check('声明 contents: write（需回写归档）', /contents:\s*write/.test(raw));
 check('声明 pages: write', /pages:\s*write/.test(raw));
 check('声明 id-token: write', /id-token:\s*write/.test(raw));
@@ -67,7 +71,7 @@ check('使用 ubuntu-latest', /runs-on:\s*ubuntu-latest/.test(raw));
 check('设置了任务超时', /timeout-minutes:/.test(raw));
 check('检出仓库使用 actions/checkout', /uses:\s*actions\/checkout@v4/.test(raw));
 check('固定 Node 主版本', /node-version:\s*'?(2[0-9]|1[89])'?/.test(raw), (raw.match(/node-version:\s*'?[\d.]+'?/) || [])[0] || '');
-check('执行构建脚本', /run:\s*npm run build/.test(raw));
+check('执行构建脚本（含强制重算分支）', /npm run build:summary/.test(raw) && /npm run build\b/.test(raw));
 check('构建后执行数据自检', /run:\s*npm run check/.test(raw));
 check('使用 configure-pages', /uses:\s*actions\/configure-pages@/.test(raw));
 check('使用 upload-pages-artifact', /uses:\s*actions\/upload-pages-artifact@/.test(raw));
@@ -102,6 +106,19 @@ console.log('\n— 密钥与降级 —');
 check('AI Key 从 secrets 注入', /AI_API_KEY:\s*\$\{\{\s*secrets\.AI_API_KEY\s*\}\}/.test(raw));
 check('API 地址与模型支持变量覆盖', /AI_BASE_URL:/.test(raw) && /AI_MODEL:/.test(raw));
 check('未配置 Key 时不会中断构建', !/secrets\.AI_API_KEY\s*\}\}\s*\|\|\s*exit/.test(raw));
+
+console.log('\n— 强制重算开关的取值语义 —');
+
+const buildSrc = await readFile(path.join(ROOT, 'scripts', 'build.mjs'), 'utf8');
+// 与 build.mjs 中同一条真值规则
+const truthy = (v) => /^(1|true|yes|on)$/i.test(String(v ?? '').trim());
+check('未设置 FORCE_SUMMARY 时为假', truthy(undefined) === false && truthy('') === false);
+check('字符串 "false" 为假（workflow_dispatch 未勾选时会传它）', truthy('false') === false);
+check('字符串 "true" 为真', truthy('true') === true);
+check('"FALSE" 大小写不敏感仍为假', truthy('FALSE') === false);
+check('"0" 为假', truthy('0') === false);
+check('build.mjs 使用真值判断而非存在性判断', /truthy\(process\.env\.FORCE_SUMMARY\)/.test(buildSrc));
+check('build.mjs 未用「环境变量存在即真」的写法', !/process\.env\.FORCE_SUMMARY\s*(\?|\|\||&&)/.test(buildSrc));
 
 console.log('\n— 忽略规则 —');
 const gitignore = await readFile(path.join(ROOT, '.gitignore'), 'utf8');

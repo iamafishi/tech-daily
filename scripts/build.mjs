@@ -32,7 +32,15 @@ const DATA_DIR = path.join(ROOT, 'data');
 const DAYS_DIR = path.join(DATA_DIR, 'days');
 
 const args = process.argv.slice(2);
-const FORCE_SUMMARY = args.includes('--with-summary');
+/**
+ * 强制重算所有日期的摘要。
+ *
+ * 必须用真值判断而不是「环境变量存在即真」：workflow_dispatch 的 boolean 未勾选时
+ * 传入的是字符串 "false"，定时触发时更可能是空字符串。若按存在性判断，
+ * 每天都会把所有归档的摘要重算一遍，白白消耗 token。
+ */
+const truthy = (v) => /^(1|true|yes|on)$/i.test(String(v ?? '').trim());
+const FORCE_SUMMARY = args.includes('--with-summary') || truthy(process.env.FORCE_SUMMARY);
 const ONLY = (args.find((a) => a.startsWith('--only=')) || '').split('=')[1];
 const ONLY_IDS = ONLY ? ONLY.split(',').map((s) => s.trim()).filter(Boolean) : null;
 
@@ -313,6 +321,11 @@ async function main() {
   } else {
     log('      AI 摘要未配置（未检测到 AI_API_KEY / DEEPSEEK_API_KEY / OPENAI_API_KEY），使用规则式要点');
   }
+  log(
+    FORCE_SUMMARY
+      ? '      摘要模式：强制重算全部归档日期'
+      : '      摘要模式：仅新增内容生成，已有摘要复用缓存（加 --with-summary 可强制重算）'
+  );
 
   log(`\n[5/6] 写入每日快照`);
   const dayIndexEntries = [];
