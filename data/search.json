@@ -1,8 +1,48 @@
 {
-  "generatedAt": "2026-09-30T05:17:41.265Z",
+  "generatedAt": "2026-09-30T05:24:47.708Z",
   "limit": 6000,
-  "total": 603,
+  "total": 608,
   "items": [
+    {
+      "id": "hg22qcq56c",
+      "t": "Windows 11 26H2 ISO镜像已发布 微软同时更新安装介质并延续小型启用包机制",
+      "u": "https://cnbeta.com.tw/articles/tech/1580152.htm",
+      "s": "cnBeta",
+      "c": "pc",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:22:56.000Z",
+      "x": "微软现已正式开放Windows 11 26H2的ISO镜像下载，用户可以直接通过微软官方渠道获取完整安装镜像，用于全新安装、系统重装、虚拟机部署以及现有Windows 11设备的就地升级。Windows 11 26H2是"
+    },
+    {
+      "id": "au58x5ug76",
+      "t": "新款宝马i3续航最高约468英里 2027年初上市起售价62850美元",
+      "u": "https://cnbeta.com.tw/articles/tech/1580150.htm",
+      "s": "cnBeta",
+      "c": "auto",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:19:32.000Z",
+      "x": "宝马公布了全新纯电四门轿车i3的更多信息。基于Neue Klasse平台打造的2027款i3 50 xDrive预计续航最高约468英里，按美国环保署测试标准估算；车型将在2027年第一季度于美国上市，售价为61500美"
+    },
+    {
+      "id": "1llqgwze5i",
+      "t": "妙瓦底电诈园区死灰复燃 疑似新据点卫星云图曝光",
+      "u": "https://cnbeta.com.tw/articles/tech/1580148.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:18:47.000Z",
+      "x": "去年曾被中国与缅甸联手扫荡捣毁、受害者大多为中国民众的缅甸妙瓦底电诈园区，今年以来有死灰复燃之势，不但陆续重建园区且已部分完工，电诈集团还通过社交媒体平台公开招募成员。缅甸政府于今年1月10日宣布，截至1月9日，妙瓦底K"
+    },
+    {
+      "id": "2ymr1u1tgc",
+      "t": "戴森 AI 电动牙刷 CamaraJet 一度“下架”，官方承认早期批次产品存在渗水故障",
+      "u": "https://ithome.com/1/008/697.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:17:54.000Z",
+      "x": "IT之家 9 月 30 日消息，据彭博社今天（30 日）报道，戴森确认，新推出的 CameraJet 可视成像牙刷早期一个批次因渗水发生故障。 这也是戴森首次说明 CameraJet 为何一度从零售渠道消失 。Camer"
+    },
     {
       "id": "1shw0f4lae",
       "t": "抖音终止收购联动优势，标的支付牌照此前已被中止续展",
@@ -22,6 +62,16 @@
       "d": "2026-09-30",
       "p": "2026-09-30T05:16:20.000Z",
       "x": "随着人工智能企业Anthropic推进首次公开募股（IPO）计划，一份最新披露的文件揭示了其与SpaceX之间规模惊人的合作协议。根据路透社查阅的相关文件，Anthropic已签署价值最高达845亿美元的算力采购协议，未"
+    },
+    {
+      "id": "mxnd17xpvs",
+      "t": "Apple Pay is now available in India",
+      "u": "https://gsmarena.com/apple_pay_is_now_available_in_india-news-74830.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:15:02.000Z",
+      "x": "来源：GSMArena — Apple Pay is now available in India"
     },
     {
       "id": "1qxwqbsygu",
@@ -114,16 +164,6 @@
       "x": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts "
     },
     {
-      "id": "smjnmdr7wl",
-      "t": "30% Off Canon Promo Codes | October 2026",
-      "u": "https://wired.com/story/canon-promo-code",
-      "s": "WIRED",
-      "c": "other",
-      "d": "2026-09-30",
-      "p": "2026-09-30T05:00:00.000Z",
-      "x": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this Octobe"
-    },
-    {
       "id": "1a14xxp1l6",
       "t": "LG Promo Codes and Coupons for October 2026",
       "u": "https://wired.com/story/lg-promo-code",
@@ -132,6 +172,16 @@
       "d": "2026-09-30",
       "p": "2026-09-30T05:00:00.000Z",
       "x": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors."
+    },
+    {
+      "id": "smjnmdr7wl",
+      "t": "30% Off Canon Promo Codes | October 2026",
+      "u": "https://wired.com/story/canon-promo-code",
+      "s": "WIRED",
+      "c": "other",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:00:00.000Z",
+      "x": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this Octobe"
     },
     {
       "id": "1tbhe1e1bw",

@@ -1,74 +1,71 @@
 {
   "date": "2026-09-30",
   "label": "9月30日 周三",
-  "generatedAt": "2026-09-30T05:17:41.136Z",
-  "itemCount": 244,
+  "generatedAt": "2026-09-30T05:24:39.751Z",
+  "itemCount": 249,
   "summary": {
-    "overview": "2026-09-30（9月30日 周三）共聚合 223 条科技数码动态，来自 15 个信息源，主要集中在AI 人工智能、其他动态、手机数码等方向。（当前为规则式要点；在仓库中配置 AI_API_KEY 后将自动生成 AI 综述。）",
+    "overview": "9月30日科技圈动态密集。微软正式发布Windows 11 26H2年度更新并开放ISO下载，同时确认后续版本将放弃对骁龙850的支持。AI领域动作频频：OpenAI在开发者日推出智能体产品Dots与Codex游戏插件，但CEO奥尔特曼明确表示在确保AI安全前不会推进IPO；Anthropic被曝与SpaceX签署最高845亿美元算力采购协议；特朗普签署行政令要求联邦政府以“超级智能（SI）”取代“人工智能（AI）”表述。消费电子方面，苹果Apple Pay正式登陆印度，CounterPoint预计iPhone 18 Pro系列中国首周销量同比增长12%，首款折叠屏iPhone Duo今年预计售出600万部。此外，宝马公布2027款i3续航约468英里，比亚迪、华为、小米等厂商亦有新品与战略消息释出。",
     "highlights": [
       {
         "label": "AI 人工智能",
         "emoji": "🤖",
         "texts": [
-          "Meta Muse 爆火，美银警示 AI 智能体或冲击苹果服务业务收入",
-          "“美国散户大本营”Robinhood 推出 AI 智能体工具，可自动替用户盯盘交易"
-        ]
-      },
-      {
-        "label": "其他动态",
-        "emoji": "📰",
-        "texts": [
-          "Apple Pay finally launches in India after years on the sidelines",
-          "Huawei Mate 90 series key specs leaked ahead of launch"
-        ]
-      },
-      {
-        "label": "手机数码",
-        "emoji": "📱",
-        "texts": [
-          "vivo V80 price in India leaks along with full specs",
-          "Google gives the Pixel 11 Pro’s HiLight LED a much-needed feature"
-        ]
-      },
-      {
-        "label": "智能硬件",
-        "emoji": "⌚",
-        "texts": [
-          "雷蛇进一步扩展三丽鸥联名产品线，带来布丁狗、酷洛米主题耳机",
-          "国家发改委：2500 亿元消费品以旧换新资金全部下达，今年 1-8 月相关商品销售额达 1.55 万亿元"
+          "OpenAI在开发者日推出AI智能体产品Dots，并联合ModRetro为Codex推出Game Studio插件，可用自然语言制作Game Boy风格游戏。",
+          "Anthropic被曝与SpaceX签署价值最高达845亿美元的算力采购协议，将向后者数据中心支付AI计算费用。",
+          "特朗普签署行政令，要求美国联邦政府在所有官方沟通中以“超级智能（SI）”取代“人工智能（AI）”一词，并推出政府对话式问答网站。"
         ]
       },
       {
         "label": "电脑办公",
         "emoji": "💻",
         "texts": [
-          "温馨棕色调：Keychron 带来 K8 HE 磁轴键盘全木特别版，199.99 美元",
-          "止步 26H2：Windows 11 下一个主要版本将放弃支持高通骁龙 850 处理器"
+          "微软正式开放Windows 11 26H2 ISO镜像下载，支持全新安装、系统重装及就地升级，并延续小型启用包机制。",
+          "微软确认Windows 11 26H2之后的下一个主要版本将不再支持基于高通骁龙850处理器的设备。",
+          "Chromium 154版本导致部分KDE桌面环境频繁崩溃，目前已有修复方案。"
         ]
       },
       {
-        "label": "互联网商业",
-        "emoji": "🌐",
+        "label": "手机数码",
+        "emoji": "📱",
         "texts": [
-          "全新一代极星 2 明年上市，高管放言“必须击败宝马 i3”",
-          "豆包宣布支持出行服务：覆盖订机票、火车票以及打车导航"
+          "苹果Apple Pay正式登陆印度市场，首家合作银行为Axis银行，初期仅支持一家银行。",
+          "CounterPoint报告称iPhone 18 Pro系列在中国首周销量同比增长12%，推动苹果以33%份额跃居第38周销冠。",
+          "Counterpoint预计苹果首款折叠屏手机iPhone Duo今年将售出约600万部。"
+        ]
+      },
+      {
+        "label": "芯片硬件",
+        "emoji": "🔧",
+        "texts": [
+          "英特尔一项专利提出将微型LED直接集成到CPU封装中，可通过玻璃通孔输送电力与信号，点亮芯片表面文字。",
+          "豪威发布常开型视觉AI协处理器OAX7700，基于其构建的停车监控系统仅需市面现有方案3%的功耗。",
+          "消息称AMD霄龙9006系列服务器CPU的2027年产量已售罄，预估出货675万颗，已开始接收2028年订单。"
+        ]
+      },
+      {
+        "label": "汽车出行",
+        "emoji": "🚗",
+        "texts": [
+          "宝马公布2027款i3 50 xDrive更多信息，基于Neue Klasse平台，续航最高约468英里，起售价62850美元，2027年一季度美国上市。",
+          "比亚迪在临时股东会上表示仰望品牌后续将在海外举办发布会，并称腾势Z海外首发证明策略正确。",
+          "极星高管称2027年上市的全新一代极星2“必须击败宝马i3”，将应用极星5的主动减振器与转向系统经验。"
         ]
       }
     ],
-    "mode": "heuristic",
-    "generatedAt": "2026-09-30T04:44:30.923Z"
+    "mode": "ai",
+    "generatedAt": "2026-09-30T05:24:39.751Z"
   },
   "categoryStats": [
     {
       "id": "ai",
-      "count": 76,
+      "count": 77,
       "label": "AI 人工智能",
       "emoji": "🤖",
       "color": "#8b5cf6"
     },
     {
       "id": "other",
-      "count": 52,
+      "count": 53,
       "label": "其他动态",
       "emoji": "📰",
       "color": "#64748b"
@@ -81,18 +78,18 @@
       "color": "#3b82f6"
     },
     {
+      "id": "pc",
+      "count": 15,
+      "label": "电脑办公",
+      "emoji": "💻",
+      "color": "#06b6d4"
+    },
+    {
       "id": "web",
       "count": 15,
       "label": "互联网商业",
       "emoji": "🌐",
       "color": "#f97316"
-    },
-    {
-      "id": "pc",
-      "count": 14,
-      "label": "电脑办公",
-      "emoji": "💻",
-      "color": "#06b6d4"
     },
     {
       "id": "game",
@@ -117,7 +114,7 @@
     },
     {
       "id": "auto",
-      "count": 8,
+      "count": 9,
       "label": "汽车出行",
       "emoji": "🚗",
       "color": "#22c55e"
@@ -131,7 +128,7 @@
     },
     {
       "id": "science",
-      "count": 2,
+      "count": 3,
       "label": "前沿科学",
       "emoji": "🔬",
       "color": "#0ea5e9"
@@ -142,13 +139,13 @@
       "id": "ithome",
       "name": "IT之家",
       "lang": "zh",
-      "count": 63
+      "count": 64
     },
     {
       "id": "cnbeta",
       "name": "cnBeta",
       "lang": "zh",
-      "count": 30
+      "count": 33
     },
     {
       "id": "engadget",
@@ -193,16 +190,16 @@
       "count": 11
     },
     {
-      "id": "theverge",
-      "name": "The Verge",
+      "id": "gsmarena",
+      "name": "GSMArena",
       "lang": "en",
       "count": 10
     },
     {
-      "id": "gsmarena",
-      "name": "GSMArena",
+      "id": "theverge",
+      "name": "The Verge",
       "lang": "en",
-      "count": 9
+      "count": 10
     },
     {
       "id": "wired",
@@ -230,6 +227,74 @@
     }
   ],
   "items": [
+    {
+      "id": "hg22qcq56c",
+      "title": "Windows 11 26H2 ISO镜像已发布 微软同时更新安装介质并延续小型启用包机制",
+      "link": "https://cnbeta.com.tw/articles/tech/1580152.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "pc",
+      "description": "微软现已正式开放Windows 11 26H2的ISO镜像下载，用户可以直接通过微软官方渠道获取完整安装镜像，用于全新安装、系统重装、虚拟机部署以及现有Windows 11设备的就地升级。Windows 11 26H2是微软面向2026年下半年推出的年度版本更新，其中“26H2”代表2026年下半年发布的版本。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-30T05:22:56.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "au58x5ug76",
+      "title": "新款宝马i3续航最高约468英里 2027年初上市起售价62850美元",
+      "link": "https://cnbeta.com.tw/articles/tech/1580150.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "auto",
+      "description": "宝马公布了全新纯电四门轿车i3的更多信息。基于Neue Klasse平台打造的2027款i3 50 xDrive预计续航最高约468英里，按美国环保署测试标准估算；车型将在2027年第一季度于美国上市，售价为61500美元，另加1350美元目的地费用，合计62850美元，定位与奔驰C级车型竞争。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-30T05:19:32.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1llqgwze5i",
+      "title": "妙瓦底电诈园区死灰复燃 疑似新据点卫星云图曝光",
+      "link": "https://cnbeta.com.tw/articles/tech/1580148.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "science",
+      "description": "去年曾被中国与缅甸联手扫荡捣毁、受害者大多为中国民众的缅甸妙瓦底电诈园区，今年以来有死灰复燃之势，不但陆续重建园区且已部分完工，电诈集团还通过社交媒体平台公开招募成员。缅甸政府于今年1月10日宣布，截至1月9日，妙瓦底KK园区所有用于网络诈骗与赌博活动的违章建筑已全面拆除，总计拆除635栋非法建筑。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-30T05:18:47.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "2ymr1u1tgc",
+      "title": "戴森 AI 电动牙刷 CamaraJet 一度“下架”，官方承认早期批次产品存在渗水故障",
+      "link": "https://ithome.com/1/008/697.htm",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "",
+      "category": "ai",
+      "description": "IT之家 9 月 30 日消息，据彭博社今天（30 日）报道，戴森确认，新推出的 CameraJet 可视成像牙刷早期一个批次因渗水发生故障。 这也是戴森首次说明 CameraJet 为何一度从零售渠道消失 。CameraJet 售价 499 美元 （IT之家注：现汇率约合 3,352 元人民币） ，通过 AI 和内置摄像头实时提供刷牙反馈。名称中的“Jet”来自牙刷喷出的漱口水水流，水流会对准牙菌斑，起到类似牙线的清洁作用。上市后不久，陆续有消费者在社交媒体上反映产品故障，有些牙刷甚至使用几分钟便突然停止工作。 戴森提供的声明称，一个批次的喷射管在生产环节出现问题，存在渗水风险…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f7ed476a-36f2-45d4-96a2-e0ef7f53c314.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-09-30T05:17:54.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
     {
       "id": "1shw0f4lae",
       "title": "抖音终止收购联动优势，标的支付牌照此前已被中止续展",
@@ -260,6 +325,23 @@
       "description": "随着人工智能企业Anthropic推进首次公开募股（IPO）计划，一份最新披露的文件揭示了其与SpaceX之间规模惊人的合作协议。根据路透社查阅的相关文件，Anthropic已签署价值最高达845亿美元的算力采购协议，未来将向SpaceX支付巨额费用，以获取其数据中心提供的AI计算能力。 阅读全文",
       "image": null,
       "publishedAt": "2026-09-30T05:16:20.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "mxnd17xpvs",
+      "title": "Apple Pay is now available in India",
+      "link": "https://gsmarena.com/apple_pay_is_now_available_in_india-news-74830.php",
+      "sourceId": "gsmarena",
+      "sourceName": "GSMArena",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "",
+      "category": "other",
+      "description": "来源：GSMArena — Apple Pay is now available in India",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-pay-india-launch/-184x111/gsmarena_00.jpg",
+      "publishedAt": "2026-09-30T05:15:02.000Z",
       "day": "2026-09-30",
       "duplicates": [],
       "sameSourceDupes": 0
@@ -401,23 +483,6 @@
       "sameSourceDupes": 0
     },
     {
-      "id": "1a14xxp1l6",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "link": "https://wired.com/story/lg-promo-code",
-      "sourceId": "wired",
-      "sourceName": "WIRED",
-      "sourceLang": "en",
-      "sourceGroup": "intl",
-      "author": "Harry Rabinowitz",
-      "category": "other",
-      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "publishedAt": "2026-09-30T05:00:00.000Z",
-      "day": "2026-09-30",
-      "duplicates": [],
-      "sameSourceDupes": 0
-    },
-    {
       "id": "smjnmdr7wl",
       "title": "30% Off Canon Promo Codes | October 2026",
       "link": "https://wired.com/story/canon-promo-code",
@@ -429,6 +494,23 @@
       "category": "other",
       "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
       "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "publishedAt": "2026-09-30T05:00:00.000Z",
+      "day": "2026-09-30",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1a14xxp1l6",
+      "title": "LG Promo Codes and Coupons for October 2026",
+      "link": "https://wired.com/story/lg-promo-code",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Harry Rabinowitz",
+      "category": "other",
+      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
       "publishedAt": "2026-09-30T05:00:00.000Z",
       "day": "2026-09-30",
       "duplicates": [],

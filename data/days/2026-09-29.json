@@ -1,62 +1,57 @@
 {
   "date": "2026-09-29",
   "label": "9月29日 周二",
-  "generatedAt": "2026-09-30T05:17:41.158Z",
+  "generatedAt": "2026-09-30T05:24:43.570Z",
   "itemCount": 234,
   "summary": {
-    "overview": "2026-09-29（9月29日 周二）共聚合 234 条科技数码动态，来自 13 个信息源，主要集中在其他动态、手机数码、AI 人工智能等方向。（当前为规则式要点；在仓库中配置 AI_API_KEY 后将自动生成 AI 综述。）",
+    "overview": "今日科技圈围绕苹果新CEO约翰·特努斯的重组计划展开：他拟加快新品发布节奏、收紧预算并小规模裁员，同时首款折叠屏iPhone Duo因组装良率仅略高于60%面临量产困难。AI领域，OpenAI年度经常性收入据称逼近700亿美元，但其GPT-6.1因安全测试问题取消发布，ChatGPT Pro订阅将于9月30日恢复；Anthropic在IPO文件中警告技术可能带来人类生存风险。安全方面，Deepfake语音诈骗致意大利银行高管损失逾1亿美元，香港警方接获1503宗iPhone 18 Pro可疑信用卡交易报告。此外，星舰第14次试飞再现发动机故障，可能影响NASA登月进度。",
     "highlights": [
       {
-        "label": "其他动态",
-        "emoji": "📰",
+        "label": "苹果动态",
+        "emoji": "🍎",
         "texts": [
-          "阿拉斯加航空大规模改造高端客舱 角逐高端旅行市场",
-          "John Ternus has big plans to make Apple ‘leaner’ and release more products"
-        ]
-      },
-      {
-        "label": "手机数码",
-        "emoji": "📱",
-        "texts": [
-          "Samsung’s SmartThings redesign is finally here, and Galaxy users don’t get first dibs",
-          "苹果新CEO拟加快公司新品发布节奏 同时收紧预算并重组研发团队"
+          "苹果新CEO约翰·特努斯计划重组公司，让新品在全年陆续发布而非集中于秋季，同时收紧预算并进行小规模裁员。",
+          "首款折叠屏iPhone Duo据报在10月上市前遭遇生产困难，截至9月17日最终组装良率仅略高于60%，初期供应可能有限。",
+          "苹果支持文档出现“第三代及更新机型”字样，暗示新款Apple TV 4K发布临近。"
         ]
       },
       {
         "label": "AI 人工智能",
         "emoji": "🤖",
         "texts": [
-          "消息人士：OpenAI年度经常性收入接近700亿美元",
-          "特朗普政府推出AI政府门户网站America.gov 试图用AI简化联邦服务"
+          "消息人士称OpenAI年度经常性收入接近700亿美元，自7月以来企业端销售额增长超一倍。",
+          "OpenAI因安全测试问题取消GPT-6.1的发布计划，同时将于9月30日恢复200美元ChatGPT Pro订阅。",
+          "Anthropic在IPO文件中警告其技术可能对人类构成生存风险，并规定客户用完合同Token额度后取消折扣。"
         ]
       },
       {
-        "label": "芯片硬件",
-        "emoji": "🔧",
+        "label": "安全隐私",
+        "emoji": "🔒",
         "texts": [
-          "New Apple TV 4K Hinted at in Support Document",
-          "美光台工厂工会准备罢工"
-        ]
-      },
-      {
-        "label": "电脑办公",
-        "emoji": "💻",
-        "texts": [
-          "Deals: M5 MacBook Air, MacBook Pro $500 off, Mac Studio, accessories from $20 or less, more",
-          "微软高管回应Surface产品线放弃AMD处理器：产品阵容规模受限需审慎抉择"
+          "意大利最大银行Intesa Sanpaolo旗下Fideuram总裁因Deepfake语音和WhatsApp假信息诈骗，导致逾1亿美元被骗走。",
+          "香港警方报告1503宗iPhone 18 Pro可疑信用卡交易，涉款逾3000万港元，所有相关交易均已取消。",
+          "伦敦车站人脸识别试点六个月扫描超50万张人脸，仅发出一次错误告警，未促成任何逮捕。"
         ]
       },
       {
         "label": "前沿科学",
-        "emoji": "🔬",
+        "emoji": "🚀",
         "texts": [
-          "星舰发动机再现故障 对NASA登月影响几何？",
-          "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not"
+          "SpaceX星舰第14次无人试飞中险些因发动机故障未能完成下一代飞船首次入轨，可能导致NASA难以按期实现宇航员登月。",
+          "研究显示月球背面埋藏的古老火山结构，可能为月球曾拥有全球磁场提供迄今最有力证据。"
+        ]
+      },
+      {
+        "label": "芯片硬件",
+        "emoji": "💻",
+        "texts": [
+          "美光台湾桃园工会决定自10月1日起进行为期一周的罢工投票，工会人数2100人占全厂七成。",
+          "树莓派推出30美元智能显示模块，可将Compute Module 5安装到兼容英特尔SDM标准的商用显示器或投影机中。"
         ]
       }
     ],
-    "mode": "heuristic",
-    "generatedAt": "2026-09-30T04:44:30.926Z"
+    "mode": "ai",
+    "generatedAt": "2026-09-30T05:24:43.570Z"
   },
   "categoryStats": [
     {
