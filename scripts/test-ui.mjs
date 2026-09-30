@@ -449,6 +449,10 @@ const localStorage = {
   removeItem: (k) => storage.delete(k),
   clear: () => storage.clear(),
 };
+// 折叠状态是跨会话持久化的，测试必须从干净状态开始，
+// 否则上一次运行写入的分类 id 会残留、让当前日期的分组看起来是折叠的。
+// 「已读」状态也一并清空，保证卡片初始不带 is-read。
+localStorage.clear();
 
 const location = {
   href: 'http://localhost/tech-daily/',
@@ -597,6 +601,9 @@ const q1 = (sel) => documentRoot.querySelector(sel);
 const text = (sel) => q1(sel)?.textContent?.trim() ?? '';
 const count = (sel) => q(sel).length;
 
+/** 统计真正可见的卡片：折叠的分组内容区带 hidden，其中的卡片不应计入 */
+const visibleCards = () => q('.card').filter((c) => !c.closest('[hidden]'));
+
 const index = JSON.parse(await readFile(path.join(ROOT, 'data', 'index.json'), 'utf8'));
 const latest = index.days[0];
 const latestDay = JSON.parse(await readFile(path.join(ROOT, 'data', 'days', `${latest.date}.json`), 'utf8'));
@@ -628,7 +635,12 @@ check('摘要卡片可见', digestHidden === false);
 check('摘要正文非空', text('.digest-overview').length > 20, text('.digest-overview').slice(0, 50) + '…');
 check('摘要包含要点区块', count('.digest-block') >= 1, `${count('.digest-block')} 个区块`);
 check('摘要标注生成方式', /AI 生成|规则式要点/.test(text('#digest .badge')), text('#digest .badge'));
-check('未配置 AI 时给出提示', /AI_API_KEY/.test(text('#digest')), '');
+// 规则式要点时会提示如何升级为 AI 综述；AI 模式下不应出现该提示
+if (text('#digest .badge') === '规则式要点') {
+  check('未配置 AI 时给出升级提示', /AI_API_KEY/.test(text('#digest')));
+} else {
+  check('AI 模式下不显示升级提示', !/AI_API_KEY/.test(text('#digest')));
+}
 
 check('日期标题渲染', text('#day-title').length > 3, text('#day-title'));
 check('日期元信息含条数', /条/.test(text('#day-meta')), text('#day-meta'));
@@ -772,6 +784,88 @@ check('历史日期有独立摘要', q1('#digest').hidden === false);
 check('历史标签激活', q1('#tab-archived').classList.contains('is-active') && q1('#tab-archived').hidden === false);
 check('URL 记录历史日期', historyCalls.some((u) => String(u).includes(`d=${otherDate}`)), historyCalls.at(-1) || '');
 check('日历高亮跟随切换', q('.cal-cell.is-selected')[0]?.getAttribute('title')?.startsWith(otherDate));
+
+console.log('\n— 分类折叠 / 展开 —');
+
+const catHeads = () => q('.group-head.is-collapsible');
+check('每个分类分组都有折叠控件', catHeads().length === index.categories.filter((c) => q('.group-head h2').some((h) => h.textContent === c.label)).length, `${catHeads().length} 个可折叠分组`);
+check('「全部动态」不可折叠', q('.group-head--plain').length === 1 && !q('.group-head--plain')[0].classList.contains('is-collapsible'));
+check('折叠控件带图标', q('.g-toggle').length === catHeads().length, `${q('.g-toggle').length} 个箭头`);
+check('初始状态全部展开', catHeads().every((hd) => hd.getAttribute('aria-expanded') === 'true'));
+
+const firstHead = catHeads()[0];
+const firstBodyId = firstHead.getAttribute('aria-controls');
+const firstBody = q1(`#${firstBodyId}`);
+const firstCatCount = Number(firstHead.querySelector('.g-count').textContent.replace(/\D/g, ''));
+check('aria-controls 指向对应内容区', Boolean(firstBody), `#${firstBodyId}`);
+check('内容区条目数与该分类一致', firstBody.querySelectorAll('.card').length === firstCatCount, `${firstBody.querySelectorAll('.card').length} / ${firstCatCount}`);
+
+const totalCardsBefore = visibleCards().length;
+firstHead.click();
+await sleep(60);
+
+check('点击分类标题即折叠', q1(`#${firstBodyId}`).hidden === true || q1(`#${firstBodyId}`).classList.contains('is-collapsed'));
+check('折叠后该内容区不可见（hidden 属性）', q1(`#${firstBodyId}`).hidden === true);
+check('折叠后 aria-expanded=false', catHeads()[0].getAttribute('aria-expanded') === 'false');
+check('折叠后标题标记为已收起', catHeads()[0].classList.contains('is-collapsed'));
+check('折叠后可见卡片数减少', visibleCards().length === totalCardsBefore - firstCatCount, `${visibleCards().length} / 期望 ${totalCardsBefore - firstCatCount}`);
+check('折叠状态写入 localStorage', (localStorage.getItem('techdaily:collapsed') || '').includes(catHeads()[0].getAttribute('id').replace('cat-head-', '')));
+check('工具栏提示已折叠条数', /已折叠/.test(text('#feed-summary')), text('#feed-summary'));
+
+// 再次点击展开
+catHeads()[0].click();
+await sleep(60);
+check('再次点击恢复展开', q1(`#${firstBodyId}`).hidden === false && catHeads()[0].getAttribute('aria-expanded') === 'true');
+check('展开后可见卡片数恢复', visibleCards().length === totalCardsBefore, `${visibleCards().length}`);
+check('展开后清除 localStorage 中的折叠记录', !(localStorage.getItem('techdaily:collapsed') || '').includes('"other"'));
+
+// 键盘操作
+const kbHead = catHeads()[1];
+const kbBodyId = kbHead.getAttribute('aria-controls');
+const kbEvent = new DomEvent('keydown', { bubbles: true });
+kbEvent.key = 'Enter';
+kbHead.dispatchEvent(kbEvent);
+await sleep(60);
+check('键盘 Enter 可折叠', q1(`#${kbBodyId}`).hidden === true && catHeads()[1].getAttribute('aria-expanded') === 'false');
+
+// 全部收起 / 全部展开
+const toggleAll = q1('#btn-toggle-all');
+check('存在「全部收起」按钮', toggleAll && toggleAll.hidden === false, text('#btn-toggle-all'));
+toggleAll.click();
+await sleep(80);
+check('全部收起后所有分组均折叠', catHeads().every((hd) => hd.getAttribute('aria-expanded') === 'false'));
+check('全部收起后按钮变为「全部展开」', text('#btn-toggle-all') === '全部展开', text('#btn-toggle-all'));
+check('全部收起后无可见卡片', visibleCards().length === 0, `${visibleCards().length} 张`);
+
+toggleAll.click();
+await sleep(80);
+check('全部展开后恢复所有卡片', visibleCards().length === totalCardsBefore, `${visibleCards().length} / ${totalCardsBefore}`);
+check('全部展开后按钮变为「全部收起」', text('#btn-toggle-all') === '全部收起', text('#btn-toggle-all'));
+
+// 折叠状态跨渲染保持：切到历史再切回来
+const keepId = catHeads()[0].getAttribute('id').replace('cat-head-', '');
+catHeads()[0].click();
+await sleep(60);
+check('折叠后进入历史日期', true, keepId);
+const otherCell2 = q('.cal-cell.has-data').find((c) => !c.classList.contains('is-selected'));
+otherCell2.click();
+await sleep(500);
+q1('#btn-latest').click();
+await sleep(500);
+check('切换日期后折叠状态仍保留', q1(`#cat-body-${keepId}`)?.hidden === true, `#cat-body-${keepId}`);
+
+// 搜索结果下隐藏折叠控件
+searchInput.value = 'AI';
+searchInput.dispatchEvent(new DomEvent('input', { bubbles: true }));
+await sleep(450);
+check('搜索模式下隐藏折叠控件', q1('#btn-toggle-all').hidden === true);
+check('搜索模式下无分类标题', q('.group-head.is-collapsible').length === 0);
+q1('#search-clear').click();
+await sleep(450);
+// 复原：全部展开，避免影响后续断言
+q1('#btn-toggle-all').click();
+await sleep(80);
+if (text('#btn-toggle-all') === '全部展开') { q1('#btn-toggle-all').click(); await sleep(80); }
 
 console.log('\n— 加载更早 / 回到最新 —');
 

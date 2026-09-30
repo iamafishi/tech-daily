@@ -42,6 +42,10 @@ html[data-theme='light'] {
 
 * { box-sizing: border-box; }
 
+/* hidden 属性必须能压过 .cards / .feed-toolbar 等 display:flex，
+   否则「收起」后内容依然可见（HTML 规范的 hidden 是 display:none，但会被显式 display 覆盖） */
+[hidden] { display: none !important; }
+
 html { scroll-behavior: smooth; }
 
 body {
@@ -299,20 +303,88 @@ button { font: inherit; color: inherit; }
 }
 .active-filters .clear-all { margin-left: auto; }
 
+/* ───────────────────────── 列表工具栏 ───────────────────────── */
+
+.feed-toolbar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; margin: 0 4px 10px; min-height: 20px;
+}
+.feed-summary {
+  font-size: 12px; color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+}
+#btn-toggle-all { font-size: 12.5px; }
+
 /* ───────────────────────── 列表 ───────────────────────── */
 
-.feed { display: flex; flex-direction: column; gap: 20px; }
+/* 间距靠子元素外边距控制，不用 flex gap：
+   否则标题与它自己的卡片之间的间距会等于「上一组」到「这一组」的间距，分组感会糊掉 */
+.feed { display: flex; flex-direction: column; }
 
 .group-head {
   display: flex; align-items: center; gap: 10px;
-  margin: 4px 0 -6px; padding-bottom: 8px;
+  margin: 0 0 10px; padding-bottom: 8px;
   border-bottom: 1px solid var(--border-soft);
 }
+
+/* 「全部动态」总览标题：与下方第一个分类拉开距离，且不可折叠 */
+.group-head--plain { margin: 2px 0 18px; }
+
+/* 可折叠的分类标题：整条可点，键盘也能操作 */
+.group-head.is-collapsible {
+  cursor: pointer;
+  margin-top: 18px;
+  padding: 7px 9px 7px 7px;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  transition: background 0.14s, border-color 0.14s;
+  user-select: none;
+}
+.group-head.is-collapsible:hover {
+  background: var(--bg-elev);
+  border-color: var(--border-soft);
+}
+.group-head.is-collapsible:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
 .group-head .g-emoji { font-size: 15px; }
 .group-head h2 { margin: 0; font-size: 14px; letter-spacing: 0.3px; }
 .group-head .g-count { font-size: 11.5px; color: var(--text-faint); }
 
+/* 折叠箭头：靠右，展开时朝下、收起时朝右 */
+.g-toggle {
+  margin-left: auto;
+  font-size: 12px; line-height: 1;
+  color: var(--text-faint);
+  transition: transform 0.18s ease, color 0.14s;
+  transform: rotate(0deg);
+}
+.group-head.is-collapsible:hover .g-toggle { color: var(--accent-text); }
+.group-head.is-collapsed .g-toggle { transform: rotate(-90deg); }
+
+/* 收起时弱化标题，让「已折叠」一眼可见 */
+.group-head.is-collapsed h2 { color: var(--text-dim); }
+.group-head.is-collapsed .g-count::after { content: ' · 已收起'; opacity: 0.75; }
+
 .cards { display: flex; flex-direction: column; gap: 9px; }
+
+/* 折叠动画：卡片列表整体收放，并淡化 */
+.cards--collapsible {
+  transform-origin: top center;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+.cards--collapsible.is-collapsed {
+  opacity: 0;
+  transform: translateY(-4px) scaleY(0.97);
+}
+
+/* 尊重系统的「减少动态效果」设置 */
+@media (prefers-reduced-motion: reduce) {
+  .cards--collapsible { transition: none; }
+  .g-toggle { transition: none; }
+}
 
 .card {
   position: relative;

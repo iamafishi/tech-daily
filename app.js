@@ -11,7 +11,7 @@ const SEARCH_URL = './data/search.json';
 const SEARCH_RESULT_LIMIT = 240;
 const READ_KEY = 'techdaily:read';
 const THEME_KEY = 'techdaily:theme';
-const CAT_EXPAND_KEY = 'techdaily:cat-expand';
+const COLLAPSED_KEY = 'techdaily:collapsed';
 
 /* ───────────────────────── 全局状态 ───────────────────────── */
 
@@ -65,6 +65,8 @@ const dom = {
   btnLatest: el('btn-latest'),
   btnRandom: el('btn-random'),
   btnExport: el('btn-export'),
+  toggleAll: el('btn-toggle-all'),
+  feedSummary: el('feed-summary'),
   toast: el('toast'),
 };
 
@@ -151,6 +153,41 @@ try {
 } catch {
   readSet = new Set();
 }
+
+/* ───────────────────────── 分类折叠状态 ───────────────────────── */
+
+const collapsedCats = new Set();
+let collapsedLoaded = false;
+
+function loadCollapsed() {
+  if (collapsedLoaded) return;
+  collapsedLoaded = true;
+  try {
+    const raw = localStorage.getItem(COLLAPSED_KEY);
+    if (raw) for (const id of JSON.parse(raw)) collapsedCats.add(id);
+  } catch { /* 忽略损坏的数据 */ }
+}
+
+function persistCollapsed() {
+  try {
+    localStorage.setItem(COLLAPSED_KEY, JSON.stringify([...collapsedCats]));
+  } catch { /* 忽略 */ }
+}
+
+function setCategoryCollapsed(categoryId, collapsed, { persist = true } = {}) {
+  if (collapsed) collapsedCats.add(categoryId);
+  else collapsedCats.delete(categoryId);
+  if (persist) persistCollapsed();
+}
+
+/** 一次性设置多个分类（供「全部收起 / 全部展开」使用），只写一次存储 */
+function setManyCollapsed(ids, collapsed) {
+  for (const id of ids) setCategoryCollapsed(id, collapsed, { persist: false });
+  persistCollapsed();
+}
+
+/** 切换后需要整体重绘，因此把「哪些分类在本次渲染中可见」记下来 */
+let renderedCategoryIds = [];
 
 /* ───────────────────────── 主题 ───────────────────────── */
 
@@ -557,7 +594,7 @@ function renderFeed() {
 
   const nodes = [];
   nodes.push(
-    h('div', { class: 'group-head' }, [
+    h('div', { class: 'group-head group-head--plain' }, [
       h('span', { class: 'g-emoji', text: '📋' }),
       h('h2', { text: '全部动态' }),
       h('span', { class: 'g-count', text: `${items.length} / ${day.items.length} 条` }),
@@ -566,22 +603,99 @@ function renderFeed() {
 
   const groups = groupItems(items, 'category');
   const order = state.index.categories.map((c) => c.id).filter((id) => groups.has(id));
+  // 供 collectVisibleCategoryIds / 全部收起展开 使用
+  renderedCategoryIds = order;
 
   for (const catId of order) {
     const cat = state.categoryById.get(catId) || { label: catId, emoji: '📰', color: '#64748b' };
     const list = groups.get(catId);
-    nodes.push(
-      h('div', { class: 'group-head' }, [
-        h('span', { class: 'g-emoji', text: cat.emoji }),
-        h('h2', { text: cat.label }),
-        h('span', { class: 'g-count', text: `${list.length} 条` }),
-      ]),
-      h('div', { class: 'cards' }, list.map((item) => renderCard(item, { query: '' })))
-    );
+    const collapsed = collapsedCats.has(catId);
+    const bodyId = `cat-body-${catId}`;
+    const headId = `cat-head-${catId}`;
+
+    // 分组标题本身也是按钮：整条都可以点，不必去瞄那个小箭头
+    const head = h('div', {
+      class: `group-head is-collapsible${collapsed ? ' is-collapsed' : ''}`,
+      id: headId,
+      role: 'button',
+      tabindex: '0',
+      'aria-expanded': String(!collapsed),
+      'aria-controls': bodyId,
+      title: collapsed ? `展开「${cat.label}」` : `收起「${cat.label}」`,
+      onclick: () => toggleCategoryCollapse(catId),
+      onkeydown: (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          toggleCategoryCollapse(catId);
+        }
+      },
+    }, [
+      h('span', { class: 'g-emoji', text: cat.emoji }),
+      h('h2', { text: cat.label }),
+      h('span', { class: 'g-count', text: `${list.length} 条` }),
+      h('span', { class: 'g-toggle', 'aria-hidden': 'true', text: '▾' }),
+    ]);
+
+    const body = h('div', {
+      class: `cards cards--collapsible${collapsed ? ' is-collapsed' : ''}`,
+      id: bodyId,
+      role: 'region',
+      'aria-labelledby': headId,
+      hidden: collapsed ? 'true' : null,
+    }, list.map((item) => renderCard(item, { query: '' })));
+
+    nodes.push(head, body);
   }
 
   feed.replaceChildren(...nodes);
+  renderCollapseAll();
   updateLoadMore();
+}
+
+function toggleCategoryCollapse(categoryId) {
+  const next = !collapsedCats.has(categoryId);
+  setCategoryCollapsed(categoryId, next);
+  renderFeed();
+  if (!next) {
+    // 展开后把该分组滚进视野，避免它在长列表里跑丢
+    const head = document.getElementById(`cat-head-${categoryId}`);
+    if (head && typeof head.scrollIntoView === 'function') {
+      head.scrollIntoView({ block: 'nearest' });
+    }
+  }
+}
+
+/** 「全部收起 / 全部展开」按钮的状态与文案 */
+function renderCollapseAll() {
+  const btn = dom.toggleAll;
+  if (!btn) return;
+  const total = renderedCategoryIds.length;
+
+  // 工具栏提示：分类数 + 因折叠而隐藏的条数，避免用户以为内容丢了
+  if (dom.feedSummary) {
+    const day = state.dayCache.get(state.loadedDay);
+    const visible = day ? visibleItems(day.items).length : 0;
+    const hiddenCount = day
+      ? day.items.filter((i) => collapsedCats.has(i.category)).length
+      : 0;
+    const parts = [`${total} 个分类`, `${visible} 条`];
+    if (hiddenCount > 0) parts.push(`已折叠 ${hiddenCount} 条`);
+    dom.feedSummary.textContent = state.query ? '' : parts.join(' · ');
+  }
+
+  if (!total) {
+    btn.hidden = true;
+    return;
+  }
+  const collapsedCount = renderedCategoryIds.filter((id) => collapsedCats.has(id)).length;
+  btn.hidden = false;
+  if (collapsedCount === total) {
+    btn.textContent = '全部展开';
+    btn.dataset.action = 'expand';
+  } else {
+    btn.textContent = '全部收起';
+    btn.dataset.action = 'collapse';
+  }
 }
 
 function renderSearchResults() {
@@ -590,6 +704,9 @@ function renderSearchResults() {
     return;
   }
   renderDigest(state.dayCache.get(state.loadedDay));
+  // 搜索结果不成组，折叠控件没有意义
+  if (dom.toggleAll) dom.toggleAll.hidden = true;
+  if (dom.feedSummary) dom.feedSummary.textContent = '';
   const feed = dom.feed;
   const query = state.query;
 
@@ -864,6 +981,12 @@ function bindEvents() {
 
   dom.btnExport.addEventListener('click', exportCurrent);
 
+  dom.toggleAll.addEventListener('click', () => {
+    // 未全部收起时先全部收起；已全部收起则全部展开
+    setManyCollapsed(renderedCategoryIds, dom.toggleAll.dataset.action !== 'expand');
+    renderFeed();
+  });
+
   window.addEventListener('popstate', () => {
     const d = new URL(location.href).searchParams.get('d');
     selectDay(d && state.dayKeySet.has(d) ? d : state.dayKeys[0], { scroll: false });
@@ -874,6 +997,7 @@ function bindEvents() {
 
 async function main() {
   initTheme();
+  loadCollapsed();
   bindEvents();
   dom.feed.setAttribute('aria-busy', 'true');
   dom.feed.replaceChildren(skeleton());
