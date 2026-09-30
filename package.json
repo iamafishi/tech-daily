@@ -1,0 +1,23 @@
+{
+  "name": "tech-daily",
+  "version": "1.0.0",
+  "private": true,
+  "description": "每日自动聚合中英科技数码圈资讯的静态网站",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:summary": "node scripts/build.mjs --with-summary",
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs && node scripts/test-parse.mjs && node scripts/test-ui.mjs && node scripts/test-assets.mjs && node scripts/test-deploy.mjs && node scripts/test-http.mjs",
+    "test:parse": "node scripts/test-parse.mjs",
+    "test:ui": "node scripts/test-ui.mjs",
+    "test:assets": "node scripts/test-assets.mjs",
+    "test:deploy": "node scripts/test-deploy.mjs",
+    "test:http": "node scripts/test-http.mjs",
+    "test:browser": "node scripts/e2e.mjs"
+  }
+}

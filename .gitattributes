@@ -1,0 +1,13 @@
+# 统一使用 LF：本地是 Windows、CI 是 Ubuntu，换行符不一致会影响脚本与快照比对
+* text=auto eol=lf
+
+# 这些是二进制/生成物，不做换行符转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.woff2 binary
+
+# 归档数据每天自动改写，从 diff 统计里排除以免干扰代码评审
+data/** -diff linguist-generated=true

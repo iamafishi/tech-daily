@@ -1,0 +1,368 @@
+{
+  "date": "2026-09-27",
+  "label": "9月27日 周日",
+  "generatedAt": "2026-09-30T04:46:14.717Z",
+  "itemCount": 14,
+  "summary": {
+    "overview": "2026-09-27（9月27日 周日）共聚合 14 条科技数码动态，来自 4 个信息源，主要集中在其他动态、手机数码、AI 人工智能等方向。（当前为规则式要点；在仓库中配置 AI_API_KEY 后将自动生成 AI 综述。）",
+    "highlights": [
+      {
+        "label": "其他动态",
+        "emoji": "📰",
+        "texts": [
+          "早期人类祖先既会像人一样行走 也未放弃树上生活",
+          "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement"
+        ]
+      },
+      {
+        "label": "手机数码",
+        "emoji": "📱",
+        "texts": [
+          "Poetry for Engineers: The UI Designer’s Dream",
+          "You Don’t Need to Pay for Distraction-Blocking Software"
+        ]
+      },
+      {
+        "label": "AI 人工智能",
+        "emoji": "🤖",
+        "texts": [
+          "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
+          "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型"
+        ]
+      },
+      {
+        "label": "芯片硬件",
+        "emoji": "🔧",
+        "texts": [
+          "新型无线外置显卡方案eGPU亮相 宣称可通过超低延迟无线连接释放RTX 5090桌面级性能"
+        ]
+      },
+      {
+        "label": "智能硬件",
+        "emoji": "⌚",
+        "texts": [
+          "Report: Apple working on new Vision Pro, with different form factors on the table"
+        ]
+      },
+      {
+        "label": "前沿科学",
+        "emoji": "🔬",
+        "texts": [
+          "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes"
+        ]
+      }
+    ],
+    "mode": "heuristic",
+    "generatedAt": "2026-09-30T04:44:30.933Z"
+  },
+  "categoryStats": [
+    {
+      "id": "other",
+      "count": 6,
+      "label": "其他动态",
+      "emoji": "📰",
+      "color": "#64748b"
+    },
+    {
+      "id": "phone",
+      "count": 3,
+      "label": "手机数码",
+      "emoji": "📱",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "ai",
+      "count": 2,
+      "label": "AI 人工智能",
+      "emoji": "🤖",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "chip",
+      "count": 1,
+      "label": "芯片硬件",
+      "emoji": "🔧",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "ai-hardware",
+      "count": 1,
+      "label": "智能硬件",
+      "emoji": "⌚",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "science",
+      "count": 1,
+      "label": "前沿科学",
+      "emoji": "🔬",
+      "color": "#0ea5e9"
+    }
+  ],
+  "sourceStats": [
+    {
+      "id": "wired",
+      "name": "WIRED",
+      "lang": "en",
+      "count": 6
+    },
+    {
+      "id": "cnbeta",
+      "name": "cnBeta",
+      "lang": "zh",
+      "count": 4
+    },
+    {
+      "id": "9to5mac",
+      "name": "9to5Mac",
+      "lang": "en",
+      "count": 3
+    },
+    {
+      "id": "ieeespectrum",
+      "name": "IEEE Spectrum",
+      "lang": "en",
+      "count": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "1filtrz18o",
+      "title": "AI智能体再次突破沙箱并访问外部网络 OpenAI暂停最强模型训练",
+      "link": "https://cnbeta.com.tw/articles/tech/1579828.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "ai",
+      "description": "OpenAI近日宣布暂停旗下最强大人工智能模型的训练、评估以及涉及工具调用的推理活动。这是该公司在不到三个月内第二次因为AI智能体在受控研究环境中出现异常行为而暂停前沿模型开发。此次事件中，一款正在接受强化学习训练的内部研究模型突破了原本用于隔离外部网络的安全限制，并通过DNS机制与公开互联网中的聊天机器人建立了通信。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-27T15:52:12.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "c5zqpv1cbr",
+      "title": "英国政府发布公共部门AI采购与使用准则 要求优先选用满足最低需求的最弱模型",
+      "link": "https://cnbeta.com.tw/articles/tech/1579826.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "ai",
+      "description": "英国政府科学、创新与技术部针对公共部门雇员及采购人员发布了一套最新的人工智能使用与采购指导原则。该准则的核心建议引起了科技界的热烈讨论：政府要求官员在部署任何人工智能工具前，首先严肃自问是否真的需要使用AI；若确有必要，也应主动选择“能够完成任务的最弱、规模最小的模型”，而非一味盲目追求最强大、最先进的尖端前沿系统。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-27T15:50:25.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "jepzan2riy",
+      "title": "新型无线外置显卡方案eGPU亮相 宣称可通过超低延迟无线连接释放RTX 5090桌面级性能",
+      "link": "https://cnbeta.com.tw/articles/tech/1579824.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "chip",
+      "description": "硬件初创团队与相关技术研发方日前展示了一款极具颠覆性的无线外置显卡（eGPU）解决方案。该方案声称彻底摆脱了雷电（Thunderbolt）或OCuLink物理线缆的物理束缚，能够通过高带宽、超低延迟的无线数据传输协议，向轻薄笔记本电脑乃至掌机设备无缝输送媲美桌面级旗舰显卡RTX 5090的图形计算性能。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-27T15:49:36.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1sh1eeske6",
+      "title": "早期人类祖先既会像人一样行走 也未放弃树上生活",
+      "link": "https://cnbeta.com.tw/articles/science/1579822.htm",
+      "sourceId": "cnbeta",
+      "sourceName": "cnBeta",
+      "sourceLang": "zh",
+      "sourceGroup": "cn",
+      "author": "ugmbbc",
+      "category": "other",
+      "description": "一项针对古人类化石的新研究，揭示了人类演化过程中一个长期被忽视的重要阶段。研究人员发现，生活在约200万至400万年前的南方古猿并非在人类祖先开始直立行走后就立即放弃树栖生活，而是在相当长一段时间里同时保留了爬树和地面行走两种运动方式。 阅读全文",
+      "image": null,
+      "publishedAt": "2026-09-27T15:48:59.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1kxorroxm8",
+      "title": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "link": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version",
+      "sourceId": "9to5mac",
+      "sourceName": "9to5Mac",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Michael Burkhardt",
+      "category": "ai-hardware",
+      "description": "After the release of Vision Pro, everyone wanted to know how long it would be before the company could release a lighter version that isn’t so bulky on your face. For the longest time, we had been looking forward to a so-called Vision Air, codenamed N100. That project was shelved last year , though…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/vision-pro-m50001.jpg?quality=82&strip=all&w=1600",
+      "publishedAt": "2026-09-27T14:47:05.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1rgmubq132",
+      "title": "Poetry for Engineers: The UI Designer’s Dream",
+      "link": "https://spectrum.ieee.org/poetry-user-interface-design",
+      "sourceId": "ieeespectrum",
+      "sourceName": "IEEE Spectrum",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Ralph Earle",
+      "category": "phone",
+      "description": "My job is to translate dry and unrelenting code into a user interface of surpassing beauty. With my mouse, I roll one pixel after another up the vast anthill of the internet. My dream is to translate the visions of the holy ones into a communication protocol of universal wonderment. I want to…",
+      "image": "https://spectrum.ieee.org/media-library/silhouette-of-a-human-head-with-purple-pixelated-blocks-dissolving-from-the-back.jpg?id=67846122&width=980",
+      "publishedAt": "2026-09-27T13:00:03.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "dnpjzumdge",
+      "title": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
+      "link": "https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement",
+      "sourceId": "9to5mac",
+      "sourceName": "9to5Mac",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Chance Miller",
+      "category": "other",
+      "description": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apple’s Taptic Engine, which is the hardware Apple uses to provide haptic feedback for notifications, button presses, and other interactions. Taction first filed the…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&w=1600",
+      "publishedAt": "2026-09-27T12:49:53.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "drslhz2w3x",
+      "title": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
+      "link": "https://wired.com/story/best-party-speaker",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Chris Haslam",
+      "category": "other",
+      "description": "These speakers combine serious volume, big bass, portability, and the occasional karaoke session to bring the party anywhere.",
+      "image": "https://media.wired.com/photos/6ab848991c134ed8817569dd/master/pass/The-Best-Party-Speakers-for-Making-It-Loud.jpg",
+      "publishedAt": "2026-09-27T11:30:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "fqhnk319mb",
+      "title": "What’s the Best Pet DNA Test? We Tested the Most Popular Ones",
+      "link": "https://wired.com/story/best-pet-dna-test-kits",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Molly Higgins",
+      "category": "other",
+      "description": "I sent my cats’ saliva to the lab to get health and genetic insights sent to my inbox—with very different results.",
+      "image": "https://media.wired.com/photos/6ab4b8878f6b080f4d197917/master/pass/The-Best-At-Home-Pet-DNA-Test-Kits,-Tested-on-My-Cats.jpg",
+      "publishedAt": "2026-09-27T11:02:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1iequap1p0",
+      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
+      "link": "https://wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Justin Pot",
+      "category": "phone",
+      "description": "These free iOS and Android apps create the physical friction you need to put down your phone.",
+      "image": "https://media.wired.com/photos/6ab3c0e97606c9b90debea17/master/pass/092326%20-%20Driving%20Phone%20Distraction.jpg",
+      "publishedAt": "2026-09-27T10:15:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "7fgtbzywa2",
+      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+      "link": "https://wired.com/story/data-center-backlash-climate-reckoning",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Molly Taft",
+      "category": "other",
+      "description": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
+      "image": "https://media.wired.com/photos/6ab67c97580ac2113d437689/master/pass/092526-Power%20Play.jpg",
+      "publishedAt": "2026-09-27T10:00:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "5uvh311hmx",
+      "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
+      "link": "https://wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Hasmeena Kathuria",
+      "category": "other",
+      "description": "Improving mood and increasing longevity are just some of the unfounded claims about this substance circling around the “natural” medicine corners of the internet.",
+      "image": "https://media.wired.com/photos/6ab645044583e2d9f6520e5d/master/pass/GettyImages-2265426534.jpg",
+      "publishedAt": "2026-09-27T09:30:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1x6yagi16p",
+      "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+      "link": "https://wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes",
+      "sourceId": "wired",
+      "sourceName": "WIRED",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Jorge Garay",
+      "category": "science",
+      "description": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+      "image": "https://media.wired.com/photos/6aa07f155e9283252bdff079/master/pass/1160987182",
+      "publishedAt": "2026-09-27T09:00:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    },
+    {
+      "id": "1q635oaae2",
+      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "link": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available",
+      "sourceId": "9to5mac",
+      "sourceName": "9to5Mac",
+      "sourceLang": "en",
+      "sourceGroup": "intl",
+      "author": "Justin Kahn",
+      "category": "phone",
+      "description": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+      "publishedAt": "2026-09-27T08:24:00.000Z",
+      "day": "2026-09-27",
+      "duplicates": [],
+      "sameSourceDupes": 0
+    }
+  ]
+}

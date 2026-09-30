@@ -1,0 +1,117 @@
+name: 每日构建并发布
+
+# 触发方式：
+#   1. 定时：每天 22:10 UTC（= 北京时间次日 06:10）自动抓取构建
+#   2. 手动：Actions 页面点击 Run workflow
+#   3. 推送：main 分支代码变更后自动重建
+#
+# 说明：定时任务使用 UTC，GitHub 上是标准做法；站点内所有展示都换算为北京时间。
+on:
+  schedule:
+    - cron: '10 22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - 'index.html'
+      - 'app.js'
+      - 'styles.css'
+      - 'config/**'
+      - 'scripts/**'
+      - 'package.json'
+      - '.github/workflows/**'
+
+# GITHUB_TOKEN 权限：写归档数据 + 发布 Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 同一时间只跑一个，避免两次构建互相覆盖归档
+concurrency:
+  group: daily-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: 抓取 · 构建 · 归档
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: 安装依赖
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          else
+            npm install --no-audit --no-fund
+          fi
+
+      - name: 抓取并构建站点数据
+        env:
+          # 在仓库 Settings → Secrets and variables → Actions 里配置 AI_API_KEY
+          # 未配置时自动降级为规则式要点，构建不会失败
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+        run: npm run build
+
+      - name: 数据自检
+        run: npm run check
+
+      - name: 归档数据回写仓库
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "数据没有变化，跳过提交"
+          else
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "chore(data): 更新科技资讯归档 ${DATE}"
+            git push origin HEAD:${{ github.ref_name }}
+            echo "已提交当日归档"
+          fi
+
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+        with:
+          # 若仓库尚未开启 Pages，这一步会自动启用（需要 Actions 具备 pages 写权限）
+          enablement: true
+
+      - name: 打包站点（仅公开资源）
+        run: |
+          mkdir -p _site
+          cp index.html app.js styles.css _site/
+          cp -r data _site/data
+          # 关闭 Jekyll 处理，避免下划线开头的文件被忽略
+          touch _site/.nojekyll
+          echo "打包内容："
+          ls -la _site
+
+      - name: 上传站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    name: 发布到 GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>科技数码日报 · 每日自动聚合</title>
+<meta name="description" content="每日自动抓取中英科技数码圈资讯，按分类聚合、AI 摘要、支持搜索与历史归档。">
+<meta name="generator" content="tech-daily">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<a class="skip-link" href="#feed">跳到正文</a>
+
+<header class="topbar">
+  <button id="btn-sidebar" class="icon-btn only-mobile" aria-label="打开筛选面板" aria-expanded="false">☰</button>
+
+  <div class="brand">
+    <span class="brand-mark">📡</span>
+    <div class="brand-text">
+      <strong id="site-title">科技数码日报</strong>
+      <span id="site-subtitle" class="brand-sub">每日自动聚合中英科技数码圈资讯</span>
+    </div>
+  </div>
+
+  <div class="search-wrap">
+    <span class="search-icon" aria-hidden="true">🔍</span>
+    <input id="search" type="search" placeholder="搜索标题与摘要…（按 / 聚焦）" autocomplete="off" spellcheck="false" aria-label="搜索资讯">
+    <button id="search-clear" class="search-clear" hidden aria-label="清空搜索">✕</button>
+  </div>
+
+  <button id="btn-theme" class="icon-btn" aria-label="切换深浅色主题">🌙</button>
+</header>
+
+<div class="layout">
+
+  <!-- ───────────── 侧栏 ───────────── -->
+  <aside id="sidebar" class="sidebar" aria-label="筛选与归档">
+    <div class="side-scroll">
+
+      <section class="panel" id="panel-calendar">
+        <h2 class="panel-title">📅 归档日历</h2>
+        <div class="cal-head">
+          <button id="cal-prev" class="icon-btn sm" aria-label="上个月">‹</button>
+          <span id="cal-label" class="cal-label">—</span>
+          <button id="cal-next" class="icon-btn sm" aria-label="下个月">›</button>
+        </div>
+        <div class="cal-grid" id="cal-grid" role="grid" aria-label="日期"></div>
+        <div class="cal-foot">
+          <button id="btn-latest" class="link-btn">回到最新一天</button>
+          <button id="btn-random" class="link-btn">随机翻一天</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">🏷️ 分类 <span class="hint">点击筛选</span></h2>
+        <div id="filter-categories" class="chips"></div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">📰 来源 <span class="hint">点击筛选</span></h2>
+        <div id="filter-sources" class="chips"></div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">📊 数据源状态</h2>
+        <div id="source-health" class="health"></div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel-title">ℹ️ 关于</h2>
+        <p class="about">
+          本页为纯静态站点，由 GitHub Actions 每日定时抓取 RSS/Atom 源并生成。
+          无后端、无数据库、无追踪脚本。
+        </p>
+        <dl class="meta-list" id="build-meta"></dl>
+      </section>
+
+    </div>
+  </aside>
+
+  <div id="scrim" class="scrim" hidden></div>
+
+  <!-- ───────────── 正文 ───────────── -->
+  <main class="main">
+
+    <div class="day-head">
+      <div>
+        <h1 id="day-title">加载中…</h1>
+        <p id="day-meta" class="day-meta"></p>
+      </div>
+      <div class="view-tabs" role="tablist" aria-label="视图">
+        <button id="tab-latest" class="tab is-active" role="tab" aria-selected="true">最新</button>
+        <button id="tab-archived" class="tab" role="tab" aria-selected="false" hidden>历史</button>
+      </div>
+    </div>
+
+    <section id="digest" class="digest" hidden aria-label="今日摘要"></section>
+
+    <div class="active-filters" id="active-filters" hidden></div>
+
+    <section id="feed" class="feed" aria-live="polite" aria-busy="false"></section>
+
+    <div class="load-more-wrap">
+      <button id="load-more" class="btn" hidden>加载更早一天</button>
+    </div>
+
+    <footer class="foot">
+      <span id="foot-generated">—</span>
+      <span class="dot">·</span>
+      <a href="./data/index.json" target="_blank" rel="noopener">原始数据 JSON</a>
+      <span class="dot">·</span>
+      <button id="btn-export" class="link-btn">导出当前列表</button>
+    </footer>
+
+  </main>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<noscript>
+  <p style="padding:2rem;text-align:center">本站需要 JavaScript 才能渲染聚合内容。数据本身是纯 JSON，位于 <code>./data/index.json</code>。</p>
+</noscript>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>
