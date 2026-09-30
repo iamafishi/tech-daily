@@ -1,8 +1,38 @@
 {
-  "generatedAt": "2026-09-30T05:24:47.708Z",
+  "generatedAt": "2026-09-30T05:29:37.174Z",
   "limit": 6000,
-  "total": 608,
+  "total": 612,
   "items": [
+    {
+      "id": "1wksxen17x",
+      "t": "微软发布Quine生物学“世界模型” AI有望将药物研发周期从数月缩短至数天",
+      "u": "https://cnbeta.com.tw/articles/tech/1580158.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:28:14.000Z",
+      "x": "微软研究院近日正式发布名为Quine的人工智能科研系统，并将其定义为面向生命科学领域的“生物学世界模型”。该系统旨在帮助科学家理解复杂生物机制、加速药物发现过程，并推动癌症等重大疾病研究取得突破。 阅读全文"
+    },
+    {
+      "id": "1pgn1e5fcu",
+      "t": "DeepSeek与华为合作开发昇腾编程工具 开源软件基础设施以减少对NVIDIA的依赖",
+      "u": "https://cnbeta.com.tw/articles/tech/1580156.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:25:52.000Z",
+      "x": "中国人工智能公司DeepSeek周三表示，已与华为合作开发针对昇腾芯片优化的编程工具。DeepSeek在官方微信公众号宣布，将开源面向华为昇腾平台的编程基础设施，其中包括计算库和通信库。这是中国科技企业深化合作、寻求英伟"
+    },
+    {
+      "id": "cf24dy1jca",
+      "t": "美国白宫与科技巨头签署并对外公布AI行业协议 要求建立四层安全控制机制",
+      "u": "https://cnbeta.com.tw/articles/tech/1580154.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-09-30",
+      "p": "2026-09-30T05:24:18.000Z",
+      "x": "美国特朗普9月29日公布了一份由白宫推动制定的人工智能行业协议。这份文件此前已由特朗普与多家大型科技企业高管共同签署，被特朗普称为具有“道义约束力”的行业承诺。 阅读全文"
+    },
     {
       "id": "hg22qcq56c",
       "t": "Windows 11 26H2 ISO镜像已发布 微软同时更新安装介质并延续小型启用包机制",
@@ -254,6 +284,16 @@
       "x": "英国竞争上诉法庭近日决定恢复一项针对苹果和亚马逊的反垄断集体诉讼审理，使这场围绕两家公司商业合作协议的法律争议重新进入公众视野。这起诉讼最早于2023年提出，焦点是苹果与亚马逊在2018年达成的一项合作协议。 阅读全文"
     },
     {
+      "id": "1sn7hcgjsi",
+      "t": "Tesla takes on $30B in credit as it approaches unprofitability",
+      "u": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability",
+      "s": "Hacker News",
+      "c": "auto",
+      "d": "2026-09-30",
+      "p": "2026-09-30T04:37:37.000Z",
+      "x": "Article URL: https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitabili"
+    },
+    {
       "id": "fxhfkt1s00",
       "t": "Meta Muse 爆火，美银警示 AI 智能体或冲击苹果服务业务收入",
       "u": "https://ithome.com/1/008/692.htm",
@@ -501,7 +541,7 @@
       "c": "other",
       "d": "2026-09-30",
       "p": "2026-09-30T03:00:05.000Z",
-      "x": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 10 # Co"
+      "x": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 14 # Co"
     },
     {
       "id": "tdt8wvn3p3",
@@ -1741,7 +1781,7 @@
       "c": "other",
       "d": "2026-09-30",
       "p": "2026-09-29T19:08:01.000Z",
-      "x": "Article URL: https://space.bl2.net/ Comments URL: https://news.ycombinator.com/item?id=49898778 Points: 172 # "
+      "x": "Article URL: https://space.bl2.net/ Comments URL: https://news.ycombinator.com/item?id=49898778 Points: 174 # "
     },
     {
       "id": "1yha2grvmg",
