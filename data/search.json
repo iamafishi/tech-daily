@@ -1,8 +1,778 @@
 {
-  "generatedAt": "2026-10-03T01:04:32.806Z",
+  "generatedAt": "2026-10-04T00:30:30.628Z",
   "limit": 6000,
-  "total": 1047,
+  "total": 1124,
   "items": [
+    {
+      "id": "1fmb28lqcd",
+      "t": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
+      "u": "https://ithome.com/1/009/598.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-04T00:23:56.000Z",
+      "x": "IT之家 10 月 4 日消息，早在如今这波人工智能热潮兴起的许多年前，程序员们就已经开始在《星际争霸》当中开展机器人对战实验了。随着 OpenAI 与 Anthropic 的大语言模型问世，一个由爱好者搭建的对战竞技场"
+    },
+    {
+      "id": "1lz1q24rja",
+      "t": "Arm 为 Linux 内核引入 TLBID 支持，提升高核心数 CPU 性能",
+      "u": "https://ithome.com/1/009/597.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-04T00:20:47.000Z",
+      "x": "IT之家 10 月 4 日消息，Phoronix 今日发现，Arm 本周向 Linux 内核提交了一组初始补丁，着手支持即将推出的 TLBI Domains（TLBID）功能。 该技术旨在减少高核心数处理器执行 TLB（"
+    },
+    {
+      "id": "15zj30j1i2",
+      "t": "美财长贝森特批评 Anthropic、OpenAI 等风险警告：危言耸听，光喊话不拿解决方案",
+      "u": "https://ithome.com/1/009/596.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-04T00:02:56.000Z",
+      "x": "IT之家 10 月 4 日消息，当地时间 10 月 3 日，美国财政部长斯科特 · 贝森特（Scott Bessent）在接受 Axios 采访时批评部分 AI 行业人士针对人工智能“生存性风险”发出的警告。 他认为仅仅"
+    },
+    {
+      "id": "jbnerp1k3c",
+      "t": "My unsupported Kindle runs Linux now, and it's more useful than when it was new",
+      "u": "https://xda-developers.com/my-unsupported-kindle-runs-linux-now-and-its-more-useful-than-when-it-was-new",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-04T00:00:17.000Z",
+      "x": "My 2015 Kindle Paperwhite is officially out of support, and Amazon won't be sending it another update. On pape"
+    },
+    {
+      "id": "1btf0npj83",
+      "t": "How has Apple's Mac Studio changed over the years?",
+      "u": "https://engadget.com/2273779/apple-mac-studio-how-changed-over-years",
+      "s": "Engadget",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-04T00:00:00.000Z",
+      "x": "Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design chang"
+    },
+    {
+      "id": "57ag431h0q",
+      "t": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+      "u": "https://ithome.com/1/009/595.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:58:43.000Z",
+      "x": "IT之家 10 月 4 日消息，眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自 IP 持有企业更强的阻力。 据IT之家了解，《辐射"
+    },
+    {
+      "id": "18c3hwb512",
+      "t": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
+      "u": "https://ithome.com/1/009/594.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:51:59.000Z",
+      "x": "“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有： 1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型"
+    },
+    {
+      "id": "xqgnnv19x1",
+      "t": "微软承认 Win11 26H2 更新后会导致部分游戏和应用崩溃，KB5124010 存在音频解码问题",
+      "u": "https://ithome.com/1/009/593.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:46:26.000Z",
+      "x": "IT之家 10 月 4 日消息，微软已确认，2026 年 9 月的可选更新 KB5124010 会导致部分依赖系统内置 AC-3（杜比数字）音频解码的应用和游戏崩溃。 据 Windows Report 报道，该问题影响 "
+    },
+    {
+      "id": "let8l916k2",
+      "t": "What's the difference between battery capacity and battery life?",
+      "u": "https://engadget.com/2273775/battery-capacity-vs-life-differences",
+      "s": "Engadget",
+      "c": "auto",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:45:00.000Z",
+      "x": "Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent"
+    },
+    {
+      "id": "1yexl9e6j5",
+      "t": "Rockstar 联合创始人丹 · 豪瑟公布两款新作：开放世界喜剧与失控 AI 反乌托邦科幻游戏",
+      "u": "https://ithome.com/1/009/592.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:43:14.000Z",
+      "x": "IT之家 10 月 4 日消息，《GTA 6》将于下个月在全球发售，玩家对这款作品的期待已经达到顶峰。Rockstar Games 为这款即将面世的开放世界游戏设立了很高的目标，表示希望交出超出玩家预期的成果。 虽然绝大"
+    },
+    {
+      "id": "123xy04j79",
+      "t": "卡普空公布 REX 升级计划：将 RE 引擎打造成面向 AI 时代的游戏引擎",
+      "u": "https://ithome.com/1/009/590.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:32:36.000Z",
+      "x": "IT之家 10 月 4 日消息，3A 游戏的开发成本正变得越来越高，开发周期也不断拉长，就连卡普空（Capcom）这类根基稳固的工作室也感受到了由此带来的连锁冲击。眼下许多工作室开始把人工智能引入游戏开发以及游戏引擎当中"
+    },
+    {
+      "id": "rrmc0g1es8",
+      "t": "Why is this the only pink MacBook available right now?",
+      "u": "https://engadget.com/2273771/why-only-pink-macbook-available-right-now",
+      "s": "Engadget",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:30:00.000Z",
+      "x": "Is it too much to ask for some more colorful laptops?"
+    },
+    {
+      "id": "12kh5ng16j",
+      "t": "索尼 PlayStation 前高管：开发者很难靠微软 Game Pass 盈利",
+      "u": "https://ithome.com/1/009/589.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:25:41.000Z",
+      "x": "IT之家 10 月 4 日消息，关于 Game Pass 究竟能否为 XBOX 以及入驻该平台的游戏工作室创造足够利润的争论已经持续很久了。相关数据显示，这项订阅服务的发展已经陷入停滞，一位前 PlayStation 高"
+    },
+    {
+      "id": "12na0qj1jq",
+      "t": "苹果 Apple TV 为美国用户免费直播 2026 F1 巴林大奖赛：无需订阅即可观看，维斯塔潘、汉密尔顿排位前二",
+      "u": "https://ithome.com/1/009/588.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:24:08.000Z",
+      "x": "IT之家 10 月 4 日消息，2026 年 F1 巴林大奖赛将于今天 15:00 在马来西亚雪邦国际赛车场举行。苹果 Apple TV 宣布将免费直播本周末的巴林大奖赛，用户无需购买订阅即可观赛，覆盖练习赛、排位赛和正"
+    },
+    {
+      "id": "1cio4p41xn",
+      "t": "索尼 PlayStation 之父久多良木健：游戏行业陷入停滞，开发者应当保有更强的好奇心",
+      "u": "https://ithome.com/1/009/587.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:19:13.000Z",
+      "x": "IT之家 10 月 4 日消息，不少人认为如今的游戏行业已经不如过去那样富有创新活力，随着开发成本不断走高，裁员与工作室关闭的阴影步步逼近，开发者大多倾向于稳妥行事。PlayStation 之父久多良木健（Ken Kut"
+    },
+    {
+      "id": "19qtddtbac",
+      "t": "苹果 MacBook Pro 外接 iPhone 17 Pro Max 运行 AI 模型，预填充性能最高提升 44%",
+      "u": "https://ithome.com/1/009/586.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:10:40.000Z",
+      "x": "IT之家 10 月 4 日消息，Qwen3.8‑27B 是一款性能不错的人工智能模型，但前提是设备拥有足够的显存与系统内存。搭载 M4 Pro 芯片的 MacBook Pro 仅有 24GB 统一内存，在运行该 AI 模"
+    },
+    {
+      "id": "1fx1bsq11y",
+      "t": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
+      "u": "https://ithome.com/1/009/585.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:10:20.000Z",
+      "x": "IT之家 10 月 4 日消息，OpenAI CEO 萨姆 · 奥尔特曼（Sam Altman）昨日在 X 上发帖，对将 AI 模型视为“宗教力量”的倾向表达了明确反对。 他表示：“对于人们试图赋予 AI 模型某种宗教力"
+    },
+    {
+      "id": "yerzzu1jsd",
+      "t": "马斯克改口：特斯拉 AI5 芯片内存由 72GB 上调至 96GB",
+      "u": "https://ithome.com/1/009/584.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:03:51.000Z",
+      "x": "IT之家 10 月 4 日消息，特斯拉首席执行官埃隆 · 马斯克（Elon Musk）做出说明，该公司的 AI5 芯片不会采用 72GB 的 DDR5 内存，而是改用 96GB 内存。这样做是为了避免只有特斯拉一家为驱动"
+    },
+    {
+      "id": "igd5031azd",
+      "t": "I set up Claude Code the way Spotify does to save tokens, and it cost me more",
+      "u": "https://xda-developers.com/claudes-token-burn-problem-borrowed-spotifys-playbook",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:00:18.000Z",
+      "x": "One thing I'm always aware of when handling agentic tasks is my token burn . Simple tasks like generating test"
+    },
+    {
+      "id": "blprir13xf",
+      "t": "This little-known app lets you display song lyrics on Apple CarPlay",
+      "u": "https://engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T23:00:00.000Z",
+      "x": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget."
+    },
+    {
+      "id": "8dtbct1dps",
+      "t": "索尼 PS5 破解后成功运行初代 Xbox 游戏，微软 Xbox 360 与 PC 游戏支持也在开发中",
+      "u": "https://ithome.com/1/009/583.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:59:03.000Z",
+      "x": "IT之家 10 月 4 日消息，据 VideoCardz 今日报道，XPSemu 已将开源初代 Xbox 模拟器 xemu 移植至破解 PS5，可在主机上运行部分初代 Xbox 游戏。与此同时，Xbox 360 模拟以及"
+    },
+    {
+      "id": "88dx3k1nx7",
+      "t": "索尼等好莱坞制片厂争夺 EA《战地》电影改编权，迈克尔 ·B· 乔丹制片并有望参演",
+      "u": "https://ithome.com/1/009/582.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:51:29.000Z",
+      "x": "IT之家 10 月 4 日消息，据《好莱坞报道》《综艺》和 TheWrap 昨日报道，索尼影业正在洽谈收购《战地》游戏改编电影项目，或者说索尼影业目前是该项目最有希望的买家。 该片改编自艺电旗下《战地》系列游戏，由克里斯"
+    },
+    {
+      "id": "8nu6cp1y69",
+      "t": "Why this ancient cable still connects to modern TVs with a simple adapter",
+      "u": "https://engadget.com/2273698/dvi-cable-why-still-connects-modern-tv-simple-adapter",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:45:00.000Z",
+      "x": "DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles."
+    },
+    {
+      "id": "sucmud4whu",
+      "t": "OpenAI 前安全部门员工：AI 模型迭代部署太激进，公司的文化已经崩坏",
+      "u": "https://ithome.com/1/009/581.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:43:56.000Z",
+      "x": "IT之家 10 月 4 日消息，据路透社报道，一名近期辞职的前 OpenAI 安全部门员工批评了该公司对待人工智能安全的做法，他认为一味追求快速开发的高压企业文化会提高系统发生故障的风险。 IT之家注意到，戴维 · 鲁宾"
+    },
+    {
+      "id": "cdvq09yzz3",
+      "t": "How to improve your laptop's webcam quality",
+      "u": "https://engadget.com/2273684/how-to-improve-laptop-webcam-quality",
+      "s": "Engadget",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:30:00.000Z",
+      "x": "Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcom"
+    },
+    {
+      "id": "1whfiokqhv",
+      "t": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "u": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:18:13.000Z",
+      "x": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys"
+    },
+    {
+      "id": "124z982qhh",
+      "t": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "u": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:07:13.000Z",
+      "x": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Com"
+    },
+    {
+      "id": "1kgkcrylmd",
+      "t": "A Fire TV Cube costs $200 now, and my 2019 Nvidia Shield TV still does more",
+      "u": "https://xda-developers.com/fire-tv-cube-costs-200-2019-nvidia-shield-does-more",
+      "s": "XDA Developers",
+      "c": "chip",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:00:18.000Z",
+      "x": "Amazon recently bumped the price of the Fire TV Cube to $200. That change came quietly in August: the device, "
+    },
+    {
+      "id": "1fxanujq3r",
+      "t": "Online retailers that don't support digital wallets are losing Gen Z customers",
+      "u": "https://engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T22:00:00.000Z",
+      "x": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported"
+    },
+    {
+      "id": "efgtcbjdxh",
+      "t": "Google's Pixel 10a gets $100 more expensive",
+      "u": "https://gsmarena.com/googles_pixel_10a_gets_100_more_expensive-news-74889.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T21:31:02.000Z",
+      "x": "来源：GSMArena — Google's Pixel 10a gets $100 more expensive"
+    },
+    {
+      "id": "8v82qp7yda",
+      "t": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives",
+      "u": "https://xda-developers.com/these-open-source-ai-tools-got-so-good-i-finally-cancelled-my-subscriptions",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T21:30:20.000Z",
+      "x": "While my bank already hated to see Apple Music, Spotify, Canva, Adobe Creative Cloud, iCloud+, Google One, Net"
+    },
+    {
+      "id": "1c518hqyvp",
+      "t": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "u": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26",
+      "s": "9to5Mac",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T21:26:32.000Z",
+      "x": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free"
+    },
+    {
+      "id": "14cqjyfhc9",
+      "t": "I paid for gigabit internet and discovered almost nothing in my house can actually use it",
+      "u": "https://xda-developers.com/paid-gigabit-internet-discovered-nothing-in-home-uses-it",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T21:00:20.000Z",
+      "x": "When you sign up for a new 1Gbps fiber or cable internet package, you might not stop to look at your household"
+    },
+    {
+      "id": "1rcnwdv10w",
+      "t": "Reasons I didn't become an EMT, ranked",
+      "u": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T20:49:15.000Z",
+      "x": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.co"
+    },
+    {
+      "id": "6tpto71jcr",
+      "t": "Your M.2 slot does more than SSDs, but nobody talks about the boring cards that prove it",
+      "u": "https://xda-developers.com/m2-slot-more-than-ssd-nobody-talks-about-boring-cards",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T20:30:17.000Z",
+      "x": "For most people, the M.2 slot on the motherboard is synonymous with NVMe SSDs. After all, that is the most com"
+    },
+    {
+      "id": "9ivv7gi20z",
+      "t": "Surely you have ultra-wideband radios on your bins too?",
+      "u": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T20:27:44.000Z",
+      "x": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.yc"
+    },
+    {
+      "id": "2z75uj1avm",
+      "t": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+      "u": "https://engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T20:08:20.000Z",
+      "x": "An attorney representing protestors said this infringes on First Amendment rights."
+    },
+    {
+      "id": "19hhec31e2",
+      "t": "贝森特批评AI风险警告是危言耸听",
+      "u": "https://cnbeta.com.tw/articles/tech/1580610.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T20:03:34.000Z",
+      "x": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言论是在危言耸听，没有助益，并呼吁该行业进行自我监管并拿出解决方案。 阅读全文"
+    },
+    {
+      "id": "12km5keic8",
+      "t": "After a month switching between Claude Code and its open-source rival, I only open Claude for one kind of task",
+      "u": "https://xda-developers.com/after-switching-between-claude-code-and-opencode-only-open-claude-for-one-task",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T20:00:18.000Z",
+      "x": "Most people reach for Claude Code first, and for good reason, since it's the dominant agent. The catch is the "
+    },
+    {
+      "id": "hbxrqlysio",
+      "t": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "u": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94",
+      "s": "Ars Technica",
+      "c": "science",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:45:17.000Z",
+      "x": "Milt Windler, one of the four leaders of Mission Control who in 1970 directed the round-the-clock efforts to b"
+    },
+    {
+      "id": "1dhklz912n",
+      "t": "Watch F1 on Apple TV tonight, free for everyone in the US",
+      "u": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp",
+      "s": "9to5Mac",
+      "c": "web",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:44:04.000Z",
+      "x": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusi"
+    },
+    {
+      "id": "t83uhi17a5",
+      "t": "We want you to build the next Git platform on Cloudflare",
+      "u": "https://blog.cloudflare.com/next-git-platform-on-cloudflare",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:33:16.000Z",
+      "x": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinat"
+    },
+    {
+      "id": "103746nxuc",
+      "t": "I squeezed my entire network stack onto a Raspberry Pi Zero, and it broke my assumptions about what's essential",
+      "u": "https://xda-developers.com/squeeze-entire-network-stack-onto-a-raspberry-pi-zero",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:30:17.000Z",
+      "x": "Self-hosting starts with basic items and can evolve into a complex setup with the best possible hardware. The "
+    },
+    {
+      "id": "1pkpzza13q",
+      "t": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+      "u": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:30:00.000Z",
+      "x": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indi"
+    },
+    {
+      "id": "1wx4t4f1jr",
+      "t": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "u": "https://phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "s": "Hacker News",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:14:48.000Z",
+      "x": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator."
+    },
+    {
+      "id": "kiyxmnozoi",
+      "t": "RSS Feed Best Practices (2022)",
+      "u": "https://kevincox.ca/2022/05/06/rss-feed-best-practices",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:09:25.000Z",
+      "x": "Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/ Comments URL: https://news.ycombinator.co"
+    },
+    {
+      "id": "1a7oxnsol0",
+      "t": "I ditched Google TV's cluttered home screen for a lightweight launcher, and the setup took less time than brewing coffee",
+      "u": "https://xda-developers.com/i-ditched-google-tvs-cluttered-home-screen-for-lightweight-launcher",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T19:00:17.000Z",
+      "x": "There's a lot to love about Google TV — it supports a wide variety of apps, it has some nifty features, and it"
+    },
+    {
+      "id": "1yu8x1n1qp",
+      "t": "How to hack time, with C2PA",
+      "u": "https://da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "s": "Hacker News",
+      "c": "security",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:52:06.000Z",
+      "x": "Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html Comments URL: https://news.ycombinator.co"
+    },
+    {
+      "id": "1kc6p3n16q",
+      "t": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+      "u": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:48:22.000Z",
+      "x": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10"
+    },
+    {
+      "id": "1xnskj51h6",
+      "t": "How to check the temperature of your PC's CPU",
+      "u": "https://engadget.com/2273462/how-to-check-cpu-temperature",
+      "s": "Engadget",
+      "c": "chip",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:45:00.000Z",
+      "x": "There's some solid free software that can help you keep tabs on your computer's health."
+    },
+    {
+      "id": "1cbbgld1fe",
+      "t": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "u": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:43:57.000Z",
+      "x": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+    },
+    {
+      "id": "oock21zoov",
+      "t": "Samsung Galaxy S25 series receiving One UI 9 stable update in the US",
+      "u": "https://gsmarena.com/samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:31:01.000Z",
+      "x": "来源：GSMArena — Samsung Galaxy S25 series receiving One UI 9 stable update in the US"
+    },
+    {
+      "id": "10tiqbz111",
+      "t": "I turned my old Windows Home Server into a dumb NAS for Plex and Jellyfin",
+      "u": "https://xda-developers.com/i-turned-my-old-windows-home-server-into-a-dumb-nas-for-plex-and-jellyfin",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:30:20.000Z",
+      "x": "15 years ago, I ran Windows Home Server on an HP MicroServer for reasons I can't fathom now. As I've done more"
+    },
+    {
+      "id": "15ikiu6nhh",
+      "t": "Ethernet cables can do more than just improve home internet",
+      "u": "https://engadget.com/2273746/ethernet-cables-can-do-more-than-just-improve-home-internet",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:30:00.000Z",
+      "x": "With some add-ons, these can gain a second life."
+    },
+    {
+      "id": "x1p5pl8hgq",
+      "t": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "u": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:29:30.000Z",
+      "x": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ Comments URL: https://news.ycombinator."
+    },
+    {
+      "id": "198tcx1yfe",
+      "t": "Capcom plans to use AI to speed up the game development process",
+      "u": "https://engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:27:15.000Z",
+      "x": "The company previously said it won't use AI-generated content in its games."
+    },
+    {
+      "id": "19jjewkttf",
+      "t": "ChatGPT正在变成“软件入口” 用户以后可能不再主动寻找App",
+      "u": "https://cnbeta.com.tw/articles/tech/1580608.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:14:07.000Z",
+      "x": "OpenAI在近日举行的Dev Day开发者大会上集中发布了一系列新功能。单独来看，这些功能分别涉及插件、AI智能体、应用集成、身份认证和企业软件市场，但将它们放在一起观察，可以看到OpenAI正在推动一种与传统App "
+    },
+    {
+      "id": "nlfotk15oo",
+      "t": "科学家发现一类化合物可同时攻击疟原虫多个阶段 抗癌药物或成抗疟疾新武器",
+      "u": "https://cnbeta.com.tw/articles/science/1580606.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:12:25.000Z",
+      "x": "科学家正在探索一种颇具潜力的抗疟疾新策略：将原本为癌症治疗研发的药物及其衍生物重新用于攻击疟原虫。巴西圣保罗大学研究人员近日发现，一组源自抗肿瘤药物的化合物能够在实验室条件下同时杀死处于不同生命周期阶段的恶性疟原虫，其中"
+    },
+    {
+      "id": "yaw2gk17xt",
+      "t": "美股12月起迈入23小时交易时代",
+      "u": "https://cnbeta.com.tw/articles/tech/1580604.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:08:47.000Z",
+      "x": "12月6日起，纳斯达克（Nasdaq）、纽交所Arca等四大核心交易所将正式增设夜盘时段，华尔街全面迈入每天23小时的“通宵交易”时代。这一历史性扩容旨在应对加密货币及预测市场“全天候交易”的跨界竞争，并加速捕获海外投资"
+    },
+    {
+      "id": "e29gimnqkm",
+      "t": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+      "u": "https://cnbeta.com.tw/articles/tech/1580602.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:07:54.000Z",
+      "x": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做得还不够。此前负责OpenAI安全团队透明度工作的David Robinson在为《大西洋月刊》撰写的一篇文章中称，这家Ch"
+    },
+    {
+      "id": "1ld3td9e7j",
+      "t": "Hole Punch: Sling your spaceship around gravitational fields",
+      "u": "https://notoriousbfg.com/hole-punch",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:06:45.000Z",
+      "x": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 "
+    },
+    {
+      "id": "11f1m7l1vv",
+      "t": "Treachery in the Rodin Museum 3D scan verdict",
+      "u": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:01:27.000Z",
+      "x": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombi"
+    },
+    {
+      "id": "8xfxiqee9e",
+      "t": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "u": "https://wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai",
+      "s": "WIRED",
+      "c": "chip",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:00:00.000Z",
+      "x": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception."
+    },
+    {
+      "id": "r501wvww15",
+      "t": "The original PlayStation 2 security chip has been reverse engineered",
+      "u": "https://engadget.com/2273354/playstation-2-security-chip-reverse-engineered",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T18:00:00.000Z",
+      "x": "A long‑hidden PS2 security component has finally been decoded, revealing surprising design choices and opening"
+    },
+    {
+      "id": "1m3dj6916c",
+      "t": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "u": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T17:44:29.000Z",
+      "x": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 68 # Comments: 74"
+    },
+    {
+      "id": "1m5gyn01sl",
+      "t": "Automating my 35mm film scanning pipeline",
+      "u": "https://shannadige.com/blog/darkroom",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T17:35:42.000Z",
+      "x": "Article URL: https://shannadige.com/blog/darkroom/ Comments URL: https://news.ycombinator.com/item?id=49946148"
+    },
+    {
+      "id": "1llbowpum0",
+      "t": "Vx – One Language, Every Chip",
+      "u": "https://vxlang.org/",
+      "s": "Hacker News",
+      "c": "chip",
+      "d": "2026-10-04",
+      "p": "2026-10-03T17:23:20.000Z",
+      "x": "Article URL: https://vxlang.org/ Comments URL: https://news.ycombinator.com/item?id=49946076 Points: 56 # Comm"
+    },
+    {
+      "id": "1bse5pqhhy",
+      "t": "Agents don't need memory, they need documentation",
+      "u": "https://liao.gg/blog/agents-dont-need-memory",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T17:03:37.000Z",
+      "x": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=4"
+    },
+    {
+      "id": "4ludepogh1",
+      "t": "RetailReady (YC W24) Is Hiring",
+      "u": "https://ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-04",
+      "p": "2026-10-03T17:00:12.000Z",
+      "x": "Article URL: https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations Comments URL: http"
+    },
+    {
+      "id": "1wq6ldg1eo",
+      "t": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "u": "https://theverge.com/games/1004418/capcom-ai-game-development",
+      "s": "The Verge",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:49:10.000Z",
+      "x": "Capcom's Pragmata might be all about the horrors of AI , but in practice the studio doesn't seem so down on th"
+    },
+    {
+      "id": "v0yqaglzrm",
+      "t": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+      "u": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date",
+      "s": "9to5Mac",
+      "c": "chip",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:36:23.000Z",
+      "x": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Ap"
+    },
+    {
+      "id": "1vhl1n11oj",
+      "t": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "u": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:30:01.000Z",
+      "x": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issue"
+    },
+    {
+      "id": "163mfz81dr",
+      "t": "How to customize Camera Control on your iPhone",
+      "u": "https://engadget.com/2273351/how-to-customize-iphone-camera-control",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:30:00.000Z",
+      "x": "Take a closer look at the iPhone's Camera Control feature and why tweaking it can change the way you shoot, ev"
+    },
+    {
+      "id": "1leyyxz1eu",
+      "t": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+      "u": "https://engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:25:15.000Z",
+      "x": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful"
+    },
+    {
+      "id": "jf40gv1tel",
+      "t": "The best early October Prime Day deals happening now",
+      "u": "https://theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "s": "The Verge",
+      "c": "game",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:22:40.000Z",
+      "x": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware"
+    },
+    {
+      "id": "15mbb1otfz",
+      "t": "华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型",
+      "u": "https://ithome.com/1/009/580.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:20:02.000Z",
+      "x": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 Mate 90 系列手机正式发布。其中，Mate 90 Pro Max / RS 非凡大师搭载的是首款逻"
+    },
+    {
+      "id": "v0yh121y44",
+      "t": "Why Windows 11 is always using so much RAM",
+      "u": "https://engadget.com/2273348/why-windows-11-using-so-much-ram",
+      "s": "Engadget",
+      "c": "pc",
+      "d": "2026-10-04",
+      "p": "2026-10-03T16:00:00.000Z",
+      "x": "Windows 11 might be using a lot of your RAM, which isn't a problem unless you experience poor performance. It "
+    },
     {
       "id": "1egmqiz19q",
       "t": "微软工程师探究 Win11 滚动条“Shift+ 点击”直达操作，因生态碎片化应用无法完全支持",
