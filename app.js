@@ -427,32 +427,58 @@ function shiftMonth(delta) {
 
 /* ───────────────────────── 打开原文 ───────────────────────── */
 
-/** 解析出该条目对应的目标地址（用于判断链接是否指向本站自身） */
+/** 解析出该条目对应的目标地址 */
 function itemUrl(item) {
   return (item && (item.link || item.u)) || '';
 }
 
 /**
- * 打开条目原文。
+ * 在新标签页打开链接，当前页保持不动。
  *
- * 用 window.open 而不是直接改 location：站点在 GitHub Pages 的 /tech-daily/ 子路径下，
- * 带查询参数（?d=日期）时相对路径容易被解析错，交给浏览器更稳。
- *
- * 若被弹出窗口拦截器拦掉（返回 null），回退为当前页导航——
- * 否则在拦截较严的浏览器里点击会「完全没反应」。
+ * 这里刻意不用 window.open：
+ *   Chrome 在成功打开新标签后依然返回 null，所以「返回 falsy 就是被拦截」的判断不成立。
+ *   之前的实现据此回退到 location.href，结果是新标签和当前页同时跳转（即双开）。
+ * 临时 <a target="_blank" rel="noopener noreferrer"> 是浏览器原生开新标签机制，
+ * 不会被弹窗拦截，也无需判断返回值，语义最准确。
  */
-function openItemLink(item) {
-  const url = itemUrl(item);
-  if (!url) return;
-  let win = null;
-  try {
-    win = window.open(url, '_blank', 'noopener');
-  } catch {
-    win = null;
+function openInNewTab(url) {
+  if (!url || typeof document === 'undefined') return;
+
+  // 可选观察钩子：自动化测试与外部集成可挂 window.__onOpenInNewTab 监听打开行为。
+  // 未挂载时完全无副作用。
+  if (typeof window.__onOpenInNewTab === 'function') {
+    try {
+      window.__onOpenInNewTab(url);
+    } catch {
+      /* 钩子自身出错不应影响打开 */
+    }
   }
-  if (!win) {
-    // 同步回退，避免被判定为非用户手势
-    window.location.href = url;
+
+  // 优先走原生锚点
+  if (typeof document.createElement === 'function' && document.body) {
+    try {
+      const a = document.createElement('a');
+      a.href = url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.style.display = 'none';
+      document.body.appendChild(a);
+      a.click();
+      if (typeof a.remove === 'function') a.remove();
+      else if (a.parentNode) a.parentNode.removeChild(a);
+      return;
+    } catch {
+      /* 落到下面的兜底 */
+    }
+  }
+
+  // 兜底：没有正常 DOM 能力的环境
+  try {
+    const w = window.open(url, '_blank');
+    // 不把返回值当作「是否被拦截」的依据：多数浏览器成功时同样返回 null
+    if (w && typeof w.focus === 'function') w.focus();
+  } catch {
+    /* 彻底失败时也不再改当前页地址，避免用户丢失列表位置 */
   }
 }
 
@@ -490,8 +516,8 @@ function onFeedClick(event) {
   // 其余内部可交互元素（媒体报道链接、按钮）各自处理，卡片不接管
   if (!isTitleLink && isInteractiveTarget(target)) return;
 
-  // 标题链接统一走这里：阻止原生跳转，改用带拦截回退的打开逻辑，
-  // 避免「原生跳转 + 委托打开」导致的双开
+  // 标题链接统一走这里：阻止原生跳转，改由卡片逻辑处理，
+  // 避免「原生跳转 + 委托打开」弹出两个标签页
   if (isTitleLink) event.preventDefault();
 
   const id = card.dataset.id;
@@ -501,7 +527,8 @@ function onFeedClick(event) {
   if (!url) return;
 
   markRead(id);
-  openItemLink(item || { link: url });
+  // 只在新标签页打开，当前页始终停留在列表上
+  openInNewTab(url);
 }
 
 /* ───────────────────────── 正文渲染 ───────────────────────── */

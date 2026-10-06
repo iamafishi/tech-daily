@@ -521,8 +521,14 @@ const history = {
 };
 
 const scrollCalls = [];
-/** 记录 window.open 调用，用于验证「点击卡片打开原文」 */
+/**
+ * 「打开原文」的观察点。
+ * 应用现在用临时 <a target="_blank"> 开新标签（window.open 成功时也返回 null，
+ * 无法据此判断是否被拦截），因此通过 window.__onOpenInNewTab 钩子记录，
+ * 同时继续记录 window.open —— 用来断言它**不再被调用**。
+ */
 const openCalls = [];
+const openHookCalls = [];
 const windowObj = {
   location,
   history,
@@ -535,6 +541,7 @@ const windowObj = {
     openCalls.push({ url, target, features });
     return { closed: false };
   },
+  __onOpenInNewTab: (url) => openHookCalls.push({ url }),
   matchMedia: () => ({ matches: false, addEventListener: () => {}, addListener: () => {} }),
   addEventListener: (type, fn) => {
     if (!windowListeners.has(type)) windowListeners.set(type, new Set());
@@ -781,64 +788,72 @@ const clickCard = q('.card')[0];
 const clickLink = clickCard.dataset.link;
 const clickId = clickCard.dataset.id;
 
+openHookCalls.length = 0;
 openCalls.length = 0;
+const urlBeforeClick = location.href;
 clickCard.querySelector('.card-desc').click();
-check('点击卡片正文打开原文', openCalls.length === 1 && openCalls[0].url === clickLink, `${openCalls.length} 次调用 → ${openCalls[0]?.url}`);
-check('新标签打开并带 noopener', openCalls[0]?.target === '_blank' && String(openCalls[0]?.features).includes('noopener'));
+check('点击卡片正文打开原文', openHookCalls.length === 1 && openHookCalls[0].url === clickLink, `${openHookCalls.length} 次调用 → ${openHookCalls[0]?.url}`);
+// 回归：此前用 window.open 的返回值判断是否被拦截，而 Chrome 成功时也返回 null，
+// 导致回退逻辑把当前页也跳走（新标签 + 当前页双开）。
+check('不再使用 window.open（其返回值不可靠）', openCalls.length === 0, `${openCalls.length} 次 window.open`);
+check('当前页地址不因点击而改变', location.href === urlBeforeClick, location.href);
 check('点击卡片后标记为已读', storedReadSet().has(clickId) && clickCard.classList.contains('is-read'));
 check('已读状态写入 localStorage', (localStorage.getItem('techdaily:read') || '').includes(clickId));
 
+openHookCalls.length = 0;
 openCalls.length = 0;
 clickCard.querySelector('.cat-tag').click();
-check('点击分类标签也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
+check('点击分类标签也打开原文', openHookCalls.length === 1, `${openHookCalls.length} 次`);
+check('分类标签点击不触发 window.open', openCalls.length === 0, `${openCalls.length} 次`);
 
-openCalls.length = 0;
+openHookCalls.length = 0;
 const titleLink = clickCard.querySelector('.card-title-link');
 titleLink.click();
-check('点击标题链接打开原文', openCalls.length === 1 && openCalls[0].url === clickLink, `${openCalls.length} 次调用`);
-check('标题链接不会双开（统一走委托）', openCalls.length === 1, `${openCalls.length} 次`);
+check('点击标题链接打开原文', openHookCalls.length === 1 && openHookCalls[0].url === clickLink, `${openHookCalls.length} 次调用`);
+check('标题链接只打开一次（不会双开）', openHookCalls.length === 1, `${openHookCalls.length} 次`);
+check('标题链接点击后当前页地址不变', location.href === urlBeforeClick, location.href);
 
 // Ctrl/⌘ 点击交给浏览器原生处理（新标签），不由委托接管
-openCalls.length = 0;
+openHookCalls.length = 0;
 const modClick = new DomEvent('click', { bubbles: true, cancelable: true });
 modClick.ctrlKey = true;
 titleLink.dispatchEvent(modClick);
-check('Ctrl+点击交给浏览器原生处理', openCalls.length === 0, `${openCalls.length} 次`);
+check('Ctrl+点击交给浏览器原生处理', openHookCalls.length === 0, `${openHookCalls.length} 次`);
 
 // 关键防回归：卡片内部的「另 N 家媒体报道」链接不能被劫持
 const cardWithDupes = q('.card').find((c) => c.querySelector('.dupes a'));
 if (cardWithDupes) {
   const dupeLink = cardWithDupes.querySelector('.dupes a');
   const dupeHref = dupeLink.getAttribute('href');
-  openCalls.length = 0;
+  openHookCalls.length = 0;
   dupeLink.click();
-  check('点击「另 N 家媒体报道」不打开主条目', openCalls.length === 0, `${openCalls.length} 次调用`);
+  check('点击「另 N 家媒体报道」不打开主条目', openHookCalls.length === 0, `${openHookCalls.length} 次调用`);
   check('媒体报道链接本身保留正确地址', /^https?:\/\//.test(dupeHref || ''), dupeHref);
   check('媒体报道链接带 noopener', dupeLink.getAttribute('rel') === 'noopener noreferrer');
 } else {
   check('（本次数据无折叠重复条目，跳过媒体链接测试）', true);
 }
 
-openCalls.length = 0;
+openHookCalls.length = 0;
 const imgCard = q('.card').find((c) => c.querySelector('.card-thumb img'));
 if (imgCard) {
   imgCard.querySelector('.card-thumb img').click();
-  check('点击配图也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
+  check('点击配图也打开原文', openHookCalls.length === 1, `${openHookCalls.length} 次`);
 } else {
   check('（本次数据无配图，跳过配图点击测试）', true);
 }
 
 // 右键 / 中键不应触发
-openCalls.length = 0;
+openHookCalls.length = 0;
 const rightClick = new DomEvent('click', { bubbles: true });
 rightClick.button = 2;
 clickCard.querySelector('.card-desc').dispatchEvent(rightClick);
-check('非左键点击不跳转', openCalls.length === 0, `${openCalls.length} 次`);
+check('非左键点击不跳转', openHookCalls.length === 0, `${openHookCalls.length} 次`);
 
 // 点击空白区域（无 .card 祖先）不应跳转
-openCalls.length = 0;
+openHookCalls.length = 0;
 q1('#feed').click();
-check('点击非卡片区域不跳转', openCalls.length === 0, `${openCalls.length} 次`);
+check('点击非卡片区域不跳转', openHookCalls.length === 0, `${openHookCalls.length} 次`);
 
 // 搜索结果里的卡片同样可点
 searchInput.value = 'AI';
@@ -846,13 +861,13 @@ searchInput.dispatchEvent(new DomEvent('input', { bubbles: true }));
 await sleep(450);
 const searchCard = q('.card')[0];
 if (searchCard) {
-  openCalls.length = 0;
+  openHookCalls.length = 0;
   searchCard.querySelector('.card-desc')?.click();
-  check('搜索结果卡片也可点击跳转', openCalls.length === 1, `${openCalls.length} 次`);
+  check('搜索结果卡片也可点击跳转', openHookCalls.length === 1, `${openHookCalls.length} 次`);
 }
 q1('#search-clear').click();
 await sleep(450);
-openCalls.length = 0;
+openHookCalls.length = 0;
 
 // 当前数据里恰好没有折叠重复条目，而「卡片内链接不能被劫持」是本次改动最容易踩的坑。
 // 因此往 app 正在使用的日数据对象里注入一条合成重复项，重绘后验证，最后移除。
@@ -867,20 +882,20 @@ openCalls.length = 0;
     const injected = q('.card').find((c) => c.querySelector('.dupes a'));
     if (injected) {
       const dupeA = injected.querySelector('.dupes a');
-      openCalls.length = 0;
+      openHookCalls.length = 0;
       dupeA.click();
-      check('点击「另 N 家媒体报道」不打开主条目', openCalls.length === 0, `${openCalls.length} 次调用`);
+      check('点击「另 N 家媒体报道」不打开主条目', openHookCalls.length === 0, `${openHookCalls.length} 次调用`);
       check('媒体报道链接地址正确', dupeA.getAttribute('href') === 'https://example.com/other-coverage', String(dupeA.getAttribute('href')));
       check('媒体报道链接带 noopener', dupeA.getAttribute('rel') === 'noopener noreferrer');
 
-      openCalls.length = 0;
+      openHookCalls.length = 0;
       injected.querySelector('.dupes').click();
-      check('点击重复提示区域不误跳转', openCalls.length === 0, `${openCalls.length} 次`);
+      check('点击重复提示区域不误跳转', openHookCalls.length === 0, `${openHookCalls.length} 次`);
 
-      openCalls.length = 0;
+      openHookCalls.length = 0;
       const desc = injected.querySelector('.card-desc');
       if (desc) desc.click();
-      check('同一卡片点正文仍正常跳转', openCalls.length === 1, `${openCalls.length} 次`);
+      check('同一卡片点正文仍正常跳转', openHookCalls.length === 1, `${openHookCalls.length} 次`);
     } else {
       check('注入合成重复项后渲染出折叠提示', false, '未找到 .dupes');
     }
@@ -892,7 +907,7 @@ openCalls.length = 0;
     check('（无法取得日数据对象，跳过媒体链接测试）', true);
   }
 }
-openCalls.length = 0;
+openHookCalls.length = 0;
 
 console.log('\n— 分类筛选 —');
 
@@ -1167,7 +1182,7 @@ console.log('\n— 读取状态持久化 —');
 // 换一张还没被点过的卡片，验证点击内容区即标记已读
 const unreadCard = q('.card').find((c) => !storedReadSet().has(c.dataset.id)) || q('.card')[0];
 const unreadId = unreadCard.dataset.id;
-openCalls.length = 0;
+openHookCalls.length = 0;
 const clickTarget = unreadCard.querySelector('.card-desc') || unreadCard.querySelector('.card-body') || unreadCard;
 clickTarget.click();
 await sleep(80);
@@ -1179,7 +1194,7 @@ check(
   `id=${unreadId} 已读集合=${storedReadSet().size} 条`
 );
 check('标记已读作用于正确的卡片', sameCard === unreadCard, '');
-check('点击卡片内容同时也打开原文', openCalls.length === 1, `${openCalls.length} 次`);
+check('点击卡片内容同时也打开原文', openHookCalls.length === 1, `${openHookCalls.length} 次`);
 check('已读状态写入 localStorage', (localStorage.getItem('techdaily:read') || '').includes(unreadId));
 
 console.log('\n— 去重逻辑回归（合成样本）—');
