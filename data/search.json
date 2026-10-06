@@ -1,8 +1,248 @@
 {
-  "generatedAt": "2026-10-06T02:11:59.356Z",
+  "generatedAt": "2026-10-06T04:22:06.506Z",
   "limit": 6000,
-  "total": 1471,
+  "total": 1496,
   "items": [
+    {
+      "id": "1u9hh5s2kc",
+      "t": "华为余承东官宣鸿蒙出海：正在考虑未来逐步将 HarmonyOS 推向全球市场",
+      "u": "https://ithome.com/1/009/974.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-06",
+      "p": "2026-10-06T04:20:14.000Z",
+      "x": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要 。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业"
+    },
+    {
+      "id": "1bu6nj6vll",
+      "t": "This Linux project runs Bloodborne's PS4 code directly on your CPU, and you can try it too",
+      "u": "https://xda-developers.com/someone-natively-ported-bloodborne-to-linux-and-now-theres-a-guide-on-setting-it-up",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-10-06",
+      "p": "2026-10-06T04:10:46.000Z",
+      "x": "There has been a huge wave of unofficial console ports to the PC over the past few days. Our gaming editor, Pa"
+    },
+    {
+      "id": "94jhlm1576",
+      "t": "vivo Y32 quietly launches with an 8,000 mAh battery",
+      "u": "https://gsmarena.com/vivo_y32_quietly_launches_with_an_8000_mah_battery-news-74912.php",
+      "s": "GSMArena",
+      "c": "auto",
+      "d": "2026-10-06",
+      "p": "2026-10-06T04:01:02.000Z",
+      "x": "来源：GSMArena — vivo Y32 quietly launches with an 8,000 mAh battery"
+    },
+    {
+      "id": "1p4yo311qw",
+      "t": "Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out (Updated: Fix incoming)",
+      "u": "https://androidauthority.com/amazon-alexa-la-la-la-3719167",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:56:35.000Z",
+      "x": "Credit: Dhruv Bhutani / Android Authority TL;DR Amazon Alexa has been exhibiting strange behavior. Users repor"
+    },
+    {
+      "id": "xqr77c1vzz",
+      "t": "微软安卓版 Microsoft Authenticator 应用备份 2027 年改用 Google One",
+      "u": "https://ithome.com/1/009/972.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:40:41.000Z",
+      "x": "IT之家 10 月 6 日消息，科技媒体 NeoWin 昨日（10 月 5 日）发布博文，报道称微软宣布将于 2027 年 7 月 1 日开始， 调整安卓版 Microsoft Authenticator 应用备份机制，"
+    },
+    {
+      "id": "35ipod1qfm",
+      "t": "ChatGPT users, your AI-written text will soon carry a hidden watermark",
+      "u": "https://androidauthority.com/chatgpt-text-watermarking-3719403",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:38:49.000Z",
+      "x": "Credit: Edgar Cervantes / Android Authority TL;DR ChatGPT-generated text will soon carry an invisible watermar"
+    },
+    {
+      "id": "11jbdvj1ak",
+      "t": "消息称月之暗面完成上市前最后一轮融资：估值约 500 亿美元，计划明年一季度赴港 IPO",
+      "u": "https://ithome.com/1/009/971.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:38:47.000Z",
+      "x": "IT之家 10 月 6 日消息，据彭博社报道，知情人士消息，月之暗面（Moonshot AI）已经完成上市前最后一轮私募融资，估值约 500 亿美元 （IT之家注：现汇率约合 3,357.23 亿元人民币） ；该公司计划"
+    },
+    {
+      "id": "wjonkt19ut",
+      "t": "Open Source as We Know It Is Dead",
+      "u": "https://jross.me/open-source-as-we-know-it-is-dead",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:31:45.000Z",
+      "x": "Article URL: https://jross.me/open-source-as-we-know-it-is-dead/ Comments URL: https://news.ycombinator.com/it"
+    },
+    {
+      "id": "177lcwaoe8",
+      "t": "iPhone 秒变“摄影机”，ShiftCam 与苹果合作推出全新 ProRig 套装",
+      "u": "https://ithome.com/1/009/970.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:31:33.000Z",
+      "x": "IT之家 10 月 6 日消息，苹果多年来一直将 iPhone 定位为专业的视频拍摄设备，官方每年的视频短片花絮中都能看到 iPhone 外挂各种专业影像设备的画面。 现在，ShiftCam 与苹果合作， 开发了一套用于"
+    },
+    {
+      "id": "zo8qxajc8v",
+      "t": "Apple reportedly planning second wave of product announcements later this month",
+      "u": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:25:14.000Z",
+      "x": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil "
+    },
+    {
+      "id": "1qadrk01b7",
+      "t": "微软 Win11 五周年：全球超 10 亿用户背后，Win10 旧功能 / 特性回归、优化内存占用",
+      "u": "https://ithome.com/1/009/969.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:20:07.000Z",
+      "x": "IT之家 10 月 6 日消息，微软于 2021 年 10 月 5 日正式发布 Windows 11 系统，距今（2026 年 10 月 5 日）已满 5 周年， 全球用户规模已突破 10 亿大关。 在适配升级方面，微软"
+    },
+    {
+      "id": "8u30t5l5q0",
+      "t": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+      "u": "https://macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-06",
+      "p": "2026-10-06T03:20:06.000Z",
+      "x": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahea"
+    },
+    {
+      "id": "jx1hxxbil1",
+      "t": "任天堂《超级马力欧兄弟：惊奇》游戏被原生移植到 Windows，无需模拟器几乎完美运行",
+      "u": "https://ithome.com/1/009/968.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:59:25.000Z",
+      "x": "IT之家 10 月 6 日消息，开发者 Belmante 上周展示了 任天堂《超级马力欧兄弟：惊奇》的原生 Windows 移植版 。 在未使用模拟器的情况下，RTX 3050 笔记本运行《超级马力欧兄弟：惊奇》的帧率达"
+    },
+    {
+      "id": "1wuplpgbth",
+      "t": "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽",
+      "u": "https://ithome.com/1/009/967.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:52:28.000Z",
+      "x": "IT之家 10 月 6 日消息，散热制造商 Dynatron（传达）此前已在其官网上线了 SB1-4U-ACTIVE 风冷散热器。该型号 支持 Socket SB1 平台上的 AMD \"Zen 6\" 微架构 EPYC 9"
+    },
+    {
+      "id": "nlm7xhnc3x",
+      "t": "Why Common Lisp Is Now the Best Programming Language",
+      "u": "https://vivienhenz.com/common-lisp",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:51:51.000Z",
+      "x": "Article URL: https://www.vivienhenz.com/common-lisp Comments URL: https://news.ycombinator.com/item?id=4997359"
+    },
+    {
+      "id": "1mtcfuw1to",
+      "t": "消息称苹果 10 月推 2 波新品上市：M6 iMac、首款触控 MacBook 等",
+      "u": "https://ithome.com/1/009/965.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:43:36.000Z",
+      "x": "IT之家 10 月 6 日消息，科技媒体 MacRumors 今天（10 月 6 日）发布博文，报道称苹果公司本月（2026 年 10 月）有望分 2 波推出诸多新产品， 第一波聚焦智能家居产品，第二波主角是 Mac 系"
+    },
+    {
+      "id": "sl7bs1wrbg",
+      "t": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+      "u": "https://ithome.com/1/009/964.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:41:41.000Z",
+      "x": "IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，快手科技旗下的可灵 AI（Kling AI）已经选定承销银行，筹备赴香港开展首次公开募股，此次 IPO 募资规模至少可达 10 亿美元 （IT之家注：现汇率约合"
+    },
+    {
+      "id": "ltjih4184c",
+      "t": "华硕推出 XG32UQDS 显示器：31.5\" UHD 180Hz QD-OLED 面板",
+      "u": "https://ithome.com/1/009/963.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:38:23.000Z",
+      "x": "IT之家 10 月 6 日消息，华硕 (ASUS) 近日推出了显示器新品 ROG Strix OLED XG32UQDS。这一型号基于 32\"(31.5\") 的 UHD (3840×2160) 180Hz QD-OLED"
+    },
+    {
+      "id": "1xdo7rco37",
+      "t": "微软 Win11 逐步淘汰传统打印机驱动，旧设备恐面临兼容性挑战",
+      "u": "https://ithome.com/1/009/962.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:30:33.000Z",
+      "x": "IT之家 10 月 6 日消息，科技媒体 hardwareluxx 昨日（10 月 5 日）发布博文，报道称在 Windows 11 系统中，微软正在推进 Windows Ready Print， 可能会导致部分老式 U"
+    },
+    {
+      "id": "1gqhijcjhj",
+      "t": "Watch the vivo V80 announcement live here",
+      "u": "https://gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:30:01.000Z",
+      "x": "来源：GSMArena — Watch the vivo V80 announcement live here"
+    },
+    {
+      "id": "kj2pff10an",
+      "t": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+      "u": "https://ithome.com/1/009/961.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:29:06.000Z",
+      "x": "IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家 ChatGPT 开发商完成"
+    },
+    {
+      "id": "m3k95mn6z1",
+      "t": "Sources: Apple Planning Two Sets of Product Launches in October",
+      "u": "https://macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october",
+      "s": "MacRumors",
+      "c": "pc",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:25:00.000Z",
+      "x": "Bloomberg 's Mark Gurman recently reported that Apple plans to unveil an all-new home hub, a new HomePod mini,"
+    },
+    {
+      "id": "68725okx3v",
+      "t": "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益",
+      "u": "https://ithome.com/1/009/960.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:18:07.000Z",
+      "x": "IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院， 被指控在与 NVIDIA（英伟达）的“类收购”非独家授权交易中牺牲了少数股东的权益 。 原告 Jo"
+    },
+    {
+      "id": "r633c319d7",
+      "t": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
+      "u": "https://ithome.com/1/009/958.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-06",
+      "p": "2026-10-06T02:12:00.000Z",
+      "x": "IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中， 微软优化 Copilot AI 体验，新增引用功能，帮助用户溯源遏制 AI"
+    },
     {
       "id": "9h0a1i1qs3",
       "t": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
@@ -234,6 +474,16 @@
       "x": "IT之家 10 月 6 日消息，由英伟达投资的初创企业 Reflection AI 于当地时间周一推出了自家首款开放权重大模型 Beam。这家初创公司希望在代码编写与智能体任务领域，同 DeepSeek、Kimi 等中国"
     },
     {
+      "id": "kzqm3b11pl",
+      "t": "Photopea creator weighs in on Photosuite project",
+      "u": "https://github.com/eolix/photosuite/issues/77",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-06",
+      "p": "2026-10-06T00:41:44.000Z",
+      "x": "Article URL: https://github.com/eolix/photosuite/issues/77 Comments URL: https://news.ycombinator.com/item?id="
+    },
+    {
       "id": "1utlkuh6yt",
       "t": "Common mistakes you should avoid when using foldable phones",
       "u": "https://engadget.com/2276483/common-mistakes-avoid-using-foldable-phones",
@@ -305,7 +555,7 @@
     },
     {
       "id": "g52m4m1dtz",
-      "t": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "t": "AI tutoring with Khanmigo in a two-year school experiment",
       "u": "https://edworkingpapers.com/ai26-1551",
       "s": "Hacker News",
       "c": "ai",
@@ -565,7 +815,7 @@
     },
     {
       "id": "1tmdv89pzz",
-      "t": "Example.com Just Launched the Biggest Redesign in Decades",
+      "t": "Example.com just launched the biggest redesign in decades",
       "u": "https://debugbear.com/blog/example-dot-com-redesign-history",
       "s": "Hacker News",
       "c": "other",
@@ -731,7 +981,7 @@
       "c": "other",
       "d": "2026-10-06",
       "p": "2026-10-05T21:40:50.000Z",
-      "x": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 112 # "
+      "x": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 141 # "
     },
     {
       "id": "kf42rcejie",
@@ -1260,8 +1510,8 @@
       "s": "MacRumors",
       "c": "pc",
       "d": "2026-10-06",
-      "p": "2026-10-05T18:23:19.000Z",
-      "x": "Apple is testing the next macOS Golden Gate update, and developers can download the second &zwnj;macOS Golden "
+      "p": "2026-10-05T18:23:16.000Z",
+      "x": "Apple is testing the next macOS Golden Gate update, and developers can download the third &zwnj;macOS Golden G"
     },
     {
       "id": "tvuwtw1ntn",
