@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-09T02:00:44.582Z",
+  "generatedAt": "2026-10-10T01:40:40.132Z",
   "timezoneOffsetMinutes": 480,
-  "buildMs": 8602,
+  "buildMs": 8703,
   "windowHours": 72,
   "site": {
     "title": "科技数码日报",
     "subtitle": "每日自动聚合中英科技数码圈资讯"
   },
   "totals": {
-    "items": 2086,
-    "days": 13,
+    "items": 2241,
+    "days": 14,
     "sources": 17,
     "sourcesOk": 17,
-    "freshItems": 592
+    "freshItems": 598
   },
   "categories": [
     {
@@ -128,8 +128,8 @@
       "lang": "en",
       "group": "intl",
       "ok": true,
-      "itemCount": 81,
-      "ms": 186,
+      "itemCount": 70,
+      "ms": 102,
       "httpStatus": 200,
       "error": null
     },
@@ -140,8 +140,8 @@
       "lang": "zh",
       "group": "cn",
       "ok": true,
-      "itemCount": 8,
-      "ms": 1929,
+      "itemCount": 14,
+      "ms": 2245,
       "httpStatus": 200,
       "error": null
     },
@@ -152,8 +152,8 @@
       "lang": "zh",
       "group": "cn",
       "ok": true,
-      "itemCount": 8,
-      "ms": 1227,
+      "itemCount": 10,
+      "ms": 1769,
       "httpStatus": 200,
       "error": null
     },
@@ -165,7 +165,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 80,
-      "ms": 512,
+      "ms": 205,
       "httpStatus": 200,
       "error": null
     },
@@ -177,7 +177,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 20,
-      "ms": 43,
+      "ms": 114,
       "httpStatus": 200,
       "error": null
     },
@@ -189,7 +189,7 @@
       "group": "cn",
       "ok": true,
       "itemCount": 150,
-      "ms": 4315,
+      "ms": 4332,
       "httpStatus": 200,
       "error": null
     },
@@ -201,7 +201,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 20,
-      "ms": 607,
+      "ms": 589,
       "httpStatus": 200,
       "error": null
     },
@@ -213,7 +213,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 20,
-      "ms": 1030,
+      "ms": 908,
       "httpStatus": 200,
       "error": null
     },
@@ -225,7 +225,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 20,
-      "ms": 3410,
+      "ms": 1329,
       "httpStatus": 200,
       "error": null
     },
@@ -236,8 +236,8 @@
       "lang": "en",
       "group": "intl",
       "ok": true,
-      "itemCount": 4,
-      "ms": 535,
+      "itemCount": 5,
+      "ms": 258,
       "httpStatus": 200,
       "error": null
     },
@@ -249,7 +249,7 @@
       "group": "cn",
       "ok": true,
       "itemCount": 60,
-      "ms": 2961,
+      "ms": 1577,
       "httpStatus": 200,
       "error": null
     },
@@ -261,7 +261,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 20,
-      "ms": 214,
+      "ms": 58,
       "httpStatus": 200,
       "error": null
     },
@@ -272,8 +272,8 @@
       "lang": "zh",
       "group": "cn",
       "ok": true,
-      "itemCount": 15,
-      "ms": 1912,
+      "itemCount": 20,
+      "ms": 1802,
       "httpStatus": 200,
       "error": null
     },
@@ -285,7 +285,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 20,
-      "ms": 536,
+      "ms": 595,
       "httpStatus": 200,
       "error": null
     },
@@ -297,7 +297,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 10,
-      "ms": 463,
+      "ms": 561,
       "httpStatus": 200,
       "error": null
     },
@@ -309,7 +309,7 @@
       "group": "intl",
       "ok": true,
       "itemCount": 50,
-      "ms": 121,
+      "ms": 146,
       "httpStatus": 200,
       "error": null
     },
@@ -321,12 +321,24 @@
       "group": "intl",
       "ok": true,
       "itemCount": 10,
-      "ms": 307,
+      "ms": 161,
       "httpStatus": 200,
       "error": null
     }
   ],
   "days": [
+    {
+      "date": "2026-10-10",
+      "label": "10月10日 周六",
+      "itemCount": 155,
+      "aiSummary": true,
+      "topCategories": [
+        "other",
+        "ai",
+        "phone",
+        "auto"
+      ]
+    },
     {
       "date": "2026-10-09",
       "label": "10月9日 周五",
