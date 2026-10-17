@@ -1,8 +1,788 @@
 {
-  "generatedAt": "2026-10-17T00:19:35.870Z",
+  "generatedAt": "2026-10-17T23:57:33.190Z",
   "limit": 6000,
-  "total": 3231,
+  "total": 3309,
   "items": [
+    {
+      "id": "uim6gxdeb8",
+      "t": "曝华为 Pura X Max 阔折叠手机销量已破百万台，标准版成功“赶超”典藏版",
+      "u": "https://ithome.com/1/014/428.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:56:47.000Z",
+      "x": "IT之家 10 月 18 日消息，长期关注国内手机市场份额的博主 @RD观测 分享了华为折叠屏手机的销量情况：截至 2026 W40（IT之家注：9 月 28 日-10 月 4 日），华为 Pura X Max 约 52"
+    },
+    {
+      "id": "176meel12n",
+      "t": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+      "u": "https://ithome.com/1/014/427.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:52:03.000Z",
+      "x": "“IT早报”时间，大家好，现在是 2026 年 10 月 18 日星期日，今天的重要科技资讯有： 1. 华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本 数码博主透露该品牌主攻线上、定位性价比，"
+    },
+    {
+      "id": "1gkt1e81cd",
+      "t": "荣耀新一代 Earbuds 耳夹式耳机开售：单耳重 5.6 克、综合续航 40 小时，到手价 449 元",
+      "u": "https://ithome.com/1/014/426.htm",
+      "s": "IT之家",
+      "c": "ai-hardware",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:49:07.000Z",
+      "x": "IT之家 10 月 18 日消息，荣耀新一代 Earbuds 耳夹式耳机将于今日 08:24 开售， 到手价 449 元 。 这款耳机主打全天候舒适佩戴，耳挂采用食品级亲肤硅胶，搭配天鹅颈曲线设计；单只耳机重 5.6 克"
+    },
+    {
+      "id": "1qzthhuohf",
+      "t": "防敏感内容外泄，微软 Edge 浏览器商业版水印保护功能年底全面上线",
+      "u": "https://ithome.com/1/014/425.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:48:12.000Z",
+      "x": "IT之家 10 月 18 日消息，今年早些时候有报道称，微软正在为商业版 Edge 浏览器开发水印保护功能。该功能主要用于强化合规管理，同时提醒用户，其所浏览的敏感内容具有保密性。目前传来好消息，微软终于准备在今年晚些时"
+    },
+    {
+      "id": "1dr584z1w2",
+      "t": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+      "u": "https://engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:45:00.000Z",
+      "x": "OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a "
+    },
+    {
+      "id": "13j4m7sl60",
+      "t": "丰田拟在华首次采用自研一体化压铸技术造电动车，雷克萨斯上海工厂 2027 年投产",
+      "u": "https://ithome.com/1/014/424.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:40:36.000Z",
+      "x": "IT之家 10 月 18 日消息，据彭博社于当地时间 10 月 16 日报道，丰田汽车公司计划在其斥资 20 亿美元 （IT之家注：现汇率约合 133.97 亿元人民币） 打造的中国雷克萨斯工厂 引入自主研发的一体化压铸"
+    },
+    {
+      "id": "rqrs40k0ty",
+      "t": "台积电在日合资企业 JASM 第二晶圆厂转产 3nm 获日本经产省批准",
+      "u": "https://ithome.com/1/014/423.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:40:06.000Z",
+      "x": "IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。 JASM 第二晶圆厂原本规划的是 40nm、12nm、6nm，总月产能 6.3"
+    },
+    {
+      "id": "1o7b0jepxc",
+      "t": "韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才",
+      "u": "https://ithome.com/1/014/422.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:38:12.000Z",
+      "x": "IT之家 10 月 18 日消息，据 Tweaktown 报道，一名韩国半导体工程师指控，特斯拉在与三星签订芯片代工协议时，试图争取极为优厚的条款：既要获取敏感的制造工艺信息、审计权限，同时还要求压低报价。这位在 X 平"
+    },
+    {
+      "id": "1j18xse1oy",
+      "t": "WPS 官宣「抢鲜」适配 iPhone Duo，支持伴随式 AI 全新布局",
+      "u": "https://ithome.com/1/014/421.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:36:49.000Z",
+      "x": "IT之家 10 月 18 日消息，金山办公 WPS 官方微博宣布， WPS 已「抢鲜」适配 iPhone Duo 。官方宣称“手机新形态，办公也有新玩法”。 据介绍，WPS Office for iPhone Duo 支"
+    },
+    {
+      "id": "19xbwht1qr",
+      "t": "Retired Penn professor arrested for blocking Uber Eats robot",
+      "u": "https://phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest?l",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:31:48.000Z",
+      "x": "Article URL: https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l Comments URL: https:"
+    },
+    {
+      "id": "gqhdz1xpgn",
+      "t": "These Samsung Galaxy tablets are in their last year of software support",
+      "u": "https://engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:30:00.000Z",
+      "x": "Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage o"
+    },
+    {
+      "id": "ogceuc1lri",
+      "t": "全球化交付加速：小鹏 GX 大规模发运中东非市场，海外售价未公布中东订单已破 3000 辆",
+      "u": "https://ithome.com/1/014/420.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:28:54.000Z",
+      "x": "IT之家 10 月 18 日消息，小鹏汽车官方昨日宣布， 小鹏 GX 大规模发运中东非市场 ，全球化交付加速。 据介绍，该车海外售价尚未公布， 中东订单已突破 3,000 辆 。国内连续跻身 30 万级以上大型 SUV "
+    },
+    {
+      "id": "c8o6a31kuc",
+      "t": "布局物理 AI：美光研发边缘推理内存 EIM，降低数据处理延迟并提高带宽",
+      "u": "https://ithome.com/1/014/419.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:26:38.000Z",
+      "x": "IT之家 10 月 18 日消息，据韩媒 The Elec 报道，美光正在推进面向物理 AI 的专用存储芯片 —— 边缘推理内存（Edge Inference Memory，EIM）的研发。 10 月 16 日，在首尔江"
+    },
+    {
+      "id": "1vfcm9l1i5",
+      "t": "Deals: latest Galaxy foldables and Galaxy S26 series are on sale",
+      "u": "https://gsmarena.com/deals_the_galaxy_z8_and_galaxy_s26_models_are_on_sale-news-75085.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:24:02.000Z",
+      "x": "来源：GSMArena — Deals: latest Galaxy foldables and Galaxy S26 series are on sale"
+    },
+    {
+      "id": "l2r76f1w97",
+      "t": "雷克萨斯推出直升机出租服务，完成陆海空出行布局",
+      "u": "https://ithome.com/1/014/418.htm",
+      "s": "IT之家",
+      "c": "ai-hardware",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:20:59.000Z",
+      "x": "IT之家 10 月 18 日消息，雷克萨斯正拓展至各类出行领域，覆盖“陆、海、空”三大场景。这家日本豪华汽车品牌近日宣布，正式将雷克萨斯的品牌格调带上天空。 这次推出的不是电动垂直起降飞行器，而是大家更为熟悉的项目：直升"
+    },
+    {
+      "id": "1r9yonu55y",
+      "t": "曝小米 18 Fold 中折叠手机销量突破十万台：首搭玄戒 O3、后置徕卡三摄，10999 元起",
+      "u": "https://ithome.com/1/014/417.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:20:56.000Z",
+      "x": "IT之家 10 月 18 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 40 周（9 月 28 日-10 月 4 日）， 小米 18 Fold 中折叠手机的销量约 10.47 万台"
+    },
+    {
+      "id": "1wja48lgyr",
+      "t": "马斯克：新款特斯拉 Roadster 可自主完成特技动作，得州总部将建环形赛道",
+      "u": "https://ithome.com/1/014/416.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:08:08.000Z",
+      "x": "IT之家 10 月 18 日消息，埃隆 · 马斯克（Elon Musk）表示，新款特斯拉 Roadster 车主可以指令车辆完成特斯拉在发布活动上演示的特技动作，全程由车辆自主驾驶。马斯克于当地时间周六在 X 平台回复科"
+    },
+    {
+      "id": "injueb15r7",
+      "t": "秦力洪：第三季度蔚来公司终端销量首次同时超越奔驰 / 宝马 / 奥迪三大德系豪华厂商",
+      "u": "https://ithome.com/1/014/415.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:05:30.000Z",
+      "x": "IT之家 10 月 18 日消息，据证券时报报道，10 月 17 日，蔚来联合创始人、总裁秦力洪透露：根据威尔森终端销量数据， 2026 年第三季度，蔚来公司在中国市场的累计销量达 111638 台 。 同期，宝马厂商含"
+    },
+    {
+      "id": "p77vt21uwi",
+      "t": "I run OpenCode with a different model for every job, and I haven't hit a rate limit yet",
+      "u": "https://xda-developers.com/run-opencode-with-different-model-for-every-job-havent-hit-rate-limits",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:00:20.000Z",
+      "x": "If you use Claude daily or for heavy projects, you've probably watched the usage meter as closely as the actua"
+    },
+    {
+      "id": "1qwwg6x1ko",
+      "t": "全新领克 20 整车下线 1.2 万台，限时专享价 11.88 万元起",
+      "u": "https://ithome.com/1/014/414.htm",
+      "s": "IT之家",
+      "c": "security",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:00:02.000Z",
+      "x": "IT之家 10 月 18 日消息，领克汽车官方昨晚宣布， 全新领克 20 整车下线 12,000 台 。 据IT之家此前报道，全新领克 20 于 9 月 28 日晚上市，全系标配激光雷达、800V 高压平台， 限时专享价"
+    },
+    {
+      "id": "9c9xmw1aa5",
+      "t": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
+      "u": "https://engadget.com/2284612/wifi-speeds-drop-evening-reason-why",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T23:00:00.000Z",
+      "x": "Everyone getting online at the same time can slam the network, but working around these slowdowns is possible "
+    },
+    {
+      "id": "1adtr25hc0",
+      "t": "梅赛德斯-AMG GT 纯电高性能 SUV 发布，GT 63 三电机最大功率 860 千瓦",
+      "u": "https://ithome.com/1/014/413.htm",
+      "s": "IT之家",
+      "c": "science",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:57:15.000Z",
+      "x": "IT之家 10 月 18 日消息，今年早些时候，梅赛德斯发布了全新 AMG GT 四门轿跑，这是一款高性能电动汽车，拥有 1,153 马力，搭载源自一级方程式赛车的电池技术，还配备漂移模式。虽然纸面参数十分亮眼，但它的外"
+    },
+    {
+      "id": "olpnxj9dob",
+      "t": "申通快递有限公司因未按规定履行安全保障统一管理责任，被处以罚款 6 万元",
+      "u": "https://ithome.com/1/014/412.htm",
+      "s": "IT之家",
+      "c": "security",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:51:48.000Z",
+      "x": "IT之家 10 月 18 日消息，国家邮政局官网显示，2026 年 10 月 09 日，国家邮政局就申通快递有限公司未按规定履行安全保障统一管理责任下达了行政处罚决定书， 申通快递有限公司因未按规定履行安全保障统一管理责"
+    },
+    {
+      "id": "1yhfqrzb5n",
+      "t": "How to keep your smart home running even if the internet goes down",
+      "u": "https://engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:45:00.000Z",
+      "x": "Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?"
+    },
+    {
+      "id": "e6df2i1j00",
+      "t": "Why it's important to monitor your PC's background processes",
+      "u": "https://engadget.com/2284465/why-its-important-to-monitor-pc-background-processes",
+      "s": "Engadget",
+      "c": "pc",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:30:00.000Z",
+      "x": "What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to "
+    },
+    {
+      "id": "1ga8rcl1ah",
+      "t": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+      "u": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:21:41.000Z",
+      "x": "According to a new report from MacRumors , Apple employees are being told to warn customers that iPhone Duo li"
+    },
+    {
+      "id": "18a3iz63jz",
+      "t": "微软Edge将于今年晚些时候引入水印保护功能 强化企业数据防泄露能力",
+      "u": "https://cnbeta.com.tw/articles/tech/1582710.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:19:34.000Z",
+      "x": "微软正在为 Edge 浏览器推出一项新的企业安全功能“Watermarking Protection（水印保护）”，旨在通过在敏感内容上叠加持续显示的半透明水印，降低企业数据被截屏、传播或泄露的风险。该功能预计将在今年晚"
+    },
+    {
+      "id": "zegy0kvq0n",
+      "t": "飓风西蒙在高空激起罕见波纹 NASA卫星捕捉大气重力波",
+      "u": "https://cnbeta.com.tw/articles/science/1582708.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:18:51.000Z",
+      "x": "NASA卫星在2026年10月11日观测到飓风西蒙影响上层大气的罕见景象：夜间影像中，一圈圈波纹从风暴区域向外扩散。这些并非天文学中的引力波，而是大气重力波，由空气受到扰动后在重力作用下上下起伏形成，外观类似水面涟漪。 "
+    },
+    {
+      "id": "1w9vebx13w",
+      "t": "近半世纪卫星记录显示北极海冰持续缩减 夏季或在本世纪中叶前近乎无冰",
+      "u": "https://cnbeta.com.tw/articles/science/1582706.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:17:15.000Z",
+      "x": "NASA卫星资料显示，北极海冰在冬季和夏季覆盖的海域都比几十年前少，残存冰层也日益年轻、变薄。2026年北极海冰于9月12日降至年度最低，范围约460万平方公里，在近48年卫星记录中与2008年、2010年和2025年并"
+    },
+    {
+      "id": "n2zn0uc1mk",
+      "t": "Meta修改了商业服务条款 外界质疑其试图为抓取网站内容训练AI铺路",
+      "u": "https://cnbeta.com.tw/articles/tech/1582704.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:16:47.000Z",
+      "x": "当地时间10月17日，Meta修改了即将生效的商业服务条款，删除了一段此前引发媒体出版商和法律专家强烈担忧的表述。原有条款曾明确提到，Meta可以使用从相关网站、网页或网址获取的内容，用于开发、改进、研究和训练其产品及服"
+    },
+    {
+      "id": "16ghw5t1ea",
+      "t": "苹果零售员工被要求劝阻顾客现场抢购 iPhone Duo 首发库存或极度紧张",
+      "u": "https://cnbeta.com.tw/articles/tech/1582702.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:16:05.000Z",
+      "x": "随着苹果即将于10月23日正式发售新款折叠屏手机 iPhone Duo，多名苹果零售店员工透露，公司已告知门店工作人员提醒消费者，如果没有提前完成预订，不要抱着首发当天到店直接购买的期望前往门店。 阅读全文"
+    },
+    {
+      "id": "13jxhhl14l",
+      "t": "An old Android tablet makes a better Steam Link screen than any handheld I own",
+      "u": "https://xda-developers.com/an-old-android-tablet-makes-a-better-steam-link-screen-than-any-handheld-i-own",
+      "s": "XDA Developers",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:00:19.000Z",
+      "x": "It's no secret that I love handheld gaming , whether that's a small device emulating older games or using one "
+    },
+    {
+      "id": "8fgotha3i7",
+      "t": "Don't throw away your old PlayStation — Do this instead",
+      "u": "https://engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-18",
+      "p": "2026-10-17T22:00:00.000Z",
+      "x": "Older PlayStations may be past their prime, but there are several ways you can make use of these consoles."
+    },
+    {
+      "id": "1q3ybamffw",
+      "t": "JDK 28",
+      "u": "https://openjdk.org/projects/jdk/28",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T21:37:07.000Z",
+      "x": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 "
+    },
+    {
+      "id": "3vvsj81o1b",
+      "t": "Meta removes language that raised scraping and AI training concerns",
+      "u": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T21:31:32.000Z",
+      "x": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
+    {
+      "id": "zs41zh1fmm",
+      "t": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+      "u": "https://macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T21:30:45.000Z",
+      "x": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo withou"
+    },
+    {
+      "id": "wsz238pfl5",
+      "t": "I stopped using a VPN for privacy once I understood what it actually hides",
+      "u": "https://xda-developers.com/stopped-using-a-vpn-for-privacy-once-i-understood-what-it-actually-hides",
+      "s": "XDA Developers",
+      "c": "security",
+      "d": "2026-10-18",
+      "p": "2026-10-17T21:30:20.000Z",
+      "x": "If there's one piece of technology that even your least tech-savvy friend probably has at least a vague unders"
+    },
+    {
+      "id": "1nsswuy8a4",
+      "t": "The Tesla Roadster is far from the first car to use fans for downforce",
+      "u": "https://engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce",
+      "s": "Engadget",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T21:20:21.000Z",
+      "x": "Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does."
+    },
+    {
+      "id": "exdr7c1gbf",
+      "t": "Your Claude Opus 5.5 keeps quietly switching to Opus 4.8, and it's supposed to prevent a security leak",
+      "u": "https://xda-developers.com/claude-opus-5-5-model-switch-opus-4-8",
+      "s": "XDA Developers",
+      "c": "security",
+      "d": "2026-10-18",
+      "p": "2026-10-17T21:00:19.000Z",
+      "x": "Ask Claude Opus 5.5 something that brushes against security, and the reply can come back from a different mode"
+    },
+    {
+      "id": "1po63yxvoh",
+      "t": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "u": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account",
+      "s": "TechCrunch",
+      "c": "web",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:55:52.000Z",
+      "x": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+    },
+    {
+      "id": "1kb04371xn",
+      "t": "苹果挖角Meta资深律师 重组法务团队应对全球诉讼挑战",
+      "u": "https://cnbeta.com.tw/articles/tech/1582700.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:37:11.000Z",
+      "x": "苹果公司近日从Meta招募资深律师斯科特·塔克（Scott Tucker），负责领导公司诉讼业务。这一任命是苹果法务部门最新一轮重组的重要组成部分，也反映出公司正积极强化面对日益复杂的法律和监管挑战的能力。 阅读全文"
+    },
+    {
+      "id": "1nws7xo11d",
+      "t": "伊朗西北部发现约1亿年前的古老火山系统 为消失的远古海洋提供新线索",
+      "u": "https://cnbeta.com.tw/articles/science/1582698.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:36:53.000Z",
+      "x": "科学家在伊朗西北部发现了一套此前未被明确识别的古老火山系统，其形成时间可以追溯到约1.01亿至9700万年前。这一发现不仅揭示了该地区此前被忽略的地质历史，也为重建古老海洋的消亡过程以及中东地区的形成提供了新的证据。 阅"
+    },
+    {
+      "id": "157u3g29kd",
+      "t": "美光为机器人研发EIM内存 目标是兼顾LPDDR低功耗与高带宽",
+      "u": "https://cnbeta.com.tw/articles/tech/1582696.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:36:32.000Z",
+      "x": "据韩国媒体The Elec报道，美光正与主要客户讨论面向物理AI的新型内存产品，开发名为“边缘推理内存”（Edge Inference Memory，EIM）的方案，重点应用包括人形机器人、自主驾驶以及AR、VR设备。美"
+    },
+    {
+      "id": "1cizq6sjjk",
+      "t": "Your motherboard's old debug header is still listening, and it's an unpatched security risk",
+      "u": "https://xda-developers.com/motherboard-old-debug-header-still-listening-security-risk",
+      "s": "XDA Developers",
+      "c": "security",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:30:19.000Z",
+      "x": "Modern motherboards still ship with obscure headers that are almost useless for the average user. The reasons "
+    },
+    {
+      "id": "1c86wvk10u",
+      "t": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
+      "u": "https://macrumors.com/2026/10/17/apple-hires-former-meta-lawyer",
+      "s": "MacRumors",
+      "c": "web",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:21:20.000Z",
+      "x": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg 's Mark Gu"
+    },
+    {
+      "id": "qf990t3trv",
+      "t": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "u": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:21:19.000Z",
+      "x": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the p"
+    },
+    {
+      "id": "1x042vlk8h",
+      "t": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "u": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:07:33.000Z",
+      "x": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombin"
+    },
+    {
+      "id": "1w2xf7olv8",
+      "t": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating",
+      "u": "https://gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:01:02.000Z",
+      "x": "来源：GSMArena — Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating"
+    },
+    {
+      "id": "14vxblx1fh",
+      "t": "I tried Claude Code, VS Code, and a local LLM as a note-taking app, and only one worked",
+      "u": "https://xda-developers.com/tried-claude-code-vs-code-local-llm-as-note-taking-app-only-one-worked",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T20:00:20.000Z",
+      "x": "Note-taking apps have a habit of promising you organization, then handing the actual organizing back to you an"
+    },
+    {
+      "id": "1aq8mjv1sv",
+      "t": "TikTok永久封禁埃隆·马斯克纪录片宣传账号 影片上映前再遭社交平台阻碍",
+      "u": "https://cnbeta.com.tw/articles/movie/1582694.htm",
+      "s": "cnBeta",
+      "c": "web",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:54:00.000Z",
+      "x": "在美国纪录片导演亚历克斯·吉布尼（Alex Gibney）执导的《马斯克》（Musk）即将扩大院线上映规模之际，TikTok已永久封禁该片的官方宣传账号。这一决定进一步加剧了围绕这部纪录片的争议。此前，TikTok与社交"
+    },
+    {
+      "id": "124qilxbdp",
+      "t": "仿生机器人“信天翁”亮相：像枫树种子般降落海面 可自主航行数周监测偏远水域",
+      "u": "https://cnbeta.com.tw/articles/science/1582692.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:53:38.000Z",
+      "x": "新加坡科技设计大学（SUTD）的研究团队研发出一种名为ALBATROSS的新型仿生机器人平台，其设计理念可以概括为“像枫树种子一样飘落，像帆船一样航行”。该系统旨在解决远离海岸的偏远水域长期监测难题，未来有望在海上持续工"
+    },
+    {
+      "id": "uw4nfc17et",
+      "t": "TikTok bans Musk documentary account",
+      "u": "https://theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "s": "The Verge",
+      "c": "web",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:32:23.000Z",
+      "x": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in "
+    },
+    {
+      "id": "1un1c927rr",
+      "t": "I almost retired my old PC until these 5 lightweight Docker containers gave it a purpose",
+      "u": "https://xda-developers.com/almost-retired-pc-until-these-lightweight-docker-containers-gave-purpose",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:30:20.000Z",
+      "x": "I had an old PC collecting dust in a corner, and I was seriously considering retiring it for good. Its aging h"
+    },
+    {
+      "id": "31f2guz1bh",
+      "t": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+      "u": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:30:00.000Z",
+      "x": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indi"
+    },
+    {
+      "id": "13suyl51pi",
+      "t": "Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China",
+      "u": "https://engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:22:17.000Z",
+      "x": "At least there's still Assassin's Creed Jade to look forward to."
+    },
+    {
+      "id": "9mdhz7a0fk",
+      "t": "This Jellyfin dashboard lets me manage viewers, requests, and downloads right from my couch",
+      "u": "https://xda-developers.com/this-jellyfin-dashboard-lets-me-manage-viewers-requests-downloads-from-my-couch",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T19:00:19.000Z",
+      "x": "Running a personal Jellyfin server isn't exactly complicated. But if you're building a system that others will"
+    },
+    {
+      "id": "3qia66j1py",
+      "t": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "u": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:48:08.000Z",
+      "x": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude wi"
+    },
+    {
+      "id": "18euhlfmgu",
+      "t": "Microsoft and CMU team up to train early career software engineers",
+      "u": "https://cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:45:07.000Z",
+      "x": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/"
+    },
+    {
+      "id": "v5t2q6bmwa",
+      "t": "Android Auto can be used outside of your car: Here's how",
+      "u": "https://engadget.com/2284102/how-android-auto-used-outside-of-car",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:45:00.000Z",
+      "x": "It might sound weird to use Android Auto outside of a vehicle, but doing so has unexpected productivity benefi"
+    },
+    {
+      "id": "1p5jbg0ud9",
+      "t": "I replaced VS Code's Copilot with a local LLM, and my offline coding got faster",
+      "u": "https://xda-developers.com/replaced-vs-code-copilot-local-llm-offline-coding-got-faster",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:30:19.000Z",
+      "x": "I already run local LLMs on my Mac through LM Studio, and I’ve found plenty of uses for them outside the chat "
+    },
+    {
+      "id": "20f7as6i5v",
+      "t": "What's actually eating all the storage space on your Android Phone?",
+      "u": "https://engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:30:00.000Z",
+      "x": "Android phone running out of space? Here's why and what you can do to get rid of old files."
+    },
+    {
+      "id": "1bsbaysczh",
+      "t": "iPhone Duo shipping estimates have already been pushed back to 2027",
+      "u": "https://engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:12:35.000Z",
+      "x": "Apple called the early demand \"nothing short of extraordinary.\""
+    },
+    {
+      "id": "oxxsax1vkf",
+      "t": "OpenCode Hacked: User credentials leaked",
+      "u": "https://twitter.com/opencode/status/2111516673953935833",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:01:41.000Z",
+      "x": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.co"
+    },
+    {
+      "id": "16hhabz145",
+      "t": "Steam Remote Play feels laggy by default, but 3 hidden settings can fix it",
+      "u": "https://xda-developers.com/steam-remote-play-feels-laggy-default-hidden-settings-fix",
+      "s": "XDA Developers",
+      "c": "game",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:00:19.000Z",
+      "x": "Steam's Remote Play is one of its best features, and it's only been made more useful with the advent of gaming"
+    },
+    {
+      "id": "1vza5umh5i",
+      "t": "You might be surprised by how much the Slate truck can carry",
+      "u": "https://engadget.com/2289615/slate-truck-how-much-can-carry",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T18:00:00.000Z",
+      "x": "Don't underestimate this compact pickup."
+    },
+    {
+      "id": "1x8kjld1jm",
+      "t": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+      "u": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank",
+      "s": "9to5Mac",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:52:00.000Z",
+      "x": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty"
+    },
+    {
+      "id": "15odc4vw25",
+      "t": "Codex Desktop continuously generates Crashpad pending dumps",
+      "u": "https://github.com/openai/codex/issues/25921",
+      "s": "Hacker News",
+      "c": "pc",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:45:08.000Z",
+      "x": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=5"
+    },
+    {
+      "id": "1giqd381kf",
+      "t": "Apple's official silicone case for the iPhone Duo requires adhesive",
+      "u": "https://gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:44:02.000Z",
+      "x": "来源：GSMArena — Apple's official silicone case for the iPhone Duo requires adhesive"
+    },
+    {
+      "id": "1mo7ow1rmr",
+      "t": "I Became a Citizen of Japan",
+      "u": "https://derekwessman.com/blog-1/natural",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:36:17.000Z",
+      "x": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50"
+    },
+    {
+      "id": "urla841kwd",
+      "t": "Development statistics for the 7.2 kernel",
+      "u": "https://lwn.net/Articles/1088776",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:14:12.000Z",
+      "x": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Poi"
+    },
+    {
+      "id": "1yccgt13af",
+      "t": "Gold is now the top U.S. export",
+      "u": "https://numismaticnews.net/gold-now-top-u-s-export",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:06:07.000Z",
+      "x": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com"
+    },
+    {
+      "id": "1bialq9v0b",
+      "t": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "u": "https://artie.com/careers",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:02:50.000Z",
+      "x": "Article URL: https://www.artie.com/careers Comments URL: https://news.ycombinator.com/item?id=50132839 Points:"
+    },
+    {
+      "id": "1u8obbppxt",
+      "t": "天文学家找到首颗“绿色恒星” 一颗吞噬行星残骸的白矮星",
+      "u": "https://cnbeta.com.tw/articles/science/1582690.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:01:34.000Z",
+      "x": "一项新研究显示，编号为WD J1330+6435的白矮星若能近距离分辨其星体表面，可能会呈现黄绿色。这颗恒星位于天龙座，距地球约300光年。研究人员将其称为目前已知首颗呈现绿色的恒星，但这一颜色是根据恒星光谱和人眼视觉模"
+    },
+    {
+      "id": "175v8ni1yo",
+      "t": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "u": "https://theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "s": "The Verge",
+      "c": "auto",
+      "d": "2026-10-18",
+      "p": "2026-10-17T17:00:00.000Z",
+      "x": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe , a soupe"
+    },
+    {
+      "id": "1dmxqkb1tc",
+      "t": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "u": "https://theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T16:39:44.000Z",
+      "x": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing s"
+    },
+    {
+      "id": "1piqg4jefo",
+      "t": "What does the yellow light on your Alexa device mean and how do you clear it?",
+      "u": "https://engadget.com/2284036/amazon-alexa-device-yellow-light-meaning",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-18",
+      "p": "2026-10-17T16:30:00.000Z",
+      "x": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and "
+    },
+    {
+      "id": "1lu4hnf1rk",
+      "t": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
+      "u": "https://engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-18",
+      "p": "2026-10-17T16:15:11.000Z",
+      "x": "The premium handheld is expected to start shipping in December."
+    },
+    {
+      "id": "jjkj9v8eza",
+      "t": "This Samsung Galaxy feature can protect you from untrustworthy apps",
+      "u": "https://engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-18",
+      "p": "2026-10-17T16:00:00.000Z",
+      "x": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's wh"
+    },
     {
       "id": "rywv6r16rj",
       "t": "IDC 等机构谈苹果首款折叠 iPhone Duo：首发难抢，今年出货预估 600~700 万台",
