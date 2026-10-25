@@ -1,8 +1,778 @@
 {
-  "generatedAt": "2026-10-24T00:31:23.740Z",
+  "generatedAt": "2026-10-25T00:14:23.310Z",
   "limit": 6000,
-  "total": 4195,
+  "total": 4272,
   "items": [
+    {
+      "id": "untnfyq4bq",
+      "t": "《塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
+      "u": "https://ithome.com/1/017/536.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-25T00:08:25.000Z",
+      "x": "IT之家 10 月 25 日消息，《塞尔达传说》系列资深制作人青沼英二（Eiji Aonuma），自《时之笛》起就一直守护着时光勇者挺身而出对抗邪恶的故事。如今青沼英二本人也获封英雄头衔，只是没配上一把帅气的剑。本周，法"
+    },
+    {
+      "id": "1tfo5455aq",
+      "t": "You don't need CrystalDiskInfo to check your SSD health, as Windows already tells you a lot",
+      "u": "https://xda-developers.com/you-dont-need-crystaldiskinfo-windows-tells-you-a-lot",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-10-25",
+      "p": "2026-10-25T00:00:20.000Z",
+      "x": "CrystalDiskInfo has been synonymous with SSD and HDD monitoring for years. It reads your drive's Self-Monitori"
+    },
+    {
+      "id": "v6261ixh82",
+      "t": "What is the cheapest new gaming console you can buy in 2026?",
+      "u": "https://engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-25T00:00:00.000Z",
+      "x": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option."
+    },
+    {
+      "id": "pn3t971359",
+      "t": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
+      "u": "https://ithome.com/1/017/535.htm",
+      "s": "IT之家",
+      "c": "security",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:57:53.000Z",
+      "x": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。 据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GP"
+    },
+    {
+      "id": "b1yz3n129u",
+      "t": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
+      "u": "https://macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:48:55.000Z",
+      "x": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It invol"
+    },
+    {
+      "id": "ws5n91i61b",
+      "t": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
+      "u": "https://ithome.com/1/017/534.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:48:40.000Z",
+      "x": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster。特斯拉在 X 平台宣布，这辆 Roadster 正在彼得森汽车博物馆展出，展览时间为 10 月 24 日至 27 日"
+    },
+    {
+      "id": "yhh4xbr5ed",
+      "t": "同人变官方：《赛博朋克 2077》续作设计团队中，半数是被“收编”的模组作者",
+      "u": "https://ithome.com/1/017/533.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:47:48.000Z",
+      "x": "IT之家 10 月 25 日消息，当地时间 23 日，据外媒 VGC 报道，《赛博朋克 2077》续作副总监帕维尔 · 萨斯科透露，续作任务设计团队约有一半成员曾是游戏模组作者。 萨斯科认为，玩家能够随时在游戏内启用或关"
+    },
+    {
+      "id": "1xvv61wc2g",
+      "t": "How to extend the battery life of your Apple AirTags",
+      "u": "https://engadget.com/2292921/how-to-extend-battery-life-apple-airtags",
+      "s": "Engadget",
+      "c": "auto",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:45:00.000Z",
+      "x": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment."
+    },
+    {
+      "id": "ew0t51qoub",
+      "t": "三体宇宙全新剧集《三体・智子灾变》官宣：主创阵容首曝，概念海报同步首发",
+      "u": "https://ithome.com/1/017/532.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:40:51.000Z",
+      "x": "IT之家 10 月 25 日消息，三体宇宙衍生真人剧《三体：智子灾变》已正式官宣， 并首发概念海报 。 本片将由路阳监制，忻钰坤执导 ，剧集聚焦三体危机下的年轻一代。当倒计时笼罩全球，熟悉的世界逐渐失序，普通人将如何面对"
+    },
+    {
+      "id": "qa7j7xr3sh",
+      "t": "任天堂 Switch 2 破解取得进展，《三角符文》《黄昏之血》资源包流出",
+      "u": "https://ithome.com/1/017/531.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:36:38.000Z",
+      "x": "IT之家 10 月 25 日消息，Switch 2 的破解给这台主机的自制程序生态注入了活力。任天堂已经采取措施封堵 ns2jb 漏洞，但又有一则消息正在传开：《三角符文》第 1 至 4 章以及《黄昏之血》测试版的首批次"
+    },
+    {
+      "id": "1fjeq0eq8p",
+      "t": "李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持",
+      "u": "https://ithome.com/1/017/530.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:34:50.000Z",
+      "x": "IT之家 10 月 25 日消息，博主 @不是郑小康 昨晚发文，谈及了华为鸿蒙 HarmonyOS 7 系统的使用感受。他称在华为 Pura X View 的鸿蒙 7 系统中，“貌似”不能 2.4G 和 5G Wi-Fi"
+    },
+    {
+      "id": "j8rveadehy",
+      "t": "全球最大“电力超市”开业，南方区域电力市场正式运行",
+      "u": "https://ithome.com/1/017/529.htm",
+      "s": "IT之家",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:30:42.000Z",
+      "x": "IT之家 10 月 25 日消息，据央视财经报道，10 月 24 日，我国首个区域电力市场 —— 南方区域电力市场正式运行。 此举标志着全国统一电力市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省"
+    },
+    {
+      "id": "87oapetreh",
+      "t": "Common mistakes you should avoid when setting up your home network",
+      "u": "https://engadget.com/2292817/common-mistakes-avoid-setting-up-home-network",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:30:00.000Z",
+      "x": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the futu"
+    },
+    {
+      "id": "1dx78h7p8h",
+      "t": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
+      "u": "https://ithome.com/1/017/528.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:27:45.000Z",
+      "x": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。 据估算，全球最高有约七成网站依托 P"
+    },
+    {
+      "id": "19vxflqnnc",
+      "t": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+      "u": "https://ithome.com/1/017/527.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:19:32.000Z",
+      "x": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，"
+    },
+    {
+      "id": "usdf5k1jxt",
+      "t": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂",
+      "u": "https://ithome.com/1/017/526.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:18:48.000Z",
+      "x": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为， 加拿大本"
+    },
+    {
+      "id": "1gi6e7m12b",
+      "t": "Google has officially turned these Nest thermostats back into dumb thermostats",
+      "u": "https://makeuseof.com/google-nest-thermostats-unsupported",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:14:30.000Z",
+      "x": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombin"
+    },
+    {
+      "id": "len7th14hb",
+      "t": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "u": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:11:54.000Z",
+      "x": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycomb"
+    },
+    {
+      "id": "royumvj7fj",
+      "t": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+      "u": "https://ithome.com/1/017/525.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:09:54.000Z",
+      "x": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GP"
+    },
+    {
+      "id": "ob7hxc1j06",
+      "t": "I use four different browsers on purpose, and it's the best privacy habit I have",
+      "u": "https://xda-developers.com/use-four-different-browsers-on-purpose-best-privacy-habit-i-have",
+      "s": "XDA Developers",
+      "c": "security",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:00:20.000Z",
+      "x": "Long before we had the ChatGPT vs. Claude vs. Gemini vs. Perplexity debate , and even before people started ar"
+    },
+    {
+      "id": "1pocu1jzg3",
+      "t": "Why your EV battery still loses charge while it's parked",
+      "u": "https://engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked",
+      "s": "Engadget",
+      "c": "auto",
+      "d": "2026-10-25",
+      "p": "2026-10-24T23:00:00.000Z",
+      "x": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, a"
+    },
+    {
+      "id": "1ftd5xs150",
+      "t": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
+      "u": "https://ithome.com/1/017/524.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:59:07.000Z",
+      "x": "IT之家 10 月 25 日消息，微软推出一款名为 Microsoft.UI.Reactor 的实验性框架并开启测试后，出面澄清，并不会停用 WinUI 和 XAML。鉴于微软此前放弃 UWP、关停 Silverligh"
+    },
+    {
+      "id": "rcv1fr15q6",
+      "t": "What kind of cooling system do EV batteries use and how does it work?",
+      "u": "https://engadget.com/2292606/ev-battery-cooling-system-how-works",
+      "s": "Engadget",
+      "c": "auto",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:45:00.000Z",
+      "x": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain co"
+    },
+    {
+      "id": "cpxi4d1ycd",
+      "t": "What are the different types of digital wallets?",
+      "u": "https://engadget.com/2292582/different-types-digital-wallet-explained",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:30:00.000Z",
+      "x": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than ju"
+    },
+    {
+      "id": "15o0hihll9",
+      "t": "马斯克：商业版星链严禁用于进攻性无人机作战 乌军方曾违规使用",
+      "u": "https://cnbeta.com.tw/articles/tech/1583714.htm",
+      "s": "cnBeta",
+      "c": "ai-hardware",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:07:58.000Z",
+      "x": "马斯克发文称，星链作为民用商业服务，绝不允许、也绝不应当被用于操控进攻性无人机实施杀戮行动。星盾是另一套独立系统，归美国政府管控，该系统如何使用由美方自行决定。乌克兰军方违反星链服务条款，将其用于发动造成人员伤亡的进攻性"
+    },
+    {
+      "id": "8uy8v61t5o",
+      "t": "考古学家发现疑似全球最古老沉船 或改写青铜时代地中海贸易史",
+      "u": "https://cnbeta.com.tw/articles/science/1583712.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:06:40.000Z",
+      "x": "一个国际考古团队近日宣布，他们在土耳其南部海岸附近发现了一艘可能是目前已知世界上最古老的沉船。根据船上遗留货物中的陶器等线索，研究人员初步判断这艘船的年代约为公元前2700年至公元前2400年之间，距今约4500年。如果"
+    },
+    {
+      "id": "1lwtnl7137",
+      "t": "科学家利用激光让晶体内部电极化瞬间有序 持续仅一万亿分之一秒",
+      "u": "https://cnbeta.com.tw/articles/science/1583710.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:06:14.000Z",
+      "x": "美国奥本大学的物理学家发现，短暂的激光脉冲能够在特定晶体内部诱导出有序的电极化状态，即使材料处于较高温度、内部微小极化区域通常仍然杂乱无章的情况下，也能实现这一变化。这一发现为研究材料内部极快的电学变化提供了新方法，未来"
+    },
+    {
+      "id": "1puj99ojxx",
+      "t": "5 TV features I disable before anyone in my family is allowed to watch anything",
+      "u": "https://xda-developers.com/tv-features-i-disable-before-anyone-is-allowed-to-watch",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:00:20.000Z",
+      "x": "The TV is one of the most important devices in any home, as it's the central piece of an entertainment hub. Ha"
+    },
+    {
+      "id": "msk3ychuy8",
+      "t": "The pros and cons of using an eSIM over a physical SIM card",
+      "u": "https://engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T22:00:00.000Z",
+      "x": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade."
+    },
+    {
+      "id": "1orkec7fdz",
+      "t": "CMF Speaker S unboxing and hands-on",
+      "u": "https://gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:59:01.000Z",
+      "x": "来源：GSMArena — CMF Speaker S unboxing and hands-on"
+    },
+    {
+      "id": "1r1nzok1y0",
+      "t": "Argus – a free, open-source agentic security operations platform – MIT",
+      "u": "https://thomasunise.com/argus",
+      "s": "Hacker News",
+      "c": "security",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:54:16.000Z",
+      "x": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points:"
+    },
+    {
+      "id": "1mptes41fl",
+      "t": "We should be more ambitious with the software we build",
+      "u": "https://danluu.com/ambitious",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:47:31.000Z",
+      "x": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points:"
+    },
+    {
+      "id": "vxqih91s1l",
+      "t": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+      "u": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:46:33.000Z",
+      "x": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with"
+    },
+    {
+      "id": "1dv1shy1lx",
+      "t": "Small Programs and Languages",
+      "u": "https://ratfactor.com/cards/pl-small",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:44:23.000Z",
+      "x": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 "
+    },
+    {
+      "id": "1023602b3q",
+      "t": "The Importance of Limitations for Creativity and Learning",
+      "u": "https://ratfactor.com/cards/limitations",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:42:47.000Z",
+      "x": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=502256"
+    },
+    {
+      "id": "1ig8stm7ej",
+      "t": "I ran a 9B model trained on Claude's reasoning on my 8GB GPU, and it made me rethink paying for Claude",
+      "u": "https://xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:30:20.000Z",
+      "x": "Claude Pro proves its worth most of the time. Anthropic's models are accessible pretty much anywhere through A"
+    },
+    {
+      "id": "3i8ei0dqdg",
+      "t": "Blue Planet III is keeping the rough edges in the age of AI",
+      "u": "https://theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "s": "The Verge",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:29:12.000Z",
+      "x": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous"
+    },
+    {
+      "id": "9g8nkg10mj",
+      "t": "Uncloud uses the Compose files I already made and lets me spread the work across my home servers",
+      "u": "https://xda-developers.com/uncloud-uses-compose-files-spread-work-across-home-servers",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T21:00:21.000Z",
+      "x": "Adding another home server should mean more room for your applications. Somehow, it also becomes an invitation"
+    },
+    {
+      "id": "1h02v3p83k",
+      "t": "Starlink seems to be working normally again in Ukraine",
+      "u": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine",
+      "s": "TechCrunch",
+      "c": "science",
+      "d": "2026-10-25",
+      "p": "2026-10-24T20:46:34.000Z",
+      "x": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+    },
+    {
+      "id": "1tu9fyh1qf",
+      "t": "Show HN: Steal My Bitcoin",
+      "u": "https://stealmybitcoin.com/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T20:30:31.000Z",
+      "x": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent th"
+    },
+    {
+      "id": "d9ccsb1izs",
+      "t": "Your motherboard still has “useless” headers from the 1990s, and licensing agreements are to blame",
+      "u": "https://xda-developers.com/your-motherboard-still-has-useless-headers-from-the-1990s-and-licensing-agreements-are-to-blame",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T20:30:20.000Z",
+      "x": "If you take a long, hard look at your motherboard, you'll notice that it comes with some legacy ports on them,"
+    },
+    {
+      "id": "1suzx0j18b",
+      "t": "Will AI expose the rickety infrastructure of the internet?",
+      "u": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T20:15:33.000Z",
+      "x": "The moment you realize the internet is \"held together by glue and dreams.\""
+    },
+    {
+      "id": "11igd9wgz8",
+      "t": "I tried turning my old Samsung Galaxy into a local LLM-hosting machine, and it worked better than I expected",
+      "u": "https://xda-developers.com/tried-old-samsung-galaxy-local-llm-hosting-machine-worked-better-expected",
+      "s": "XDA Developers",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T20:00:20.000Z",
+      "x": "I have become so dependent on AI that even for small tasks like summarizing or replying to emails, I always tu"
+    },
+    {
+      "id": "laimiq12r5",
+      "t": "Who needs a bulky desktop when this ACEMAGICIAN W1 gaming mini PC with Ryzen 7 and Radeon 780M is down to $504",
+      "u": "https://xda-developers.com/acemagician-w1-gaming-mini-pc-with-ryzen-down-to-504",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:52:10.000Z",
+      "x": "The ACEMAGICIAN W1 mini PC is currently listed at $620 on Amazon and is being discounted down to $504 for a li"
+    },
+    {
+      "id": "cxlln3u6ud",
+      "t": "No signs of AI payoff outside the tech sector",
+      "u": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:47:19.000Z",
+      "x": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-th"
+    },
+    {
+      "id": "rch4x0v6ri",
+      "t": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "u": "https://missileer.watch/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:43:27.000Z",
+      "x": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 99 # "
+    },
+    {
+      "id": "im1uddeu43",
+      "t": "You can strip the ads and recommendations from Google TV in one toggle, and it's buried in your settings",
+      "u": "https://xda-developers.com/apps-only-mode-google-tv",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:30:20.000Z",
+      "x": "Google TV has plenty of benefits, but the home screen's clutter is a common complaint. Series recommendations "
+    },
+    {
+      "id": "10qvhwec0y",
+      "t": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+      "u": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:30:00.000Z",
+      "x": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indi"
+    },
+    {
+      "id": "d6q1tzohiz",
+      "t": "SpeedCrunch 1.1",
+      "u": "https://speedcrunch.org/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:19:43.000Z",
+      "x": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: "
+    },
+    {
+      "id": "14btz4ut7t",
+      "t": "The Goose Programming Language",
+      "u": "https://aardappel.github.io/goose",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:06:55.000Z",
+      "x": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?i"
+    },
+    {
+      "id": "1b6t3rr111",
+      "t": "I added live TV to Jellyfin with a cheap network tuner, and dropped my streaming TV subscription",
+      "u": "https://xda-developers.com/i-added-live-tv-to-jellyfin-with-a-cheap-network-tuner-and-dropped-my-streaming-tv-subscription",
+      "s": "XDA Developers",
+      "c": "web",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:00:20.000Z",
+      "x": "Cable and streaming TV services like Hulu Live and YouTube TV are monthly expenses I don't need . I don't watc"
+    },
+    {
+      "id": "1tqvink1nc",
+      "t": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "u": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T19:00:00.000Z",
+      "x": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects"
+    },
+    {
+      "id": "1lz018u1sa",
+      "t": "Google is quietly linking your phone number to other Android accounts",
+      "u": "https://engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:45:00.000Z",
+      "x": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inheri"
+    },
+    {
+      "id": "h1mcw6yx9l",
+      "t": "Pennsylvania will require labels on AI-generated ads",
+      "u": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "s": "The Verge",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:32:21.000Z",
+      "x": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act i"
+    },
+    {
+      "id": "1bvb99ytai",
+      "t": "Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others",
+      "u": "https://gsmarena.com/deals_iphone_duo_launches_faces_off_against_galaxy_z_fold8_motorola_razr_fold_and_others-news-75184.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:31:02.000Z",
+      "x": "来源：GSMArena — Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others"
+    },
+    {
+      "id": "4qtsjzwiga",
+      "t": "Why the wires in your ethernet cables are twisted",
+      "u": "https://engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:30:00.000Z",
+      "x": "There's a good reason for that arrangement."
+    },
+    {
+      "id": "1hf63u11wo",
+      "t": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+      "u": "https://macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:29:16.000Z",
+      "x": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been inf"
+    },
+    {
+      "id": "gq96m914e0",
+      "t": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
+      "u": "https://macrumors.com/how-to/unlock-iphone-duo-apple-watch",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:28:00.000Z",
+      "x": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step "
+    },
+    {
+      "id": "1sz08zkpxo",
+      "t": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "u": "https://macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:27:42.000Z",
+      "x": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test . Despite its IP68 dust-resistance r"
+    },
+    {
+      "id": "rlxhlf5ki8",
+      "t": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
+      "u": "https://engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:09:54.000Z",
+      "x": "You can try out the new feature on the Steam store's homepage."
+    },
+    {
+      "id": "wdie4f1blf",
+      "t": "Xbox Game Pass could let you pick which features you pay for",
+      "u": "https://engadget.com/2296222/xbox-game-pass-pick-which-features",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-24T18:00:00.000Z",
+      "x": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set t"
+    },
+    {
+      "id": "1l7d782z2o",
+      "t": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
+      "u": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T17:47:49.000Z",
+      "x": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the pho"
+    },
+    {
+      "id": "obw2ea1u6z",
+      "t": "美国痴呆症经济负担飙升至8180亿美元 家庭承担大部分隐性成本",
+      "u": "https://cnbeta.com.tw/articles/science/1583708.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T17:28:54.000Z",
+      "x": "一项由美国南加州大学研究团队主导的最新研究显示，阿尔茨海默病及其他相关痴呆症将在2026年给美国带来约8180亿美元的经济负担。这一数字不仅涵盖医疗和长期护理支出，还首次更全面地统计了患者及照护者的收入损失、生活质量下降"
+    },
+    {
+      "id": "1wsyysx100",
+      "t": "YouTube streams may look better and buffer less as soon as early 2027",
+      "u": "https://androidauthority.com/youtube-av2-rollout-update-3727638",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T17:23:57.000Z",
+      "x": "Credit: Edgar Cervantes / Android Authority TL;DR YouTube has announced that it plans to roll out AV2 to the p"
+    },
+    {
+      "id": "1tvjw9iqtp",
+      "t": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "u": "https://de.numista.com/9866",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:41:55.000Z",
+      "x": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 8"
+    },
+    {
+      "id": "3wb2ogrzor",
+      "t": "Capcom confirms data breach that affected 11.7 million users",
+      "u": "https://engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users",
+      "s": "Engadget",
+      "c": "security",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:40:45.000Z",
+      "x": "Capcom ID is still available to use, but users may see more phishing scam emails."
+    },
+    {
+      "id": "1kisafv889",
+      "t": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:30:00.000Z",
+      "x": "Instacart might sell itself to a larger competitor."
+    },
+    {
+      "id": "2gc8c61bwg",
+      "t": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
+      "u": "https://engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:30:00.000Z",
+      "x": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of dis"
+    },
+    {
+      "id": "1d4v3q51v4",
+      "t": "The UK is investing $134 million into an AI Biosecurity Lab",
+      "u": "https://engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:11:53.000Z",
+      "x": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccin"
+    },
+    {
+      "id": "1wu07thztt",
+      "t": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
+      "u": "https://macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:07:36.000Z",
+      "x": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than "
+    },
+    {
+      "id": "sjp2by4jdn",
+      "t": "Roku developer repositories moved from GitHub to GitLab",
+      "u": "https://blog.roku.com/developer/gitlab-move",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:06:26.000Z",
+      "x": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50"
+    },
+    {
+      "id": "1p4678tnug",
+      "t": "苹果首款折叠屏 iPhone Duo 拆解视频：磨砂膜揭开后折痕更明显",
+      "u": "https://cnbeta.com.tw/articles/tech/1583706.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:02:49.000Z",
+      "x": "苹果首款折叠屏手机 iPhone Duo 于近日正式上市，随着设备开始交付用户，YouTube频道 Kingmi Mobile 发布了相关拆解视频，展示了这款手机的内部结构、屏幕保护层以及电池和排线的布局。拆解结果显示，"
+    },
+    {
+      "id": "zxm1101f9c",
+      "t": "YouTube博主掰断iPhone Duo引发讨论 苹果门店尚未出现大规模屏幕损坏潮",
+      "u": "https://cnbeta.com.tw/articles/tech/1583704.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:01:40.000Z",
+      "x": "苹果首款折叠屏手机iPhone Duo上市后不久，多名科技YouTuber发布了极限耐久测试视频，其中部分测试显示设备在高强度弯折和暴力施压条件下出现了屏幕损坏，引发外界对这款产品耐用性的广泛讨论。不过，根据苹果零售渠道"
+    },
+    {
+      "id": "spy62c8ks9",
+      "t": "You can now manage Gemini Notebooks directly from your Gemini chats",
+      "u": "https://androidauthority.com/gemini-notebook-connected-app-3727634",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:00:39.000Z",
+      "x": "Credit: Joe Maring / Android Authority TL;DR Gemini Notebook is now available as a Connected App in the Gemini"
+    },
+    {
+      "id": "1empsgf3cm",
+      "t": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
+      "u": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:00:00.000Z",
+      "x": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal d"
+    },
+    {
+      "id": "1jjdjcp175",
+      "t": "Block’s new voice model sounds eerily human",
+      "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "s": "TechCrunch",
+      "c": "pc",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:00:00.000Z",
+      "x": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "id": "15wwizt1ku",
+      "t": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
+      "u": "https://engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-25",
+      "p": "2026-10-24T16:00:00.000Z",
+      "x": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for."
+    },
     {
       "id": "1hx6h7n12v",
       "t": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
