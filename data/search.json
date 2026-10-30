@@ -1,8 +1,1928 @@
 {
-  "generatedAt": "2026-10-29T01:43:19.811Z",
+  "generatedAt": "2026-10-30T01:52:29.268Z",
   "limit": 6000,
-  "total": 4972,
+  "total": 5164,
   "items": [
+    {
+      "id": "1ep5ac153c",
+      "t": "李杰：一加 16 和一加 Ace 7 Pro 包揽 2026 年安卓手机首销销量冠军和亚军",
+      "u": "https://ithome.com/1/019/882.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:49:46.000Z",
+      "x": "IT之家 10 月 30 日消息，一加中国区总裁李杰今日表示，一加 Ace 7 系列昨天发布即开售，首销表现可以说是势不可挡。 一加 Ace 7 Pro 首销销量达到上一代 Ace 6 的 225%，实现大幅增长 一加 "
+    },
+    {
+      "id": "bier6ruwiu",
+      "t": "机械革命带来酷睿 5 205H + RTX 3050 (4GB) 旷世 16 游戏本，11 月 5 日发售",
+      "u": "https://ithome.com/1/019/881.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:46:33.000Z",
+      "x": "IT之家 10 月 30 日消息，机械革命 (Mechrevo) 现已在电商平台上架新款旷世 16 游戏笔记本电脑。 其 基于英特尔酷睿 5 处理器 205H ， 搭配 NVIDIA GeForce RTX 3050 笔"
+    },
+    {
+      "id": "16akzhd18q",
+      "t": "福特 CEO 法利叫板比亚迪：新技术令电机等部件效率“高出 30%”",
+      "u": "https://ithome.com/1/019/879.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:43:29.000Z",
+      "x": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 insideevs 报道，福特希望通过全新通用电动汽车平台，在成本和技术上与中国汽车展开竞争。 福特 CEO 吉姆 · 法利在福特第三季度财报电话会议上透露："
+    },
+    {
+      "id": "1mjatix1r1",
+      "t": "谷歌 Gemini 升级：生成的文档、表格可在聊天中直接修改",
+      "u": "https://ithome.com/1/019/878.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:41:27.000Z",
+      "x": "IT之家 10 月 30 日消息，现在用户可以直接在谷歌 Gemini 内生成、预览并编辑 PDF、谷歌文档、谷歌表格、幻灯片、Markdown 文件、TXT 文本以及代码文件。这项全新的文件编辑功能从今日起面向所有 G"
+    },
+    {
+      "id": "dk86w71kr1",
+      "t": "李开复创立的零一万物总部将落地杭州临平区，获市区两级国资联动投资数亿元",
+      "u": "https://ithome.com/1/019/877.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:40:17.000Z",
+      "x": "IT之家 10 月 30 日消息，零一万物今日宣布，10 月 28 日，零一万物与杭州市、临平区达成合作，由市区两级国资联动投资， 合计向零一万物投资数亿元 。 IT之家获悉， 零一万物总部将落地杭州临平区 ，并以此为依"
+    },
+    {
+      "id": "1b02n3kav6",
+      "t": "小米米家多头筋膜枪 3 C 开售：16 个球形按摩头、25kg 大推力，到手价 209 元",
+      "u": "https://ithome.com/1/019/876.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:39:14.000Z",
+      "x": "IT之家 10 月 30 日消息，小米米家多头筋膜枪 3 C 今日 10:00 正式开售，建议零售价 299 元， 新品到手价 209 元 。 这款产品搭载 16 个球形按摩头 ，采用 EVA 柔软弹性材质，理论放松总面"
+    },
+    {
+      "id": "1sueskf1dg",
+      "t": "微软优化 Win11 现代待机：电量 80% 以上少休眠、10% 以下快休眠",
+      "u": "https://ithome.com/1/019/875.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:38:45.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 NeoWin 昨日（10 月 29 日）发布博文，报道称面向 Windows 11 25H2/26H2 的 10 月可选更新 KB5127936 中，微软重点改进了自适应休眠机"
+    },
+    {
+      "id": "p51ngh1hms",
+      "t": "PC 市场疲软叠加供应链扰动：英特尔业绩指引不及预期，盘后股价暴跌 23%",
+      "u": "https://ithome.com/1/019/874.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:32:14.000Z",
+      "x": "IT之家 10 月 30 日消息，英特尔发出预警称，受个人电脑市场疲软、制造环节瓶颈以及巨额扩产支出影响，公司今年将出现现金净流出。 英特尔股价在盘后暴跌 23% 。 与诸多科技巨头一样，英特尔此前一直在大举投资芯片制造"
+    },
+    {
+      "id": "u7gkbgmryn",
+      "t": "工信部反诈专班提醒：小心二手手机变成诈骗“工具机”",
+      "u": "https://ithome.com/1/019/873.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:30:03.000Z",
+      "x": "IT之家 10 月 30 日消息，工信部反诈专班 29 日通过“信息通信行业反诈中心”公众号发文介绍，有不法分子在部分二手手机流入市场前 预先植入恶意程序 ，一旦消费者购买后插入手机卡、连接网络，就能在其毫无察觉的情况下"
+    },
+    {
+      "id": "137nffp1ao",
+      "t": "OPPO Find X10 手机全新配色“森绿”开售：天玑 9600M 处理器，5499 元起",
+      "u": "https://ithome.com/1/019/872.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:29:13.000Z",
+      "x": "IT之家 10 月 30 日消息， OPPO Find X10 手机全新配色“森绿”今日 10:00 正式开售， 售价 5499 元起 ： 12GB+256GB：5499 元 12GB+512GB：5999 元 16GB"
+    },
+    {
+      "id": "1coewd9gq5",
+      "t": "疑似遭黑客攻击，全球最大加密货币交易所币安暂停全部充值与提现业务",
+      "u": "https://ithome.com/1/019/870.htm",
+      "s": "IT之家",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:24:47.000Z",
+      "x": "IT之家 10 月 30 日消息，据彭博社报道，全球最大加密货币交易所币安（Binance）暂停了全部充值与提现业务，因其正在调查一起安全事件，目前已有超过 25 亿美元 （IT之家注：现汇率约合 166.92 亿元人民"
+    },
+    {
+      "id": "kzjugs121l",
+      "t": "特斯拉全新金融方案“特从容”上线：Model 3/Y 首付 3.99 万元起 + 五年零息",
+      "u": "https://ithome.com/1/019/869.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:21:46.000Z",
+      "x": "IT之家 10 月 30 日消息，今天（30 日）上午，特斯拉通过官微宣布：特斯拉全新福利“特从容”金融方案上线。该方案将主打低首付、低月供、低尾款与 0 利息，面向 10 月 30 日（含）至 11 月 30 日（含）"
+    },
+    {
+      "id": "hzjxddar8t",
+      "t": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "u": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:20:48.000Z",
+      "x": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in t"
+    },
+    {
+      "id": "c60oc1m6qp",
+      "t": "10:00~10:15 速抢限时不限量红包：京东红包今日全员加码",
+      "u": "https://ithome.com/1/019/868.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:19:28.000Z",
+      "x": "今日 10 点京东红包全员加码，10:00~10:15 可领限时不限量红包： 点此抽取 。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11"
+    },
+    {
+      "id": "15v8x4j1yf",
+      "t": "Bug 连续剧：部分 Win10/Win11 用户再次反馈遇到微软 Defender 误报",
+      "u": "https://ithome.com/1/019/867.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:16:28.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 BornCity 昨日（10 月 29 日）发布博文， 在今年 9 月 17 日出现误报之后 ， 部分 Windows 10、Windows 11 用户再次反馈微软自带 Mic"
+    },
+    {
+      "id": "x5koma16tq",
+      "t": "星巴克考虑将 AI 技术引入得来速，提升点餐准确率与出餐速度",
+      "u": "https://ithome.com/1/019/866.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:12:53.000Z",
+      "x": "IT之家 10 月 30 日消息，据彭博社报道，星巴克公司正考虑在得来速车道引入人工智能技术。 这家咖啡连锁品牌的首席执行官布莱恩 · 尼科尔（Brian Niccol）当地时间周四在分析师电话会议上表示，公司准备测试在"
+    },
+    {
+      "id": "pb490aruqn",
+      "t": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
+      "u": "https://ithome.com/1/019/865.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:09:09.000Z",
+      "x": "IT之家 10 月 30 日消息，当地时间 10 月 29 日，法国公司 Mistral AI 正式开放 Mistral Large 4（简称 ML4，代号 le Chonk）模型权重。 ML4 是一款拥有 1 万亿总参"
+    },
+    {
+      "id": "siselictj6",
+      "t": "办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标 699 → 287 元破冰新低",
+      "u": "https://ithome.com/1/019/863.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:07:00.000Z",
+      "x": "【 手小慎拍 ，此款适合大多数男性手掌握持。】 罗技 Logitech MX Master 3s Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。 今日京东超级补贴直降至 359 元； 领取满 20"
+    },
+    {
+      "id": "1hq7jtg1kw",
+      "t": "微软解释 Win10/Win11 卡死后，为何任务栏和任务管理器一起“罢工”",
+      "u": "https://ithome.com/1/019/862.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:03:57.000Z",
+      "x": "IT之家 10 月 30 日消息，10 月 27 日在微软官方开发者博客上，该公司资深工程师 Raymond Chen 回应一个长期困扰 Windows 用户的疑问： 在系统因某个程序占用过多 CPU 而卡顿后，为什么不"
+    },
+    {
+      "id": "1ood16q1f3",
+      "t": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
+      "u": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:01:35.000Z",
+      "x": "The first two episodes for Apple TV’s latest crime thriller, “ Nocturne ,” are now available to stream. Watch "
+    },
+    {
+      "id": "1110f3o14d",
+      "t": "iPhone Air 2 specs surface again in new leak",
+      "u": "https://gsmarena.com/iphone_air_2_specs_surface_again_in_new_leak-news-75274.php",
+      "s": "GSMArena",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T01:01:01.000Z",
+      "x": "来源：GSMArena — iPhone Air 2 specs surface again in new leak"
+    },
+    {
+      "id": "fima3q1uye",
+      "t": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
+      "u": "https://9to5mac.com/2026/10/29/daily-october-29-2026",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:58:40.000Z",
+      "x": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’"
+    },
+    {
+      "id": "d2xwzpka1w",
+      "t": "曝《上古卷轴》系列新作定名《上古卷轴 6：哨兵》，11 月 11 日前后官宣",
+      "u": "https://ithome.com/1/019/861.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:57:34.000Z",
+      "x": "IT之家 10 月 30 日消息，外媒 The Verge 今天（30 日）凌晨爆料称，微软最快将在下个月正式公布《上古卷轴 6》的完整名称。新作 有望定名为《上古卷轴 6：哨兵》 ，微软有望选择 11 月 11 日前后"
+    },
+    {
+      "id": "c11e661ht1",
+      "t": "富士康：全球超 240 个生产基地，有信心满足苹果 iPhone Duo 的旺盛需求",
+      "u": "https://ithome.com/1/019/860.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:54:05.000Z",
+      "x": "IT之家 10 月 30 日消息，据彭博社报道，苹果公司的主要组装合作伙伴鸿海精密工业股份有限公司表示，其遍布全球的庞大制造布局，将助力公司满足苹果折叠设备 iPhone Duo 日益增长的需求。 苹果公司首席运营官萨比"
+    },
+    {
+      "id": "8ohdpic6kk",
+      "t": "Omdia 预估 2027 年 AI PC 将占 60% 出货，69% 打工人愿为 AI 电脑多花钱",
+      "u": "https://ithome.com/1/019/852.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:52:46.000Z",
+      "x": "IT之家 10 月 30 日消息，企业 AI 支出持续攀升，随着主流 AI 厂商转向 token 计费模式，这项支出也变得越来越难以预测。对 PC OEM、ODM、芯片厂商、渠道伙伴和托管服务提供商而言，核心问题在于： "
+    },
+    {
+      "id": "1eoc910r9w",
+      "t": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+      "u": "https://macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:50:44.000Z",
+      "x": "Apple today released Xcode 27.2, and it reveals how much RAM is in the new fourth-generation Apple TV 4K and t"
+    },
+    {
+      "id": "mgmfka1hs5",
+      "t": "Reddit 2026 财年前三季度报归母净利润 7.4 亿美元，同比增长 166.7%",
+      "u": "https://ithome.com/1/019/858.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:50:16.000Z",
+      "x": "IT之家 10 月 30 日消息，Reddit今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年"
+    },
+    {
+      "id": "1sl9cg0wut",
+      "t": "Rivian 2026Q1~Q3 归母净亏损 21.62 亿美元，同比收窄 23.74%",
+      "u": "https://ithome.com/1/019/857.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:49:18.000Z",
+      "x": "IT之家 10 月 30 日消息，Rivian 今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及第三季度（2026 年 7 月～2026 年 9 月）财务数据报告： 2026 年前三季度 营"
+    },
+    {
+      "id": "1ob4t6l14v",
+      "t": "亚马逊 2026 财年第三财季净利润 206.85 亿美元，同比下降 2.37%",
+      "u": "https://ithome.com/1/019/855.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:48:26.000Z",
+      "x": "IT之家 10 月 30 日消息，亚马逊今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：2019.44 亿美元，同比增长"
+    },
+    {
+      "id": "xqqha314c8",
+      "t": "英特尔 2026 财年第三财季归母净利润 33.2 亿美元，同比下降 18%",
+      "u": "https://ithome.com/1/019/854.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:46:11.000Z",
+      "x": "IT之家 10 月 30 日消息，英特尔今日发布 2026 财年（2025 年 12 月 28 日～2026 年 12 月 26 日）第三财季（2026 年 6 月 28 日～2026 年 9 月 26 日）报告： 营业"
+    },
+    {
+      "id": "11hwkbg1nc",
+      "t": "Someone turned a vintage rotary phone into an AI assistant, and so can you",
+      "u": "https://xda-developers.com/someone-turned-a-vintage-rotary-phone-into-an-ai-assistant-and-so-can-you",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:44:16.000Z",
+      "x": "If you're a tinkerer and have never gotten into modifying retro hardware, you should give it a try. There are "
+    },
+    {
+      "id": "1vymmboaiu",
+      "t": "Google confirms: Fix is in the works for Pixel Watch extreme battery drain issue",
+      "u": "https://androidauthority.com/pixel-watch-battery-fix-3729791",
+      "s": "Android Authority",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:43:56.000Z",
+      "x": "TL;DR Pixel Watch owners have been complaining about their battery life suddenly taking a nose dive. Multiple "
+    },
+    {
+      "id": "1aqyw3fy4l",
+      "t": "HMD 推出诺基亚 2360 Flip 翻盖功能机：配 SOS 键、1450 mAh 可拆卸电池，仅支持 2G 网络",
+      "u": "https://ithome.com/1/019/851.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:43:12.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 Notebookcheck 昨日（10 月 29 日）发布博文，报道称 HMD Global 面向老年人、学生及追求极简通信的用户， 推出诺基亚 2360 Flip 翻盖功能机"
+    },
+    {
+      "id": "d72nc31bgo",
+      "t": "Herdr has released native app",
+      "u": "https://github.com/herdrdev/herdr-app",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:42:41.000Z",
+      "x": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436"
+    },
+    {
+      "id": "ucfxs71eb2",
+      "t": "消息称英伟达商讨为 Nscale 数据中心提供信用担保，项目供 Anthropic 使用",
+      "u": "https://ithome.com/1/019/850.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:42:12.000Z",
+      "x": "IT之家 10 月 30 日消息，据彭博社报道，知情人士透露，英伟达公司正商讨为 Nscale 一处数据中心项目提供信用担保，该设施计划交由 Anthropic 使用。 这名不愿具名的人士称，这笔信用支持将为西弗吉尼亚州"
+    },
+    {
+      "id": "19d08yd1ra",
+      "t": "谷歌为建数据中心非法砍伐芬兰森林 25 万棵树，警方展开刑事调查",
+      "u": "https://ithome.com/1/019/849.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:36:15.000Z",
+      "x": "IT之家 10 月 30 日消息，据路透社报道，芬兰警方于周四（29 日）宣布，已针对芬兰北部规划中的谷歌数据中心施工现场涉嫌违反环境法规的行为 展开刑事调查 （criminal probe）。 该项目隶属于 Alpha"
+    },
+    {
+      "id": "gae9jb1p79",
+      "t": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划",
+      "u": "https://ithome.com/1/019/848.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:34:52.000Z",
+      "x": "IT之家 10 月 30 日消息，在用户强烈反对后，OpenAI 公司昨日（10 月 29 日）宣布， 立即上调 ChatGPT Pro 及 Business Premium 订阅中 Work 与 Codex 的用量额度"
+    },
+    {
+      "id": "ysqfpu150v",
+      "t": "Cormac McCarthy's Library",
+      "u": "https://cormacmccarthy.lib.utk.edu/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:31:00.000Z",
+      "x": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 P"
+    },
+    {
+      "id": "hoj1okyiu2",
+      "t": "闪迪公布强劲业绩，2027 财年第一财季营收 110 亿美元环比增长 23%",
+      "u": "https://ithome.com/1/019/847.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:30:33.000Z",
+      "x": "IT之家 10 月 30 日消息，数据中心建设推动存储需求增长，加上存储芯片供应紧张、价格居高不下，令闪迪的 最新业绩及业绩展望均超出市场预期 。 闪迪预计，2027 财年（2026 年 7 月至 2027 年 6 月）"
+    },
+    {
+      "id": "aabo9f188t",
+      "t": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
+      "u": "https://ifanr.com/1686830",
+      "s": "爱范儿",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:29:45.000Z",
+      "x": "被用户吐槽了一个月，OpenAI 终于决定不再折腾大家的使用额度了。 就在刚刚，OpenAI 产品负责人 Tibo 突然宣布，将大幅提高 ChatGPT Pro 系列及 Business Premium 用户的使用额度，"
+    },
+    {
+      "id": "jgwphd15io",
+      "t": "集邦咨询：苹果首款触控 MacBook Pro 明年出货约 120~150 万台，带动全球 OLED 笔记本出货增长 42.3%",
+      "u": "https://ithome.com/1/019/846.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:24:24.000Z",
+      "x": "IT之家 10 月 30 日消息，市场调查机构集邦咨询（TrendForce）昨日（10 月 29 日）发布博文， 预估配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 在 2027 年的出货量为"
+    },
+    {
+      "id": "fw1m9k1w4x",
+      "t": "消息称 Anthropic 已成为马斯克旗下 SpaceX 最大单一客户，贡献超三分之一营收",
+      "u": "https://ithome.com/1/019/845.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:20:07.000Z",
+      "x": "IT之家 10 月 30 日消息，据彭博社报道，一位知情人士透露， Anthropic 已成为 SpaceX 的最大单一客户 。此前，美国联邦政府一直是 SpaceX 的最大单一客户。 今年第三季度，该公司为埃隆 · 马"
+    },
+    {
+      "id": "1uq4qu1kp4",
+      "t": "新一代无创超声脑机接口亮相：无需开颅，持续 4 周干预有望唤醒“植物人”",
+      "u": "https://ithome.com/1/019/844.htm",
+      "s": "IT之家",
+      "c": "science",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:15:59.000Z",
+      "x": "IT之家 10 月 30 日消息，据央视新闻报道，广东深圳正在举办粤港澳大湾区国际脑机接口产业创新大会，同步开启国内首个光明大脑科技周。大会上，中国科学院深圳先进院等科研团队攻关的新一代无创超声脑机接口技术亮相。 它颠覆"
+    },
+    {
+      "id": "1p0ober1ww",
+      "t": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+      "u": "https://ifanr.com/1686790",
+      "s": "爱范儿",
+      "c": "game",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:14:13.000Z",
+      "x": "《影之刃零》首日 Steam 在线峰值超 66 万，登上全球热销榜首 苹果高管回应 iPad mini 仍是 60Hz 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 Omdia：三季度全球手机出货量降 2"
+    },
+    {
+      "id": "1pj3m5y11h",
+      "t": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+      "u": "https://sspai.com/post/117827",
+      "s": "少数派",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:13:38.000Z",
+      "x": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。 查看全文"
+    },
+    {
+      "id": "537rpntcg2",
+      "t": "iOS 27.2 扩展快捷指令：苹果首款折叠 iPhone Duo 开合可触发自动化操作",
+      "u": "https://ithome.com/1/019/843.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:10:22.000Z",
+      "x": "IT之家 10 月 30 日消息，在本周推送的 iOS 27.2 正式版中，苹果更新 Siri AI、FaceTime 以及信息等应用外，还进一步扩展“快捷指令”（Shortcuts）指令， 并为苹果首款折叠 iPhon"
+    },
+    {
+      "id": "9y4nv8113h",
+      "t": "苹果首款触控屏 MacBook Pro 预购：双层串联 OLED、新增灵动岛，22,999 元起",
+      "u": "https://ithome.com/1/019/842.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:07:12.000Z",
+      "x": "IT之家 10 月 30 日消息，苹果在北京时间 10 月 29 日凌晨的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro）， 今日 9 点接受预购 ，"
+    },
+    {
+      "id": "1tlf2mif5h",
+      "t": "亚马逊 CEO 安迪 · 贾西自信放话：AWS 终将取得万亿美元年营收",
+      "u": "https://ithome.com/1/019/841.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:01:36.000Z",
+      "x": "IT之家 10 月 30 日消息，亚马逊 CEO 安迪 · 贾西认为，旗下云计算业务亚马逊云科技（AWS）的年营收有望突破 1 万亿美元 （IT之家注：现汇率约合 6.68 万亿元人民币） 。 在当地时间 29 日的季度"
+    },
+    {
+      "id": "1ke7ui316k",
+      "t": "I bought a $20 retro headset, and it took me straight back to the '90s",
+      "u": "https://xda-developers.com/i-bought-a-20-retro-headset-and-it-took-me-straight-back-to-the-90s",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:00:20.000Z",
+      "x": "As a '90s kid, I took my Walkman everywhere I went. One thing I remember vividly was the headset: Sony made a "
+    },
+    {
+      "id": "c4bhsbd1hg",
+      "t": "苹果首款触控 MacBook Pro 屏幕细节，改为“四角全圆”",
+      "u": "https://ithome.com/1/019/840.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-30T00:00:03.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 macobserver 昨日（10 月 29 日）发布博文，报道称在配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 上， 苹果公司调整屏幕细节，屏幕底"
+    },
+    {
+      "id": "1ydutdv8q9",
+      "t": "IT早报 1030：华为制药军团称不做药定位 AI 赋能药企；国产游戏《影之刃零》首发登顶 Steam 全球畅销榜；谷歌盘中跌超 13% 创历史最大单日跌幅...",
+      "u": "https://ithome.com/1/019/839.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:57:42.000Z",
+      "x": "“IT早报”时间，大家好，现在是 2026 年 10 月 30 日星期五，今天的重要科技资讯有： 1. 华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座 对于外界关心的华为是否会直接进入药物研发，"
+    },
+    {
+      "id": "1havaz5r3o",
+      "t": "The director of Obsession put a new horror short on YouTube",
+      "u": "https://theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+      "s": "The Verge",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:57:18.000Z",
+      "x": "Curry Barker, the director behind the hit horror film Obsession , just published a new horror short on YouTube"
+    },
+    {
+      "id": "5md57y1vx3",
+      "t": "大众集团 CFO 安特里茨：电车卖得越好，我们的盈利压力反而越大",
+      "u": "https://ithome.com/1/019/838.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:48:49.000Z",
+      "x": "IT之家 10 月 30 日消息，大众集团 CFO 兼 COO 阿诺 · 安特里茨在昨天发布的前三季度业绩声明中坦言：“电动汽车卖得越好， 我们的盈利压力反而越大 ，因为现阶段电动汽车的利润仍低于燃油车。” 今年前三季度"
+    },
+    {
+      "id": "18m7m5mc8s",
+      "t": "告别“裸奔”状态，张雪机车“ZXMOTO”等核心商标完成注册",
+      "u": "https://ithome.com/1/019/837.htm",
+      "s": "IT之家",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:45:52.000Z",
+      "x": "IT之家 10 月 30 日消息，10 月 29 日，重庆知识产权局官方披露，日前， 张雪机车的“ZXMOTO”等核心商标正式完成注册 。 IT之家注意到，张雪本人通过重庆知识产权发布视频，呼吁广大创业者，尊重知识产权，"
+    },
+    {
+      "id": "1unjxp1i4m",
+      "t": "英特尔 2026Q3 营收 165 亿美元超预期：数据中心业务暴增近 80% 创 15 年最强增长",
+      "u": "https://ithome.com/1/019/836.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:45:20.000Z",
+      "x": "IT之家 10 月 30 日消息，太平洋时间 10 月 29 日星期四下午 2 点（北京时间 10 月 30 日凌晨 5 点）举办的 2026 财年第三财季（2026 年 6 月 28 日至 2026 年 9 月 26 "
+    },
+    {
+      "id": "5m04o04eg0",
+      "t": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "u": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:44:56.000Z",
+      "x": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says"
+    },
+    {
+      "id": "kq1sbn10zk",
+      "t": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "u": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "s": "TechCrunch",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:42:22.000Z",
+      "x": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do"
+    },
+    {
+      "id": "5c4poq1cm6",
+      "t": "Intel says it’s selling every affordable laptop chip it can make",
+      "u": "https://theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "s": "The Verge",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:42:21.000Z",
+      "x": "During Intel's latest earnings call , CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chip"
+    },
+    {
+      "id": "tt3tgmxhha",
+      "t": "消息称Anthropic为SpaceX最大单一客户 贡献超三分之一收入",
+      "u": "https://cnbeta.com.tw/articles/tech/1584368.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:40:38.000Z",
+      "x": "知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。"
+    },
+    {
+      "id": "1x7brn0e6p",
+      "t": "美媒曝五角大楼安全事故：被禁用的AI在美军网络里运行了两个月",
+      "u": "https://cnbeta.com.tw/articles/tech/1584366.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:39:46.000Z",
+      "x": "据美国《连线》杂志报道，埃森哲一名承包商员工被指将个人Claude Code账号接入美国国防部的安全系统，让AI智能体代为编写和部署代码。知情人士称，该智能体在国防部网络中运行了两个月才被发现，其间疑似将登录凭据、密码及"
+    },
+    {
+      "id": "xh9h9g1f2m",
+      "t": "OpenAI重构AI模型指南：聚焦五大价值观 忠于人类意图是核心",
+      "u": "https://cnbeta.com.tw/articles/tech/1584364.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:39:26.000Z",
+      "x": "据路透社报道，OpenAI在周四更新了其《模型规范》(Model Spec)。这是一份公开路线图，阐述了该公司希望其AI模型如何表现。随着AI系统能力不断增强，OpenAI围绕五项核心价值观重新构建了这套规范。这五项价值"
+    },
+    {
+      "id": "17kqrtfc3f",
+      "t": "英特尔Q4展望不及预期股价暴跌23% 营收预期低于分析师逾10亿美元",
+      "u": "https://cnbeta.com.tw/articles/tech/1584362.htm",
+      "s": "cnBeta",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:39:08.000Z",
+      "x": "10月30日，据彭博社报道，受PC处理器需求疲软以及高利润数据中心组件供应链问题的拖累，英特尔对于第四季度的业绩展望不及预期，股价在盘后暴跌23%。 阅读全文"
+    },
+    {
+      "id": "j144ipmn27",
+      "t": "苹果终于让Mac能触屏了 那些年“不需要”的理由还成立吗？",
+      "u": "https://cnbeta.com.tw/articles/tech/1584360.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:38:49.000Z",
+      "x": "据《连线》报道，苹果为新款MacBook Pro配备触摸屏后，过去十余年间高管们反对这一功能的表态，被重新摆到了他们面前。2015年，苹果时任全球营销高级副总裁菲尔·席勒解释过，为什么iPhone、iPad适合触控，Ma"
+    },
+    {
+      "id": "4lqrhw8soy",
+      "t": "美国军营冰柜突然失控 五角大楼怀疑遭到网络攻击",
+      "u": "https://cnbeta.com.tw/articles/tech/1584358.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:38:20.000Z",
+      "x": "10月30日，据路透社报道，四名知情官员透露，美国国防部正将今年8月多座美军基地冷柜异常、导致食品变质的事件，作为疑似网络攻击展开调查。美方调查人员还与法国方面取得联系，了解法国近期发生的类似冷柜攻击事件。 阅读全文"
+    },
+    {
+      "id": "1jc5nndkg6",
+      "t": "普京称赞马斯克是“真正的天才”",
+      "u": "https://cnbeta.com.tw/articles/tech/1584356.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:37:15.000Z",
+      "x": "俄罗斯总统弗拉基米尔·普京近日公开称赞美国企业家、SpaceX首席执行官埃隆·马斯克，称其为“真正的天才”。普京此番表态的背景，是俄罗斯正在推进自主低轨卫星互联网系统的建设，而马斯克旗下的星链（Starlink）已经在全"
+    },
+    {
+      "id": "qd3r7ojija",
+      "t": "奔驰全新纯电 E 级明年问世，CEO 康林松称几乎全部采用中国本土采购零部件",
+      "u": "https://ithome.com/1/019/807.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:31:47.000Z",
+      "x": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 motor1 报道，奔驰 CEO 康林松在 2026 年第三季度财报电话会议上透露，纯电 E 级是一款 从零开始研发的豪华轿车 。新车与燃油版共用 E 级名称"
+    },
+    {
+      "id": "m6u23f1lya",
+      "t": "Show HN: I Turned DOOM into a Transformer",
+      "u": "https://github.com/mottopanikeiku/doomformer",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:25:46.000Z",
+      "x": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actua"
+    },
+    {
+      "id": "so00rno5h0",
+      "t": "智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单",
+      "u": "https://ithome.com/1/019/806.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:22:24.000Z",
+      "x": "IT之家 10 月 30 日消息，10 月 29 日，智元正式推出预训练 / 后训练 / 部署后 实现全链路规模化学习的具身模型 —— GO-3 Preview。 该模型采用具身原生的 WRAM（World Reason"
+    },
+    {
+      "id": "1cce2swy8p",
+      "t": "口袋里的体育直播控制台：苹果 iPhone Duo 等支持四路同屏看球",
+      "u": "https://ithome.com/1/019/805.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:20:37.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在 iOS 27.2 正式版更新中，苹果升级 Apple TV 应用，带来“多画面”（Multiview）功能， iP"
+    },
+    {
+      "id": "do6wci100g",
+      "t": "Instagram 重启长视频业务，试图以最高 50 万美元吸引 YouTube 创作者",
+      "u": "https://ithome.com/1/019/804.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:09:49.000Z",
+      "x": "IT之家 10 月 30 日消息，据《商业内幕》今天凌晨报道，Instagram 想要 YouTube 的长视频创作者，为此不惜砸下重金。 为了吸引更多创作者在 Instagram 发布长视频，平台开始向部分创作者开出高"
+    },
+    {
+      "id": "7ab9w31gkx",
+      "t": "旧版“爆米花时间”应用成隐形后门，至少影响 25 万 ~35 万台苹果 Mac",
+      "u": "https://ithome.com/1/019/803.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:07:04.000Z",
+      "x": "IT之家 10 月 30 日消息，安全公司 Eye Research 于 10 月 22 日发布博文，指出 曾以“爆米花时间”（Popcorn Time）名义分发的非官方流媒体应用 Time4Popcorn，在 Mac "
+    },
+    {
+      "id": "zv0gw21j0s",
+      "t": "苹果 HomePod mini 2 智能音箱发售：五种配色可选，1099 元",
+      "u": "https://ithome.com/1/019/802.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:06:47.000Z",
+      "x": "IT之家 10 月 30 日消息，苹果 HomePod mini 2 智能音箱今日正式发售，提供粉色、绿色、蓝色、白色和午夜色五种外观选项， 售价 1,099 元。 HomePod mini 2 搭载 S10 芯片，用户"
+    },
+    {
+      "id": "1bos2xc3b8",
+      "t": "I built Obsidian into my productivity hub and stopped paying for five separate apps",
+      "u": "https://xda-developers.com/built-obsidian-into-productivity-hub-stopped-paying-for-5-separate-apps",
+      "s": "XDA Developers",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T23:00:20.000Z",
+      "x": "I used to rely on a handful of apps to keep my digital life organized. One for taking notes, another for manag"
+    },
+    {
+      "id": "1qjn5fq15g",
+      "t": "T-Mobile CEO rules out letting SpaceX's Starlink Mobile run on its network",
+      "u": "https://gsmarena.com/tmobile_ceo_rules_out_letting_spacex_run_on_its_network-news-75272.php",
+      "s": "GSMArena",
+      "c": "science",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:59:02.000Z",
+      "x": "来源：GSMArena — T-Mobile CEO rules out letting SpaceX's Starlink Mobile run on its network"
+    },
+    {
+      "id": "1ktwz7m1br",
+      "t": "Mac 触控时代开启，苹果称 macOS 触控优化“才刚刚开始”",
+      "u": "https://ithome.com/1/019/801.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:57:40.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在洛杉矶举办的特别活动媒体群访环节中， 苹果公司高管回应表示针对 macOS 系统的触控优化“才刚刚开始”。 当前的触"
+    },
+    {
+      "id": "jrz27a1d6a",
+      "t": "索尼发布 RIALTO 65 摄影机扩展系统，CineAltaV 2 迈入 65mm 大画幅时代",
+      "u": "https://ithome.com/1/019/800.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:53:50.000Z",
+      "x": "IT之家 10 月 30 日消息，10 月 29 日晚，索尼正式发布专为旗舰级数字电影摄影机 CineAltaV 2（海外名称：VENICE 2）打造的 RIALTO 65 摄影机扩展系统， 将于 2027 年上半年正式"
+    },
+    {
+      "id": "12if7ge16f",
+      "t": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
+      "u": "https://engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:52:36.000Z",
+      "x": "The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation."
+    },
+    {
+      "id": "1ys18mo6yz",
+      "t": "苹果高管回应“iPad mini 8 屏幕刷新率为何依然为 60Hz”",
+      "u": "https://ithome.com/1/019/799.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:49:27.000Z",
+      "x": "IT之家 10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在接受 YouTube 频道 Christopher Lawley 采访时，苹果硬件工程副总裁戴夫 · 帕库拉（Dav"
+    },
+    {
+      "id": "1r0w47615c",
+      "t": "Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027",
+      "u": "https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:37:53.000Z",
+      "x": "A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its f"
+    },
+    {
+      "id": "1y2wwg017k",
+      "t": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "u": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:27:23.000Z",
+      "x": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange,"
+    },
+    {
+      "id": "o1carwjukp",
+      "t": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "u": "https://journal.animationstudies.org/article/id/66",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:26:38.000Z",
+      "x": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/it"
+    },
+    {
+      "id": "118mneci0e",
+      "t": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "u": "https://theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "s": "The Verge",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:19:32.000Z",
+      "x": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with"
+    },
+    {
+      "id": "v4lb51186r",
+      "t": "The Great American Rascal: Tom Sawyer at 150",
+      "u": "https://claremontreviewofbooks.com/the-great-american-rascal",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:14:23.000Z",
+      "x": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombina"
+    },
+    {
+      "id": "1je7bhg1ui",
+      "t": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
+      "u": "https://engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:05:39.000Z",
+      "x": "Twitter Circle, anyone?"
+    },
+    {
+      "id": "t6ikpzmd36",
+      "t": "I play Xbox 360 games on my PC now, and Xenia has finally made it worth it",
+      "u": "https://xda-developers.com/i-play-xbox-360-games-on-my-pc-now-and-xenia-has-finally-made-it-worth-it",
+      "s": "XDA Developers",
+      "c": "game",
+      "d": "2026-10-30",
+      "p": "2026-10-29T22:00:21.000Z",
+      "x": "I've always found it regrettable that plenty of games from what can only be described as the golden age of Xbo"
+    },
+    {
+      "id": "vrep7d17m2",
+      "t": "Touchscreen MacBook Pro with OLED, new iPad mini, and more",
+      "u": "https://9to5mac.com/2026/10/29/happy-hour-614",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:55:40.000Z",
+      "x": "Benjamin and Chance break down all the announcements from Apple’s ‘Pro and tell’ event, featuring the new OLED"
+    },
+    {
+      "id": "10qriayz3y",
+      "t": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "u": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin",
+      "s": "TechCrunch",
+      "c": "science",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:51:29.000Z",
+      "x": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivit"
+    },
+    {
+      "id": "12p0ve6130",
+      "t": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "u": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:48:35.000Z",
+      "x": "Article URL: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-ha"
+    },
+    {
+      "id": "1a508haoke",
+      "t": "VRChat says it's not adding AI labels despite user survey showing people want that",
+      "u": "https://engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:48:05.000Z",
+      "x": "Trying to make everyone happy could make no one happy."
+    },
+    {
+      "id": "wzcry2xd2g",
+      "t": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "u": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms",
+      "s": "Ars Technica",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:47:57.000Z",
+      "x": "In the future, you won’t be able to use Reddit without logging in. Reddit CEO Steve Huffman confirmed the impe"
+    },
+    {
+      "id": "155w6g6yih",
+      "t": "We ran AI agent swarms in Minecraft and Mindustry",
+      "u": "https://labs.ycombinator.com/projects/games/index.html",
+      "s": "Hacker News",
+      "c": "game",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:40:28.000Z",
+      "x": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com"
+    },
+    {
+      "id": "ve8ucr1vax",
+      "t": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "u": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:38:59.000Z",
+      "x": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news."
+    },
+    {
+      "id": "nxe9i3fy4l",
+      "t": "Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more",
+      "u": "https://androidauthority.com/google-home-fixes-2-3729774",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:33:47.000Z",
+      "x": "TL;DR Google is updating the Home app and Gemini with all its latest smart home fixes. Gemini should no longer"
+    },
+    {
+      "id": "1kfqngs204",
+      "t": "Two people used Claude to make a PS2 emulator that runs in your browser",
+      "u": "https://xda-developers.com/two-people-used-claude-to-make-a-ps2-emulator-that-runs-in-your-browser",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:31:32.000Z",
+      "x": "We've seen a tidal wave of people decompiling games and recompiling them for different systems thanks to advan"
+    },
+    {
+      "id": "1mkuaccok7",
+      "t": "Sony goes transparent with PS5 Prism Collection",
+      "u": "https://gsmarena.com/sony_goes_transparent_with_ps5_prism_collection-news-75270.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:31:02.000Z",
+      "x": "来源：GSMArena — Sony goes transparent with PS5 Prism Collection"
+    },
+    {
+      "id": "42br2e13vs",
+      "t": "I stopped giving ChatGPT, Claude, and Gemini detailed prompts for a week, and one struggled more than I expected",
+      "u": "https://xda-developers.com/stopped-giving-chatgpt-claude-and-gemini-detailed-prompts-one-struggled-more-than-expected",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:30:22.000Z",
+      "x": "One piece of prompting advice you've likely heard at least a few times before is to give AI chatbots as much c"
+    },
+    {
+      "id": "1bxk628v4t",
+      "t": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "u": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+      "s": "TechCrunch",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:20:47.000Z",
+      "x": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
+    },
+    {
+      "id": "1lwu1zi385",
+      "t": "Fan fiction website AO3 is down, and it could take weeks to recover",
+      "u": "https://engadget.com/2301753/ao3-fanfiction-website-down-for-weeks",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:18:22.000Z",
+      "x": "The site's data is reportedly intact, but the cause of the outage is still unknown."
+    },
+    {
+      "id": "15lkec81hl",
+      "t": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
+      "u": "https://macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:14:19.000Z",
+      "x": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the display's refr"
+    },
+    {
+      "id": "9rc5az10n3",
+      "t": "Strava adds Google Gemini integration with personalized workout insights",
+      "u": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights",
+      "s": "9to5Mac",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:06:35.000Z",
+      "x": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized ins"
+    },
+    {
+      "id": "1enfe5evys",
+      "t": "I went looking for a fan problem on my NAS and found 40 hours of credential stuffing",
+      "u": "https://xda-developers.com/went-looking-for-a-fan-problem-on-my-nas-found-40-hours-of-credential-stuffing",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:01:21.000Z",
+      "x": "I was only supposed to be checking hard drive temperatures. After learning that every 10°C hotter makes a hard"
+    },
+    {
+      "id": "143rn3c1b3",
+      "t": "GM reaches $220M settlement over selling drivers’ private data",
+      "u": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T21:01:04.000Z",
+      "x": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and"
+    },
+    {
+      "id": "amkerezd3q",
+      "t": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "u": "https://projects.freehackers.org/sylphide-os",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:59:55.000Z",
+      "x": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id="
+    },
+    {
+      "id": "10yncbv1mi",
+      "t": "ElementaryUI – Swift, in the Browser",
+      "u": "https://elementary.codes/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:56:39.000Z",
+      "x": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 57 #"
+    },
+    {
+      "id": "1abna7j12n",
+      "t": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
+      "u": "https://macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:53:59.000Z",
+      "x": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, b"
+    },
+    {
+      "id": "g20osg1qs8",
+      "t": "Sony's latest noise-canceling headphones are already seeing a steep discount",
+      "u": "https://xda-developers.com/sonys-new-noise-canceling-headphones-are-already-seeing-a-steep-discount",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:53:28.000Z",
+      "x": "Wireless headphones can be a lifesaver when you need some time to yourself. They're the perfect hardware to ge"
+    },
+    {
+      "id": "15tybef3je",
+      "t": "Android 17 QPR3 Beta 3 brings back app lock and fixes dozens of bugs",
+      "u": "https://androidauthority.com/android-17-qpr3-beta-3-3729781",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:51:36.000Z",
+      "x": "TL;DR Android 17 QPR3 Beta 3 is out now for Pixel 6a and newer devices in Google’s Pixel Beta program. Like Be"
+    },
+    {
+      "id": "1tf4cr5bnl",
+      "t": "Reddit will soon require an account for most content",
+      "u": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:49:53.000Z",
+      "x": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the o"
+    },
+    {
+      "id": "c0rluqv59u",
+      "t": "What to Know About China’s Top-Secret Spaceplane",
+      "u": "https://wired.com/story/what-to-know-about-chinas-top-secret-spaceplane",
+      "s": "WIRED",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:45:36.000Z",
+      "x": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rath"
+    },
+    {
+      "id": "18ry8km1v5",
+      "t": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+      "u": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:43:56.000Z",
+      "x": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts h"
+    },
+    {
+      "id": "op7xan1wgl",
+      "t": "Reddit will force users to log in as AI is killing search traffic",
+      "u": "https://engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:32:49.000Z",
+      "x": "The company is starting with tests outside of the US."
+    },
+    {
+      "id": "ckizq512ob",
+      "t": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "u": "https://github.com/SheepSeb/tinyworldformer",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:32:28.000Z",
+      "x": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50"
+    },
+    {
+      "id": "1i3clv71ko",
+      "t": "Your motherboard's spare SATA ports are the cheapest storage upgrade left",
+      "u": "https://xda-developers.com/your-motherboards-spare-sata-ports-are-the-cheapest-storage-upgrade-left",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:31:21.000Z",
+      "x": "Motherboards are fantastic. They connect all your PC parts together, acting as the foundation for everything t"
+    },
+    {
+      "id": "1q2cezk237",
+      "t": "瑞士科学家利用细菌将沙子变成建筑材料 有望降低建筑业碳排放",
+      "u": "https://cnbeta.com.tw/articles/science/1584354.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:29:16.000Z",
+      "x": "瑞士苏黎世联邦理工学院的研究人员开发出一种新型建筑材料制造技术，利用活体细菌将松散的沙粒结合成坚固的建筑构件。与传统水泥生产需要消耗大量能源、在高温条件下烧制不同，这种被称为生物水泥化的技术可以在常温下完成矿物固化，有望"
+    },
+    {
+      "id": "emffgk1f84",
+      "t": "Google fixes an annoying Photos bug that hid edited images from other apps",
+      "u": "https://engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:26:24.000Z",
+      "x": "Hey, that's not what Magic Eraser is supposed to do!"
+    },
+    {
+      "id": "1y0i2bh151",
+      "t": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+      "u": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:24:17.000Z",
+      "x": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions w"
+    },
+    {
+      "id": "7to3bc1uwg",
+      "t": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "u": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
+      "s": "Ars Technica",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:18:49.000Z",
+      "x": "Microsoft is beginning the rollout of a Windows 11 preview update that finally addresses a persistent power us"
+    },
+    {
+      "id": "76dpyl1qq7",
+      "t": "Google brings AI Mode advertisements to more countries",
+      "u": "https://engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:18:24.000Z",
+      "x": "Adding sponsored content in more markets could make the feature profitable."
+    },
+    {
+      "id": "zd0vacpcu4",
+      "t": "Patrick Stewart has died at age 86",
+      "u": "https://theverge.com/news/1022626/patrick-stewart-star-trek-death",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:10:02.000Z",
+      "x": "Patrick Stewart, best known for his roles in Star Trek and X-Men , has died at age 86. A message posted to Ste"
+    },
+    {
+      "id": "1xvaoex15t",
+      "t": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "u": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:08:31.000Z",
+      "x": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its au"
+    },
+    {
+      "id": "77y28d2hwc",
+      "t": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "u": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine",
+      "s": "Ars Technica",
+      "c": "science",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:08:10.000Z",
+      "x": "The Pentagon inspector general's office declined a request from US senators to investigate restrictions recent"
+    },
+    {
+      "id": "njfuupbjbc",
+      "t": "Google’s got some big updates landing for pretty much everything in your smart home",
+      "u": "https://androidauthority.com/google-smart-home-hardware-updates-3729736",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:07:38.000Z",
+      "x": "TL;DR Google’s sharing its latest suite of smart home improvements, and they include a ton of updates for the "
+    },
+    {
+      "id": "1tptvtu1h6",
+      "t": "Reddit will force everyone to log in",
+      "u": "https://theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:07:00.000Z",
+      "x": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Re"
+    },
+    {
+      "id": "rqwue31o1t",
+      "t": "Rivian expands joint venture with VW to include AI assistant",
+      "u": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+      "s": "TechCrunch",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:05:47.000Z",
+      "x": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+    },
+    {
+      "id": "157oqnzmvi",
+      "t": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
+      "u": "https://macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors",
+      "s": "MacRumors",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:04:54.000Z",
+      "x": "The HomePod mini 2 is launching tomorrow (or in a few hours in Australia and New Zealand) and a new hands-on v"
+    },
+    {
+      "id": "civrhm10sy",
+      "t": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "u": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle",
+      "s": "TechCrunch",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:02:03.000Z",
+      "x": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second"
+    },
+    {
+      "id": "17s6kch58e",
+      "t": "Rivian’s R2 is officially its best-selling vehicle",
+      "u": "https://theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "s": "The Verge",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:02:00.000Z",
+      "x": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial heal"
+    },
+    {
+      "id": "kgteny1rao",
+      "t": "I connected Obsidian to a local LLM, and it's the closest I've come to a second brain that actually answers back",
+      "u": "https://xda-developers.com/connected-obsidian-to-local-llm-closest-ive-come-to-second-brain-that-answers-back",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T20:00:21.000Z",
+      "x": "Most note-taking setups are great at holding onto things, which is kind of the whole point, but they're perhap"
+    },
+    {
+      "id": "c9lxfi12ci",
+      "t": "The Ultrahuman Ring Pro is on sale across the US online and in stores",
+      "u": "https://gsmarena.com/the_ultrahuman_ring_pro_is_on_sale_across_the_us_online_and_in_stores-news-75260.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:57:02.000Z",
+      "x": "来源：GSMArena — The Ultrahuman Ring Pro is on sale across the US online and in stores"
+    },
+    {
+      "id": "1tbtkkvfib",
+      "t": "OpenAI-backed Thrive Holdings acquires ADT",
+      "u": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:56:19.000Z",
+      "x": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home securi"
+    },
+    {
+      "id": "18orii29g9",
+      "t": "Solidigm拟在美国投资建设NAND闪存工厂 项目与中国大连工厂升级许可挂钩",
+      "u": "https://cnbeta.com.tw/articles/tech/1584352.htm",
+      "s": "cnBeta",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:55:35.000Z",
+      "x": "据报道，SK海力士旗下的美国存储芯片子公司Solidigm正在与美国商务部进行谈判，考虑投资450亿美元在美国建设一座新的芯片制造工厂。如果项目最终落实，这将成为美国本土首批大型NAND闪存生产设施之一，也可能改变全球闪"
+    },
+    {
+      "id": "1ypufqs1ps",
+      "t": "Polymarket Halted International Trading After Hackers Drained Accounts",
+      "u": "https://wired.com/story/polymarket-flagship-platform-hack-traders-lose-money",
+      "s": "WIRED",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:51:56.000Z",
+      "x": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says aff"
+    },
+    {
+      "id": "b72zkhbgkj",
+      "t": "Moto Buds 2 Plus deal brings Bose-tuned buds under $100",
+      "u": "https://androidauthority.com/moto-buds-2-plus-deal-3729769",
+      "s": "Android Authority",
+      "c": "ai-hardware",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:51:30.000Z",
+      "x": "Amazon has cut the Moto Buds 2 Plus to $99, $50 off the $149.99 retail price. That’s a 34% discount relative t"
+    },
+    {
+      "id": "1w7pydevps",
+      "t": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more",
+      "u": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:49:38.000Z",
+      "x": "Apple unveiled its “biggest update ever” for the iPad mini this week, introducing a thinner, lighter design an"
+    },
+    {
+      "id": "20nh2nahi6",
+      "t": "Save $102 on Lenovo’s big-screen Idea Tab Pro Gen 2 tablet",
+      "u": "https://androidauthority.com/lenovo-idea-tab-pro-gen-2-deal-3729766",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:43:52.000Z",
+      "x": "Lenovo’s Idea Tab Pro Gen 2 is built for people who want a big Android tablet for movies, notes, and getting w"
+    },
+    {
+      "id": "13evcht1ol",
+      "t": "Patrick Stewart has died",
+      "u": "https://nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:41:39.000Z",
+      "x": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator."
+    },
+    {
+      "id": "lknrgi1okd",
+      "t": "Nothing Headphones Sale: Stylish and Up to 41% Off",
+      "u": "https://wired.com/story/nothing-cmf-deals-october-2026",
+      "s": "WIRED",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:41:36.000Z",
+      "x": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest "
+    },
+    {
+      "id": "17fdjetc04",
+      "t": "Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof",
+      "u": "https://engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:40:27.000Z",
+      "x": "Just what the Sandworm bucket needed: a second hole."
+    },
+    {
+      "id": "1mh2oav1sw",
+      "t": "Time may be up for Samsung Galaxy Watch extended software support",
+      "u": "https://androidauthority.com/samsung-galaxy-watch-os-updates-3729748",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:33:50.000Z",
+      "x": "TL;DR Samsung is reportedly considering an end to major OS upgrades on older Galaxy Watches. According to the "
+    },
+    {
+      "id": "wo79nmac2r",
+      "t": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+      "u": "https://github.com/johncassil/dontallow",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:27:44.000Z",
+      "x": "This popup has been a constant gripe of mine for years. I almost NEVER want to allow this permission and there"
+    },
+    {
+      "id": "bf8qih1dcc",
+      "t": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "u": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:25:48.000Z",
+      "x": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.c"
+    },
+    {
+      "id": "1v7k72c124",
+      "t": "微软统一GPU崩溃诊断机制：DirectX新增转储文件支持 帮助开发者更快定位显卡故障",
+      "u": "https://cnbeta.com.tw/articles/tech/1584350.htm",
+      "s": "cnBeta",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:20:19.000Z",
+      "x": "微软正在改进Windows图形系统的故障诊断能力，通过将GPU崩溃诊断与DirectX转储文件机制整合，帮助开发者在图形应用程序发生崩溃时收集更有价值的调试信息。这项改进旨在简化显卡相关故障的分析流程，让游戏开发者和图形"
+    },
+    {
+      "id": "93lzt5jz3y",
+      "t": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "u": "https://theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "s": "The Verge",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:19:28.000Z",
+      "x": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location info"
+    },
+    {
+      "id": "16p3vno1wo",
+      "t": "特朗普手机T1拆解视频证实此前猜测：实为HTC U24 Pro换壳产品",
+      "u": "https://cnbeta.com.tw/articles/tech/1584348.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:18:35.000Z",
+      "x": "特朗普移动（Trump Mobile）推出的T1智能手机近日再次成为关注焦点。知名YouTube频道JerryRigEverything的主持人扎克·尼尔森对这款手机进行了拆解测试，结果进一步证实了外界此前的猜测：T1在"
+    },
+    {
+      "id": "1549y5z1k0",
+      "t": "Consumer Appetite for Personal AI Goes Mainstream",
+      "u": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "s": "IEEE Spectrum",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:18:20.000Z",
+      "x": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal o"
+    },
+    {
+      "id": "1gwr15n1po",
+      "t": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "u": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:17:49.000Z",
+      "x": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — th"
+    },
+    {
+      "id": "1trtot3nh1",
+      "t": "Meta quietly launches an AI fashion app called Style Sketch",
+      "u": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:14:36.000Z",
+      "x": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add ite"
+    },
+    {
+      "id": "3g0ctzjx79",
+      "t": "Trump declares robot imports a national security threat",
+      "u": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
+      "s": "Ars Technica",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:07:53.000Z",
+      "x": "President Donald Trump has declared the imports of foreign-made factory robots to be a national security threa"
+    },
+    {
+      "id": "1umf9jmgfs",
+      "t": "Apple Lowers App Store Fees in Taiwan Starting October 31",
+      "u": "https://macrumors.com/2026/10/29/app-store-fees-taiwan",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:06:08.000Z",
+      "x": "Apple is lowering the commission that it collects in Taiwan to 26 percent, down from 30 percent. Apple plans t"
+    },
+    {
+      "id": "1hz26xn1jv",
+      "t": "Hacker may have stolen millions in a malware attack against online poker players",
+      "u": "https://engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players",
+      "s": "Engadget",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-29T19:03:18.000Z",
+      "x": "Wired has the story of a superuser cheating scandal."
+    },
+    {
+      "id": "tl2xqc13t3",
+      "t": "HomeView Pre-Order Returns to $289.99 on Amazon",
+      "u": "https://macrumors.com/2026/10/29/homeview-pre-order-289",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:55:04.000Z",
+      "x": "Amazon's $9 pre-order discount on the HomeView has returned for the Space Gray color, allowing you to get the "
+    },
+    {
+      "id": "1bcx07k1aw",
+      "t": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "u": "https://theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "s": "The Verge",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:45:31.000Z",
+      "x": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT fil"
+    },
+    {
+      "id": "1n4zk7819s",
+      "t": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
+      "u": "https://engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:45:00.000Z",
+      "x": "The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film."
+    },
+    {
+      "id": "1s92tx85aw",
+      "t": "Don't expect more Assassin's Creed remakes anytime soon",
+      "u": "https://engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:40:00.000Z",
+      "x": "Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Cree"
+    },
+    {
+      "id": "1d64ne61cv",
+      "t": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "u": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+      "s": "WIRED",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:39:43.000Z",
+      "x": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months befo"
+    },
+    {
+      "id": "1jy5lr21jy",
+      "t": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy",
+      "u": "https://engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy",
+      "s": "Engadget",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:34:43.000Z",
+      "x": "President Trump reportedly chose to do nothing in response."
+    },
+    {
+      "id": "l0v88c1qrp",
+      "t": "Trump Mobile T1 Phone teardown video confirms everyone's suspicions",
+      "u": "https://gsmarena.com/trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:31:02.000Z",
+      "x": "来源：GSMArena — Trump Mobile T1 Phone teardown video confirms everyone's suspicions"
+    },
+    {
+      "id": "8qpmow2v1x",
+      "t": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "u": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo",
+      "s": "Ars Technica",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:29:12.000Z",
+      "x": "Donald Trump apparently is so aligned with Nvidia CEO Jensen Huang—who has become the president’s key advisor "
+    },
+    {
+      "id": "ej8sf1q403",
+      "t": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook",
+      "u": "https://engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:20:21.000Z",
+      "x": "The company will also notify parents about conversations with Meta AI."
+    },
+    {
+      "id": "29b8dy74fp",
+      "t": "Ikea’s colorful donut-shaped smart lamp is $20 off",
+      "u": "https://theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+      "s": "The Verge",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:18:36.000Z",
+      "x": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one o"
+    },
+    {
+      "id": "ttljwrwo07",
+      "t": "Turning a solar power system into its own backup",
+      "u": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup",
+      "s": "Ars Technica",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:02:26.000Z",
+      "x": "Rather than directly converting photons into electricity, concentrated solar energy uses mirrors to turn sunli"
+    },
+    {
+      "id": "hv6y2g1u3f",
+      "t": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo",
+      "u": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-10-30",
+      "p": "2026-10-29T18:00:43.000Z",
+      "x": "iOS 27.2 launched this week with many new features , including an upgrade for the Apple TV app that’s especial"
+    },
+    {
+      "id": "1upvatxldn",
+      "t": "Google brings richer document editing to Gemini on mobile and the web",
+      "u": "https://androidauthority.com/gemini-document-editing-3729712",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:59:47.000Z",
+      "x": "TL;DR Gemini is bringing in-app document editing and preview to mobile and the web. After creating custom file"
+    },
+    {
+      "id": "2ohhkil2ww",
+      "t": "Amazon Ember 50-inch 4K TV hits its lowest price in months",
+      "u": "https://androidauthority.com/amazon-ember-tv-deal-3729729",
+      "s": "Android Authority",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:56:37.000Z",
+      "x": "A 50-inch 4K TV is a great fit for a living room, bedroom, or first apartment when you want one screen to hand"
+    },
+    {
+      "id": "15ev8kj19d",
+      "t": "Granola crunches up a dictation feature to compete with Wispr",
+      "u": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:54:38.000Z",
+      "x": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting "
+    },
+    {
+      "id": "19b68zebk7",
+      "t": "EarFun Air Pro 4 falls 33% on Amazon to $53",
+      "u": "https://androidauthority.com/deal-earfun-air-pro-4-3729704",
+      "s": "Android Authority",
+      "c": "ai-hardware",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:50:14.000Z",
+      "x": "The EarFun Air Pro 4 just dropped to $53.16 on Amazon, down from its $79.90 recommended retail price. That’s a"
+    },
+    {
+      "id": "1ifj0ldnb5",
+      "t": "Apple’s new laptop supports one of the coolest features for color pros",
+      "u": "https://theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "s": "The Verge",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:48:09.000Z",
+      "x": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED displa"
+    },
+    {
+      "id": "1i4u8m1ase",
+      "t": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
+      "u": "https://macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off",
+      "s": "MacRumors",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:47:11.000Z",
+      "x": "The new MacBook Pro models with OLED displays have an accessibility setting that allows you to turn off touch "
+    },
+    {
+      "id": "1r81mi04x8",
+      "t": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "u": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report",
+      "s": "Hacker News",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:43:48.000Z",
+      "x": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-... , https://archive.ph/K7bih Comments URL: https"
+    },
+    {
+      "id": "1cmys7xrj0",
+      "t": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
+      "u": "https://wired.com/story/ridge-wallet-deal-october-2026",
+      "s": "WIRED",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:41:36.000Z",
+      "x": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try i"
+    },
+    {
+      "id": "2ufnmfbz8q",
+      "t": "Amazon cuts latest Ring Battery Doorbell 2K by $55",
+      "u": "https://androidauthority.com/ring-battery-doorbell-2k-deal-amazon-3729722",
+      "s": "Android Authority",
+      "c": "auto",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:41:20.000Z",
+      "x": "The Ring Battery Doorbell 2K is Ring’s newest entry-level video doorbell, and it packs in a lot for the price."
+    },
+    {
+      "id": "jojrpw10e3",
+      "t": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "u": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling",
+      "s": "Ars Technica",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:21:33.000Z",
+      "x": "The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah th"
+    },
+    {
+      "id": "wbtw4o1quv",
+      "t": "OnePlus Ace 7 and Ace 7 Pro announced with cooling fans and 185Hz displays",
+      "u": "https://gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:18:01.000Z",
+      "x": "来源：GSMArena — OnePlus Ace 7 and Ace 7 Pro announced with cooling fans and 185Hz displays"
+    },
+    {
+      "id": "16mzqh5u0n",
+      "t": "Old 'Popcorn Time' App Left Hundreds of Thousands of Macs at Risk",
+      "u": "https://macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk",
+      "s": "MacRumors",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:12:59.000Z",
+      "x": "If you installed Popcorn Time on a Mac years ago, part of the app may still be running, and it may have left y"
+    },
+    {
+      "id": "b4mzyc102y",
+      "t": "Apple says it’s ‘only getting started’ updating macOS for touchscreens",
+      "u": "https://9to5mac.com/2026/10/29/apple-says-its-only-getting-started-updating-macos-for-touchscreens",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:01:44.000Z",
+      "x": "Apple’s new MacBook Pro with PROLED XDR Display ( pre-order here ) includes a variety of software optimization"
+    },
+    {
+      "id": "o8z4tgo6zx",
+      "t": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "u": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T17:00:00.000Z",
+      "x": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed mode"
+    },
+    {
+      "id": "1orlk5a132",
+      "t": "Samsung Odyssey G7 drops to $499.99, saving you $400",
+      "u": "https://androidauthority.com/samsung-odyssey-g7-deal-3729708",
+      "s": "Android Authority",
+      "c": "pc",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:59:13.000Z",
+      "x": "Big-screen PC gaming feels a lot better when your monitor can fill more of your view, and Samsung’s 37-inch Od"
+    },
+    {
+      "id": "1u0k16rbe7",
+      "t": "美国情报机构调查疑似针对黄仁勋的间谍活动 英伟达否认涉及敏感信息泄露",
+      "u": "https://cnbeta.com.tw/articles/tech/1584346.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:58:16.000Z",
+      "x": "美国媒体披露，美国情报机构曾对一名与英伟达首席执行官黄仁勋关系密切的企业高管展开长期调查，怀疑其可能与中国情报活动有关，并试图通过接近黄仁勋获取有关英伟达业务规划及美国政府政策的信息。 阅读全文"
+    },
+    {
+      "id": "1nmim1tkbn",
+      "t": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "u": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+      "s": "TechCrunch",
+      "c": "chip",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:42:32.000Z",
+      "x": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China co"
+    },
+    {
+      "id": "i2enue1wx7",
+      "t": "OnePlus just unveiled a monster 16R preview, and we’re suitably jealous",
+      "u": "https://androidauthority.com/oneplus-ace-7-pro-launch-16r-preview-3729618",
+      "s": "Android Authority",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:33:50.000Z",
+      "x": "TL;DR OnePlus has launched the Ace 7 and Ace 7 Pro in China, packing 9,000mAh batteries, 185Hz gaming displays"
+    },
+    {
+      "id": "s1i31kkdmy",
+      "t": "Deal slashes the Nothing Headphone (a) by $70",
+      "u": "https://androidauthority.com/nothing-headphone-a-deal-amazon-3729699",
+      "s": "Android Authority",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:32:43.000Z",
+      "x": "The Nothing Headphone (a) stands out right away with Nothing’s transparent-inspired look, but there’s more goi"
+    },
+    {
+      "id": "1m9leqj153",
+      "t": "字母表市值或将蒸发5000亿美元 创下公司历史最大单日市值缩水",
+      "u": "https://cnbeta.com.tw/articles/tech/1584344.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:25:04.000Z",
+      "x": "字母表（Alphabet，GOOGL）正遭遇上市以来表现最差的一个交易日。受财报发布影响，该股周四下跌约 12%，创下其 2004 年上市之后最大单日跌幅。本次下跌造成近 5000 亿美元市值灰飞烟灭，这是美股上市公司史"
+    },
+    {
+      "id": "2qeylb2hyn",
+      "t": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "u": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+      "s": "Ars Technica",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:24:55.000Z",
+      "x": "Google parent Alphabet reported its Q3 financial results on Wednesday afternoon, showing a healthy rise in rev"
+    },
+    {
+      "id": "115gan21yw",
+      "t": "Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers",
+      "u": "https://gsmarena.com/amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:21:02.000Z",
+      "x": "来源：GSMArena — Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers"
+    },
+    {
+      "id": "izmybrho6e",
+      "t": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:21:00.000Z",
+      "x": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world mode"
+    },
+    {
+      "id": "16r68fb1gn",
+      "t": "SuperMe raises $20M for its network of AI expert profiles",
+      "u": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:19:43.000Z",
+      "x": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, th"
+    },
+    {
+      "id": "1tkzv4ftln",
+      "t": "Rokid takes on Meta Ray-Ban Displays with its own rival",
+      "u": "https://androidauthority.com/rokid-unveils-two-new-smart-glasses-3729627",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:19:14.000Z",
+      "x": "Credit: Notebookcheck TL;DR The Rokid Color and Rokid Glasses 2 have been announced. The Color features 0.16cc"
+    },
+    {
+      "id": "1y4dnr5z9x",
+      "t": "16colo.rs – ANSI/ASCII art archive",
+      "u": "https://16colo.rs/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:14:28.000Z",
+      "x": "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 86 # Comme"
+    },
+    {
+      "id": "1ka99il1li",
+      "t": "59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归",
+      "u": "https://ithome.com/1/019/798.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:10:45.000Z",
+      "x": "IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59.90 万元，仅此一款配置。 其核心变化是用 3.0T 直列六缸 +48V "
+    },
+    {
+      "id": "1uuewd01th",
+      "t": "This 4-port UGREEN 160W GaN charger is back to its lowest price",
+      "u": "https://androidauthority.com/ugreen-nexode-pro-160w-gan-charger-deal-3729679",
+      "s": "Android Authority",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:07:01.000Z",
+      "x": "One charger can make a big difference when your desk or travel bag is full of cables and power bricks. The UGR"
+    },
+    {
+      "id": "4xwc3hkq0h",
+      "t": "ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts",
+      "u": "https://engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:04:13.000Z",
+      "x": "The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe."
+    },
+    {
+      "id": "l5ezj819gx",
+      "t": "Soundcore Boom 2 Plus falls to one of its best prices",
+      "u": "https://androidauthority.com/soundcore-boom-2-plus-deal-amazon-3729645",
+      "s": "Android Authority",
+      "c": "other",
+      "d": "2026-10-30",
+      "p": "2026-10-29T16:03:26.000Z",
+      "x": "The Soundcore Boom 2 Plus is down to $169.99 on Amazon right now, which cuts $80 off its $249.99 retail price."
+    },
     {
       "id": "1132gqd1l6",
       "t": "谷粒 Joy-Con 2 TMR 电磁摇杆新增紫-绿、黑-黑配色，到手价 62 元",
