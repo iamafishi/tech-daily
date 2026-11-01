@@ -1,8 +1,848 @@
 {
-  "generatedAt": "2026-10-31T01:30:26.486Z",
+  "generatedAt": "2026-11-01T00:58:57.861Z",
   "limit": 6000,
-  "total": 5323,
+  "total": 5407,
   "items": [
+    {
+      "id": "16wik193r8",
+      "t": "比亚迪方程豹熊甜波：10 月方程系列交付总量没达到预期，11 月会全力提产提速",
+      "u": "https://ithome.com/1/020/653.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:52:24.000Z",
+      "x": "IT之家 11 月 1 日消息，比亚迪集团-方程豹事业部总经理熊甜波昨晚发文，总结了 10 月的进展。 熊甜波表示，这个月的工作重心，全扑在方程 S 的交付上。尽管团队拼到了最后一天，本月（10 月）方程系列的交付总量还"
+    },
+    {
+      "id": "vqz2gvycwf",
+      "t": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+      "u": "https://ithome.com/1/020/651.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:40:35.000Z",
+      "x": "IT之家 11 月 1 日消息，Roblox 在 2026 财年第三季度报告中透露，该平台内使用 Build 创建的 AI 游戏总数已超过 7 万款。 9 月游玩时长排名前 100 游戏中 ， 超 80% 使用 AI 辅"
+    },
+    {
+      "id": "jsjrcl12pw",
+      "t": "华为鲲鹏 920 上跑出超越同代主流硬件的性能：北大团队完成 ABACUS 原子算筹软件深度优化，优化 19 类材料核心算子",
+      "u": "https://ithome.com/1/020/650.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:35:18.000Z",
+      "x": "IT之家 11 月 1 日消息，密度泛函理论（Density Functional Theory，DFT）是研究半导体、金属等关键材料性质的主流第一性原理方法。ABACUS（原子算筹）是国内自主研发的密度泛函开源软件，由"
+    },
+    {
+      "id": "22n3qv1ptr",
+      "t": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+      "u": "https://ithome.com/1/020/649.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:31:48.000Z",
+      "x": "IT之家 11 月 1 日消息，美国司法部（DOJ）于当地时间 10 月 31 日公布了“Operation Ghostbusters”行动的结果，该行动主要是调查广泛的学生贷款欺诈行为。 据该机构称，不良分子使用被盗身"
+    },
+    {
+      "id": "1h7djk1b65",
+      "t": "Weekly poll results: the Oppo Find X10 Pro Max is too expensive and so is the Find X10",
+      "u": "https://gsmarena.com/weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:31:02.000Z",
+      "x": "来源：GSMArena — Weekly poll results: the Oppo Find X10 Pro Max is too expensive and so is the Find X10"
+    },
+    {
+      "id": "lwbmtnnkdw",
+      "t": "5 expensive hobbies where owning a 3D printer actually saves you money",
+      "u": "https://engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:30:00.000Z",
+      "x": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it mi"
+    },
+    {
+      "id": "24fldn61xt",
+      "t": "吉利汽车规划 2030 年前实现“县县通”：布局 15 万座充电站，其中智充站 10 万座",
+      "u": "https://ithome.com/1/020/648.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:24:18.000Z",
+      "x": "IT之家 11 月 1 日消息，据蓝鲸汽车报道，在吉利汽车 2026 年三季度业绩电话会上，吉利汽车行政总裁淦家阅透露，在智充网络布局上，今年 10 月底智充站将超 3000 座，11 月达 4000 座，12 月达 6"
+    },
+    {
+      "id": "uvwa2r1qj6",
+      "t": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+      "u": "https://ithome.com/1/020/647.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:12:26.000Z",
+      "x": "IT之家 11 月 1 日消息，据金融时报 FT 消息，Spotify 正在积极推进版权授权谈判，并努力说服音乐人拥抱新技术。Spotify 计划在 2027 年初推出一项由人工智能驱动的新服务，允许用户自行制作歌曲的混"
+    },
+    {
+      "id": "zc66lqencg",
+      "t": "日本首家大疆、哈苏概念旗舰店开业，主打融合体验",
+      "u": "https://ithome.com/1/020/646.htm",
+      "s": "IT之家",
+      "c": "ai-hardware",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:05:03.000Z",
+      "x": "IT之家 11 月 1 日消息，日本首家大疆、哈苏概念旗舰店昨天在东京开业。该店铺主打融合式体验，消费者可以在此同时选购大疆和哈苏产品。 IT之家从官方新闻稿获悉，该店铺位于东京著名时尚购物街区表参道， 1 楼专门展示大"
+    },
+    {
+      "id": "1xrhynzwjw",
+      "t": "Windows Search keeps lagging, and there's a built-in fix most people never try",
+      "u": "https://xda-developers.com/windows-search-lagging-built-in-fix-people-never-try",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:00:20.000Z",
+      "x": "There is no lack of frustrating and unwanted features on Windows, and Search is perhaps one of the worst offen"
+    },
+    {
+      "id": "1vcg20t364",
+      "t": "Amazon made the AUX input on older Alexa devices less useful",
+      "u": "https://engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-11-01T00:00:00.000Z",
+      "x": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their dev"
+    },
+    {
+      "id": "6h6oxg7l93",
+      "t": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+      "u": "https://ithome.com/1/020/645.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:58:31.000Z",
+      "x": "IT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT 主要体验中，Plus、Pro 以及 Business 订阅方案的用户将 在 ChatGP"
+    },
+    {
+      "id": "7x2wwa1mjs",
+      "t": "BLG 2:0 HLE：英雄联盟 S16 全球总决赛 8 强诞生，LPL 赛区三支队伍晋级",
+      "u": "https://ithome.com/1/020/644.htm",
+      "s": "IT之家",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:53:17.000Z",
+      "x": "IT之家 11 月 1 日消息，在今日的英雄联盟 2026 全球总决赛瑞士轮第八日比赛中，来自中国大陆 LPL 赛区的二号种子 BLG 战队， 以 2:0 的比分战胜来自韩国 LCK 赛区的二号种子 HLE 战队 ，成功"
+    },
+    {
+      "id": "1hy3t6d854",
+      "t": "联电 CEO 王石：成熟制程明年预计将涨价约 10%",
+      "u": "https://ithome.com/1/020/643.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:46:05.000Z",
+      "x": "IT之家 11 月 1 日消息，在 10 月 28 日召开的联电（UMC）第三季度法人说明会上，联电首席执行官王石向投资者表示，因成熟制程产能利用率已突破九成且部分技术满载， 2027 年全年的综合平均销售价格 （ASP"
+    },
+    {
+      "id": "6wbf231k7t",
+      "t": "How big and powerful is SpaceX's Starship rocket?",
+      "u": "https://engadget.com/2300227/how-big-powerful-spacex-starship-rocket",
+      "s": "Engadget",
+      "c": "science",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:45:00.000Z",
+      "x": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this r"
+    },
+    {
+      "id": "1vfdbg7m21",
+      "t": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+      "u": "https://ithome.com/1/020/642.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:44:36.000Z",
+      "x": "IT之家 11 月 1 日消息，据 Tom's Hardware 昨日报道，尽管消费级 PC 市场正在缩小，但英特尔有信心，AI 行业的需求将抵消客户端市场的下滑。 为此，英特尔正在将部分产能从客户端 CPU 重新分配给"
+    },
+    {
+      "id": "8ub70qvcnc",
+      "t": "IT早报 1101：苹果中国官网上线 Apple 智能介绍页面；新款小米 SU7 Ultra 无伪装实车曝光；我国首次载人登月任务乘组计划由三人组成...",
+      "u": "https://ithome.com/1/020/641.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:40:23.000Z",
+      "x": "“IT早报”时间，大家好，现在是 2026 年 11 月 1 日星期日，今天的重要科技资讯有： 1. 苹果中国官网上线 Apple 智能介绍页面：首批核心功能今年稍晚推出，千问整合一体 苹果中国区官网 10 月 31 日"
+    },
+    {
+      "id": "6hnknw8t24",
+      "t": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+      "u": "https://ithome.com/1/020/640.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:38:59.000Z",
+      "x": "IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。 据介绍，现有特斯拉车主可以分享自己的推荐链接，被邀请人打"
+    },
+    {
+      "id": "c41fnzo021",
+      "t": "消息称华硕可能结束手机业务：现有产品纷纷下市，已无零售商提供报价",
+      "u": "https://ithome.com/1/020/639.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:33:51.000Z",
+      "x": "IT之家 11 月 1 日消息，据台媒经济日报消息，PC 品牌华硕今年初证实，2026 年暂无推出手机新机型的计划。 如今市场传出， 华硕手机库存到了第 4 季度已几乎销售一空 ，上周已无手机零售商（通讯行）提供报价，显"
+    },
+    {
+      "id": "k24szf1kcm",
+      "t": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
+      "u": "https://xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:31:52.000Z",
+      "x": "While increasingly capable AI coding agents have taken a lot of the grunt work out of coding, they've also int"
+    },
+    {
+      "id": "1rlyw9y19g",
+      "t": "Linux Mint 系统将重新支持合盖休眠，带来全新终端和文件预览功能",
+      "u": "https://ithome.com/1/020/638.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:30:22.000Z",
+      "x": "IT之家 11 月 1 日消息，Linux Mint 是较为适合新手的热门 Linux 发行版之一，尤其适合想从 Windows 转向 Linux 的用户。然而，该系统基于 Ubuntu 打造，受制于 Ubuntu 的许"
+    },
+    {
+      "id": "1o6aaez9fd",
+      "t": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+      "u": "https://engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix",
+      "s": "Engadget",
+      "c": "ai-hardware",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:30:00.000Z",
+      "x": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's wh"
+    },
+    {
+      "id": "f6fqb4swe5",
+      "t": "微信支付智慧经营机器人首次进店：支持迎宾、导购、点单等，基于腾讯混元打造",
+      "u": "https://ithome.com/1/020/637.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:16:13.000Z",
+      "x": "IT之家 11 月 1 日消息，10 月 29 日，广东 7-ELEVEN 第 2000 家门店在深圳腾讯总部园区开业。 当天，一台印有微信支付标识的智慧经营机器人 第一次进店“打工” ，这款机器人能推荐商品和优惠套餐，"
+    },
+    {
+      "id": "2ptghmy36r",
+      "t": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+      "u": "https://ithome.com/1/020/636.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:12:21.000Z",
+      "x": "IT之家 11 月 1 日消息，据 The Information 昨天报道，Meta 最近与中国企业傅利叶（Fourier）合作，打造一款名为 Max 的人形机器人原型。 据介绍，这款机器人研发用时三个月，其身高接近 "
+    },
+    {
+      "id": "1ub8xelt8a",
+      "t": "When electric cars were for women",
+      "u": "https://spectrum.ieee.org/early-electric-vehicles",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:08:12.000Z",
+      "x": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item"
+    },
+    {
+      "id": "a9yo3e1snc",
+      "t": "微软 Turn 10 与 Playground Games 游戏工作室合并，《极限竞速》负责人 Dan Greenawalt 辞职",
+      "u": "https://ithome.com/1/020/635.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:06:29.000Z",
+      "x": "IT之家 11 月 1 日消息，微软旗下游戏部门 Xbox 今年进行大规模裁员，将《极限竞速》开发商 Turn 10 和《极限竞速：地平线》开发商 Playground Games 合并为一家游戏工作室。 据 The V"
+    },
+    {
+      "id": "1sg0ptj2iz",
+      "t": "NotebookLM's AI podcasts were my favorite way to study, but ChatGPT Dots might change that",
+      "u": "https://xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:00:20.000Z",
+      "x": "I don't think my professors would be particularly thrilled to learn just how much AI is involved in my study r"
+    },
+    {
+      "id": "jcc687u4n2",
+      "t": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
+      "u": "https://engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T23:00:00.000Z",
+      "x": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automake"
+    },
+    {
+      "id": "151geretvj",
+      "t": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+      "u": "https://ithome.com/1/020/634.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:56:41.000Z",
+      "x": "IT之家 11 月 1 日消息，2026 年 10 月，金标联盟（ITGSA）正式发布 SharedView Kit「一镜到底 / 无缝动画」。 荣耀、OPPO、vivo、小米四家头部手机厂商联合推动该 Kit 落地 。"
+    },
+    {
+      "id": "10rduts3uo",
+      "t": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+      "u": "https://ithome.com/1/020/633.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:56:28.000Z",
+      "x": "IT之家 11 月 1 日消息，美国白宫科学与技术顾问会议主席戴维 · 奥利弗 · 萨克斯（David Oliver Sacks）最近出席 All-In 播客，深入分析 Anthropic 的 S-1 注册文件， 称这家"
+    },
+    {
+      "id": "1u488vr1kw",
+      "t": "Altoids Project",
+      "u": "https://uvdn7.github.io/altoids-project",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:54:55.000Z",
+      "x": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321"
+    },
+    {
+      "id": "19n2qqrtne",
+      "t": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "u": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:46:12.000Z",
+      "x": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https"
+    },
+    {
+      "id": "m54wus1ely",
+      "t": "4 important features you should know if you use Microsoft Teams",
+      "u": "https://engadget.com/2300242/important-features-should-know-microsoft-teams",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:45:00.000Z",
+      "x": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than"
+    },
+    {
+      "id": "1qc6wobydo",
+      "t": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "u": "https://smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:41:06.000Z",
+      "x": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothi"
+    },
+    {
+      "id": "qbh7t7prvg",
+      "t": "The reason most electrical plug prongs have holes in them",
+      "u": "https://engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:30:00.000Z",
+      "x": "If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and"
+    },
+    {
+      "id": "1e1sddn1uz",
+      "t": "I tested free PDF tools on the files that usually send me back to Adobe Acrobat; only one did a decent job",
+      "u": "https://xda-developers.com/tested-pdf-tools-files-usually-send-back-adobe-acrobat-one-decent-job",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:00:20.000Z",
+      "x": "PDF files are supposed to make document sharing easier, but the moment I need to edit existing text, fix a sca"
+    },
+    {
+      "id": "mg1hdy1hjy",
+      "t": "5 Netflix tips we all wish we knew sooner",
+      "u": "https://engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T22:00:00.000Z",
+      "x": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make t"
+    },
+    {
+      "id": "3crt0479gm",
+      "t": "AI text watermarking and quality loss",
+      "u": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:50:13.000Z",
+      "x": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator"
+    },
+    {
+      "id": "10a28kdmk4",
+      "t": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "u": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:41:00.000Z",
+      "x": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "id": "115wb8x1eu",
+      "t": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "u": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+      "s": "TechCrunch",
+      "c": "web",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:36:07.000Z",
+      "x": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking oppor"
+    },
+    {
+      "id": "1gc6ahn1ln",
+      "t": "Nothing Phone (4a), (4a) Pro, (3a), and (3a) Pro are now receiving the stable update to Android 17",
+      "u": "https://gsmarena.com/nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:31:02.000Z",
+      "x": "System > System update. Make sure you back up your data first, and don't be alarmed if your phone uses more po"
+    },
+    {
+      "id": "1ytoxr3grb",
+      "t": "I vibe coded my own Google Sheets replacement just to get dark mode",
+      "u": "https://xda-developers.com/google-sheets-vibe-coded-replacement-dark-mode",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:30:19.000Z",
+      "x": "Dark mode is the first setting I enable in anything that I open on my PC. We've finally reached a point now wh"
+    },
+    {
+      "id": "xouiue1qvu",
+      "t": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "u": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "s": "TechCrunch",
+      "c": "science",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:17:03.000Z",
+      "x": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+    },
+    {
+      "id": "3gzk8i1fb8",
+      "t": "Get in the spirit with these horrors from YouTube",
+      "u": "https://theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:06:58.000Z",
+      "x": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season r"
+    },
+    {
+      "id": "erxoydvih4",
+      "t": "I gave Home Assistant these three obscure integrations, and they made my smart home setup even more versatile",
+      "u": "https://xda-developers.com/these-home-assistant-integrations-made-my-smart-home-more-versatile",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:00:20.000Z",
+      "x": "Between its solid compatibility with IoT products, fully customizable dashboards, trigger-action automation ru"
+    },
+    {
+      "id": "1ggtk2ghx1",
+      "t": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
+      "u": "https://engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes",
+      "s": "Engadget",
+      "c": "ai-hardware",
+      "d": "2026-11-01",
+      "p": "2026-10-31T21:00:00.000Z",
+      "x": "When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's wher"
+    },
+    {
+      "id": "ok7q4hgazg",
+      "t": "Distributed Proofreaders",
+      "u": "https://pgdp.net/c",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:56:12.000Z",
+      "x": "Article URL: https://www.pgdp.net/c/ Comments URL: https://news.ycombinator.com/item?id=50320137 Points: 21 # "
+    },
+    {
+      "id": "1nos7nq198",
+      "t": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "u": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:46:39.000Z",
+      "x": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://new"
+    },
+    {
+      "id": "rf65lznfkt",
+      "t": "科学家发现白矮星可能突破钱德拉塞卡极限 强磁场或让死星质量达到太阳的2.4倍",
+      "u": "https://cnbeta.com.tw/articles/science/1584572.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:46:15.000Z",
+      "x": "恒星耗尽核燃料后，并不一定会以壮观的超新星爆发结束生命。对于类似太阳的恒星而言，它们通常会抛掉外层物质，留下一个体积接近地球、质量却可能与太阳相当的致密核心，这就是白矮星。 阅读全文"
+    },
+    {
+      "id": "1x00i4z1ym",
+      "t": "Nvidia quietly gave RTX 40-series owners a new frame generation mode, and I measured it on my 4070 Ti Super",
+      "u": "https://xda-developers.com/nvidia-quietly-gave-rtx-40-series-owners-a-new-frame-generation-mode-this-week-and-i-measured-it-on-my-4070-ti-super",
+      "s": "XDA Developers",
+      "c": "chip",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:30:20.000Z",
+      "x": "On October 13, Nvidia introduced a new performance-focused frame generation mode for RTX 40-series and RTX 50-"
+    },
+    {
+      "id": "1hvcq4lsxm",
+      "t": "Surviving \"The Graduate\"",
+      "u": "https://newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:02:06.000Z",
+      "x": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 49 # Comments: 13"
+    },
+    {
+      "id": "suk0wt1mn9",
+      "t": "5 unusual AI tricks I use to get better results than a single prompt ever could",
+      "u": "https://xda-developers.com/unusual-ai-tricks-to-get-better-results-than-a-single-prompt",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:01:20.000Z",
+      "x": "AI has become part of my everyday workflow, but getting useful results isn't always as simple as typing a ques"
+    },
+    {
+      "id": "6rlvu8ig3t",
+      "t": "Xbox manager says AI is already being used in game development",
+      "u": "https://engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-11-01",
+      "p": "2026-10-31T20:00:00.000Z",
+      "x": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming indus"
+    },
+    {
+      "id": "qfllra7tun",
+      "t": "HackerTube: YouTube built from videos recommended by HN",
+      "u": "https://karpathy.bearblog.dev/hacker-tube",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:56:53.000Z",
+      "x": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comment"
+    },
+    {
+      "id": "1fylv7i16z",
+      "t": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
+      "u": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:49:44.000Z",
+      "x": "Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple "
+    },
+    {
+      "id": "vlx3pm5mlx",
+      "t": "Anthropic blocks users for anything touching training larger models",
+      "u": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:39:19.000Z",
+      "x": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator"
+    },
+    {
+      "id": "hrw8r816qt",
+      "t": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
+      "u": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:30:00.000Z",
+      "x": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indi"
+    },
+    {
+      "id": "xlxgaw1hm5",
+      "t": "Keyboards of The Verge",
+      "u": "https://theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:30:00.000Z",
+      "x": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the c"
+    },
+    {
+      "id": "7c5w2ci4pp",
+      "t": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "u": "https://epoyraz.github.io/nes-contra-us",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:18:48.000Z",
+      "x": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us . Thanks for "
+    },
+    {
+      "id": "dfbzso4euq",
+      "t": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "u": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "s": "Hacker News",
+      "c": "pc",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:16:30.000Z",
+      "x": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator"
+    },
+    {
+      "id": "1ks0u6x1ia",
+      "t": "币安称已补回九成被盗加密资产 剩余部分将由平台承担 预计11月1日恢复提现",
+      "u": "https://cnbeta.com.tw/articles/tech/1584570.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:12:15.000Z",
+      "x": "全球最大加密货币交易平台之一币安（Binance）近日遭遇重大安全事件，黑客窃取了价值约63亿美元的用户加密资产。面对这起规模惊人的盗窃事件，币安首席执行官表示，目前被盗资金已有约90%得到补充，公司将承担全部损失，剩余"
+    },
+    {
+      "id": "wng4qu1r7y",
+      "t": "The Duty of a Scholar",
+      "u": "https://daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:07:36.000Z",
+      "x": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news"
+    },
+    {
+      "id": "s1jfnz502r",
+      "t": "Fan-made decompilation ports are doing better remasters than the studios that own the games",
+      "u": "https://xda-developers.com/fan-made-decompilation-ports-are-remastering-games-better-than-studios",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:01:20.000Z",
+      "x": "The video game industry has a rather embarrassing problem today. Publishers routinely abandon beloved games, l"
+    },
+    {
+      "id": "1uc2a4b1bj",
+      "t": "The best Roku Streaming Stick depends on your picture quality needs",
+      "u": "https://engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T19:00:00.000Z",
+      "x": "Roku only sells one streaming device that doesn't support 4K output."
+    },
+    {
+      "id": "1u1v0jg1m6",
+      "t": "Why your AirPods keep disconnecting without warning: These settings can fix it",
+      "u": "https://engadget.com/2298547/why-mac-keeps-disconnecting-airpods",
+      "s": "Engadget",
+      "c": "ai-hardware",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:45:00.000Z",
+      "x": "Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping."
+    },
+    {
+      "id": "1vrb5uk1j2",
+      "t": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "u": "https://theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:40:32.000Z",
+      "x": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the comp"
+    },
+    {
+      "id": "fjjr5xt75x",
+      "t": "It's the memory latency, stupid",
+      "u": "https://pivotlake.io/blog/its-the-memory-latency-stupid",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:38:16.000Z",
+      "x": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.c"
+    },
+    {
+      "id": "kg7qjh1o50",
+      "t": "HMD Pulse Pro 2nd Edition shows up at a retailer with a new chipset",
+      "u": "https://gsmarena.com/hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:31:02.000Z",
+      "x": "来源：GSMArena — HMD Pulse Pro 2nd Edition shows up at a retailer with a new chipset"
+    },
+    {
+      "id": "1u3qxd6ho7",
+      "t": "I changed two settings in my local AI setup, and stopped needing more VRAM",
+      "u": "https://xda-developers.com/you-dont-need-more-vram-to-run-large-local-models-you-just-need-the-right-settings",
+      "s": "XDA Developers",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:30:20.000Z",
+      "x": "There are more people running local large language models now than perhaps ever before, especially now that th"
+    },
+    {
+      "id": "nnwciy1p56",
+      "t": "How to use Claude Duet when it rolls out to you",
+      "u": "https://engadget.com/2300253/how-to-use-claude-duet",
+      "s": "Engadget",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:30:00.000Z",
+      "x": "For now, you'll need to first join a waitlist."
+    },
+    {
+      "id": "v5pixj1l68",
+      "t": "4 drawbacks you should know before buying a PlayStation 5",
+      "u": "https://engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-11-01",
+      "p": "2026-10-31T18:00:00.000Z",
+      "x": "The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in t"
+    },
+    {
+      "id": "19hst3sjtm",
+      "t": "William Nordhaus has died",
+      "u": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:59:41.000Z",
+      "x": "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-cli"
+    },
+    {
+      "id": "1i9fsokcxh",
+      "t": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
+      "u": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:53:56.000Z",
+      "x": "Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them , and really appre"
+    },
+    {
+      "id": "3h7di1bl1h",
+      "t": "Happy Pikmin Day Eve",
+      "u": "https://theverge.com/games/1024085/happy-pikmin-day-eve",
+      "s": "The Verge",
+      "c": "game",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:50:12.000Z",
+      "x": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of"
+    },
+    {
+      "id": "6dk6fhoaft",
+      "t": "Bolt Graphics powers on its first Zeus GPU",
+      "u": "https://engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu",
+      "s": "Engadget",
+      "c": "chip",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:30:00.000Z",
+      "x": "Bolt Graphics has been working on its simulation-centric Zeus GPU for a while now and has reached a significan"
+    },
+    {
+      "id": "1squf31px0",
+      "t": "These Samsung Galaxy Watches won't be getting the new One UI update",
+      "u": "https://engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update",
+      "s": "Engadget",
+      "c": "phone",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:15:00.000Z",
+      "x": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will "
+    },
+    {
+      "id": "1o7cbe0cip",
+      "t": "Anthropic收紧Claude使用边界 禁止逆向工程复刻现有游戏",
+      "u": "https://cnbeta.com.tw/articles/tech/1584568.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:14:38.000Z",
+      "x": "近段时间以来，借助 AI 克隆游戏、逆向工程与反编译的做法愈发流行，一批游戏项目几乎在一夜之间涌现，形成了一种小规模的“家庭作坊式”产业。这些项目类型多样，既有引发争议的《堡垒之夜》与《辐射》克隆作品，也有玩家自制的游戏"
+    },
+    {
+      "id": "kb9olf13ce",
+      "t": "How to fix your phone screen when it's unresponsive to touch​",
+      "u": "https://engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T17:00:00.000Z",
+      "x": "Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what t"
+    },
+    {
+      "id": "1h580wt1o2",
+      "t": "How building a cheap home server could save you money in the long run",
+      "u": "https://engadget.com/2301243/how-building-cheap-home-server-save-money",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T16:45:00.000Z",
+      "x": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here'"
+    },
+    {
+      "id": "bh5b3rouqr",
+      "t": "Why your Spotify might be using so much storage",
+      "u": "https://engadget.com/2300259/why-spotify-uses-so-much-storage",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T16:30:00.000Z",
+      "x": "Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spo"
+    },
+    {
+      "id": "goveevgh1v",
+      "t": "How long is too long for a USB cable?",
+      "u": "https://engadget.com/2301242/how-long-should-usb-cable-be-maximum-length",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-01",
+      "p": "2026-10-31T16:15:00.000Z",
+      "x": "USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are "
+    },
+    {
+      "id": "1idm8x21w5",
+      "t": "OpenAI reportedly lowers funding target for new round",
+      "u": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "s": "TechCrunch",
+      "c": "web",
+      "d": "2026-11-01",
+      "p": "2026-10-31T16:12:55.000Z",
+      "x": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+    },
+    {
+      "id": "1qtrojt1id",
+      "t": "英特尔将18A产能从Panther Lake转向至强服务器芯片以缓解供应紧张",
+      "u": "https://cnbeta.com.tw/articles/tech/1584566.htm",
+      "s": "cnBeta",
+      "c": "chip",
+      "d": "2026-11-01",
+      "p": "2026-10-31T16:06:25.000Z",
+      "x": "英特尔正把部分制造产能从消费级芯片上转移出来，以满足其至强（Xeon）服务器处理器的需求。在2026年第三季度财报电话会议上，公司表示将把俄勒冈州工厂的部分Intel 18A资源转换为Intel 3工艺，后者正是至强6“"
+    },
+    {
+      "id": "cggo451xqo",
+      "t": "I built an AI Tamagotchi before Meta could",
+      "u": "https://theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "s": "The Verge",
+      "c": "ai",
+      "d": "2026-11-01",
+      "p": "2026-10-31T16:05:00.000Z",
+      "x": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday sea"
+    },
     {
       "id": "181jv3ejwm",
       "t": "荣耀 WIN 平板首销：8.4 英寸 240Hz OLED 屏幕、第五代骁龙 8 至尊版，国补到手价 3699 元起",
