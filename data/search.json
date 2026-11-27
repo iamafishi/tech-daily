@@ -1,8 +1,1578 @@
 {
-  "generatedAt": "2026-11-26T04:05:17.126Z",
+  "generatedAt": "2026-11-27T04:06:03.519Z",
   "limit": 6000,
   "total": 6000,
   "items": [
+    {
+      "id": "1q86usw747",
+      "t": "分析师：DRAM价格2028年或腰斩 但廉价内存明年仍难现身",
+      "u": "https://cnbeta.com.tw/articles/tech/1588140.htm",
+      "s": "cnBeta",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-27T04:04:32.000Z",
+      "x": "广发证券分析师Jeff Pu近日下调了2027年每一个季度的DRAM合约价预测，并在报告中首次给出2028年情景分析。按照基准情景，DRAM价格将在2028年减半，但这并不意味着内存超级周期已经结束，消费者也不太可能在明"
+    },
+    {
+      "id": "171ir713rv",
+      "t": "美国出口禁令形同虚设 英伟达顶级B300服务器在中国公开售卖 开价约300万美元",
+      "u": "https://cnbeta.com.tw/articles/tech/1588138.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T04:04:00.000Z",
+      "x": "尽管美国出口管制清单已将英伟达B300人工智能芯片列入对华禁运范围，但最新调查显示，只要认识“对的人”并且资金充足，这套Blackwell Ultra顶级硬件在中国并不难买到。据《华盛顿邮报》报道，一套搭载8颗GPU的B"
+    },
+    {
+      "id": "w3ddrh1ken",
+      "t": "《GTA 6》粉丝移植 PC版帧率提升至约20帧 但仍问题重重",
+      "u": "https://cnbeta.com.tw/articles/game/1588136.htm",
+      "s": "cnBeta",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-27T04:02:25.000Z",
+      "x": "让《GTA 6》在PC上运行的竞赛已经全面展开。Rockstar至今仍未公布官方PC版的时间表，但传闻称正式版本可能在2027年第一季度推出。不过，玩家社区显然不打算继续等待。目前有多个《GTA 6》重编译和移植项目正在"
+    },
+    {
+      "id": "cg3msqtbds",
+      "t": "索尼新专利设想为手柄加入“画质切换键” 可在游戏中即时切换图形设置",
+      "u": "https://cnbeta.com.tw/articles/game/1588134.htm",
+      "s": "cnBeta",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-27T04:01:51.000Z",
+      "x": "索尼经常申请一些颇具野心的专利，不过这一次的想法可能更贴近现实。据Patentlyze发现，索尼互动娱乐于11月19日公布的一项专利申请，描述了一种专用的手柄按键，可以让游戏在画质模式和性能模式之间即时切换。用户不必每次"
+    },
+    {
+      "id": "hvt59li71w",
+      "t": "微软为应对“内存危机”削减Windows 11内存占用",
+      "u": "https://cnbeta.com.tw/articles/tech/1588132.htm",
+      "s": "cnBeta",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T04:01:22.000Z",
+      "x": "自2026年初以来，微软已多次采取措施改进Windows 11，但大多数用户实际体验中的变化并不明显。早在今年7月，微软就承诺将为Windows 11带来内存效率方面的提升。从目前的情况看，微软实现这一目标的方式之一，是"
+    },
+    {
+      "id": "10tjg8o1eb",
+      "t": "用AI冒充主播N3on诈骗26万美元 佛罗里达男子获刑47个月",
+      "u": "https://cnbeta.com.tw/articles/movie/1588130.htm",
+      "s": "cnBeta",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:59:08.000Z",
+      "x": "美国佛罗里达州一名男子因利用人工智能冒充知名Kick平台主播N3on，骗取粉丝约26万美元加密货币，被判处47个月监禁。这起案件因N3on本人此前也曾使用AI复制自己而引发关注。 阅读全文"
+    },
+    {
+      "id": "sfrcpe1vnk",
+      "t": "数学家找到破解174年历史数学难题“四色定理”的捷径",
+      "u": "https://cnbeta.com.tw/articles/science/1588128.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:58:46.000Z",
+      "x": "1852年，英国数学家弗朗西斯·格思里在绘制英格兰各郡地图时注意到了一个有趣的现象：他只需要四种颜色，就能确保相邻的两个郡不会使用同一种颜色。这个看似简单的观察引出了一个著名问题：是否任何一张平面地图，无论边界多么复杂，"
+    },
+    {
+      "id": "ey1t141d2x",
+      "t": "德州发现三千年用于驱赶野牛跳崖的猎场 改写南部大平原考古认知",
+      "u": "https://cnbeta.com.tw/articles/science/1588126.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:53:58.000Z",
+      "x": "据莱斯大学介绍，考古学家在德州潘汉德尔卡普罗克峡谷州立公园的“夜鹰”遗址发现，原住民群体在大约3000年间反复在同一地点进行集体野牛跳崖狩猎。这是德州第二个经科学证实的野牛跳崖遗址，相关成果发表于《美国古物》杂志。研究由"
+    },
+    {
+      "id": "tdvamy1eby",
+      "t": "安徽淮阜、淮蚌、巢马三条高铁同日开通：和县、濉溪、固镇、蒙城、利辛 5 县结束不通高铁的历史",
+      "u": "https://ithome.com/1/033/295.htm",
+      "s": "IT之家",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:50:57.000Z",
+      "x": "IT之家 11 月 27 日消息，安徽巢马高铁、淮蚌高铁、淮阜高铁三条线路今日集中开通运营。至此，安徽全省高铁里程突破 3300 公里，覆盖 16 市 44 县。长三角铁路营业里程超过 1.58 万公里，高铁里程突破 8"
+    },
+    {
+      "id": "o52wmq1inu",
+      "t": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+      "u": "https://ifanr.com/1695671",
+      "s": "爱范儿",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:49:58.000Z",
+      "x": "Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发，另一边是自家最能打的 Claude Code 团队，接连有核心成员转投竞争对手 OpenAI。 昨天，Claude Code "
+    },
+    {
+      "id": "1yuloufchv",
+      "t": "庆祝宝可梦 30 周年，CASETiFY 公布系列像素风数码配饰",
+      "u": "https://ithome.com/1/033/291.htm",
+      "s": "IT之家",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:49:20.000Z",
+      "x": "IT之家 11 月 27 日消息，数码配件制造商 CASETiFY 当地时间本月 25 日面向日本市场公布了 多款像素风《宝可梦》IP 保护壳与配饰 。这些纪念《宝可梦》30 周年的产品将于 12 月 1 日发售。 IT"
+    },
+    {
+      "id": "11qnu0e1iy",
+      "t": "全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型",
+      "u": "https://ithome.com/1/033/283.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:47:53.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，深蓝汽车董事长邓承浩宣布，全新深蓝 S07/L07 AI 激光版车型将 行业首批开放域端到端豆包大模型 。 邓承浩介绍称，过去的车载语音是听懂听清到理"
+    },
+    {
+      "id": "1qx9xbp1b3",
+      "t": "智能戒指利用红外光提前感知情绪压力 准确率可达92%",
+      "u": "https://cnbeta.com.tw/articles/science/1588124.htm",
+      "s": "cnBeta",
+      "c": "science",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:45:32.000Z",
+      "x": "20世纪末风靡一时的“情绪戒指”其实很容易被骗。只要把这种廉价首饰夹在出汗的腋下待上一分钟，它的颜色就会焕发出“内心充满激情”的光彩。如今，美国南加州大学的工程师们造出了一款真正能读懂情绪状态的戒指，它依靠的不只是对温度"
+    },
+    {
+      "id": "1bwss8fp83",
+      "t": "腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作",
+      "u": "https://ithome.com/1/033/282.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:44:56.000Z",
+      "x": "IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。 腾讯混元表示，通过该模型生成的 几何"
+    },
+    {
+      "id": "1crjb8ss9m",
+      "t": "新型钓鱼骗局瞄准Google账户 举办假冒网络研讨会并称有500美元奖励",
+      "u": "https://cnbeta.com.tw/articles/tech/1588122.htm",
+      "s": "cnBeta",
+      "c": "security",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:44:16.000Z",
+      "x": "网络安全公司Push Security近日发现了一起仍在持续进行的钓鱼攻击活动。攻击者伪装成知名企业，以邀请收件人参加网络研讨会，或提供报酬邀请其参与付费专家访谈为诱饵，试图窃取Google账户登录凭据。 阅读全文"
+    },
+    {
+      "id": "wyawyc7l16",
+      "t": "Android just had one of its worst quarters, and Apple is benefiting",
+      "u": "https://androidauthority.com/android-global-sales-share-q3-2026-counterpoint-3740661",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:41:19.000Z",
+      "x": "TL;DR Android accounted for 74% of global smartphone sales in Q3 2026, down five points from a year ago and it"
+    },
+    {
+      "id": "12h5jf5wnp",
+      "t": "微软承认 Win11 原生应用开发存在不足，WinUI 手写组件迟到约 4 年",
+      "u": "https://ithome.com/1/033/281.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:39:34.000Z",
+      "x": "IT之家 11 月 27 日消息，科技媒体 Windows Latest 今天（11 月 27 日）发布博文，报道称本月召开的 Ignite 2026 活动中， 微软承认 Windows 11 原生界面开发框架 WinU"
+    },
+    {
+      "id": "eyq8c61xlx",
+      "t": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
+      "u": "https://ithome.com/1/033/280.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:39:17.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在 11 月 26 日晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统 。 深蓝汽车董事长邓承浩现场透露，全新深蓝 S0"
+    },
+    {
+      "id": "1yqhp561hb",
+      "t": "WhatsApp或将推出旅行eSIM功能",
+      "u": "https://cnbeta.com.tw/articles/tech/1588120.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:36:45.000Z",
+      "x": "WhatsApp正在开发一项全新的旅行eSIM功能，未来用户或许可以直接在应用内发现、购买、安装并管理适用于旅行目的地的eSIM套餐。 阅读全文"
+    },
+    {
+      "id": "1ljz578fiq",
+      "t": "全球首款增程汉兰达来了：广汽丰田汉兰达 9X 官宣，携手华为、宁德时代打造",
+      "u": "https://ithome.com/1/033/279.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:35:51.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天开幕的 2026 广州车展上，广汽丰田宣布，第五代丰田汉兰达将命名为汉兰达 9X，明年一季度全球首发。新车是丰田的首款增程车型及 全球首款增程汉兰达 ，并有华为乾崑智驾和鸿蒙座舱、"
+    },
+    {
+      "id": "1dk8ema1pv",
+      "t": "比亚迪仰望鼎曜「山河鼎韵」限量版携手 U9 Xtreme 亮相 2026 广州车展，前者全球限量 399 台",
+      "u": "https://ithome.com/1/033/275.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:34:08.000Z",
+      "x": "IT之家 11 月 27 日消息，在今日开幕的 2026 广州车展上，仰望鼎曜•山河鼎韵限量版、仰望 U9 Xtreme 两款超豪华车型正式亮相。据介绍，仰望鼎曜「山河鼎韵」限量版全球共发售 399 台。 外观设计上，新"
+    },
+    {
+      "id": "35vt3hyfo3",
+      "t": "内存危机冲击全球手机市场 Android第三季度份额跌至历史新低",
+      "u": "https://cnbeta.com.tw/articles/tech/1588118.htm",
+      "s": "cnBeta",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:33:18.000Z",
+      "x": "市场研究机构Counterpoint Research最新发布的报告显示，今年第三季度全球智能手机销量同比下降16%。内存供应危机对入门级市场造成严重冲击，同时推高了高端机型的价格，各大操作系统的市场格局也因此发生明显变"
+    },
+    {
+      "id": "ow8zdbw5l2",
+      "t": "京瓷将在 5 个财年内向半导体组件领域投资 8100 亿日元",
+      "u": "https://ithome.com/1/033/271.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:32:43.000Z",
+      "x": "IT之家 11 月 27 日消息，京瓷 (Kyocera) 当地时间昨日宣布了从现在到 2031 财年的中期经营战略，计划在这 5 个财年内向半导体组件领域投资 8,100 亿日元 （IT之家注：现汇率约合 339.33"
+    },
+    {
+      "id": "1awez3897n",
+      "t": "Samsung Galaxy A38 runs Geekbench, confirms its chipset",
+      "u": "https://gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:31:02.000Z",
+      "x": "来源：GSMArena — Samsung Galaxy A38 runs Geekbench, confirms its chipset"
+    },
+    {
+      "id": "1al3busfb7",
+      "t": "Google Play开始要求开发者披露家庭住址和电话 开发者担心骚扰问题",
+      "u": "https://cnbeta.com.tw/articles/tech/1588116.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:27:51.000Z",
+      "x": "Google正在要求全球活跃开发者申报自己是否属于商家，从 2027 年 3 月 1 日开始申报为商家的个人开发者，其家庭住址或联系地址和联系电话将会在 Google Play 应用程序页面向全球用户展示。 阅读全文"
+    },
+    {
+      "id": "1681zftpkg",
+      "t": "社交网站X/Twitter首次推出家长控制功能 可以限制青少年使用时间并查看私聊对象",
+      "u": "https://cnbeta.com.tw/articles/tech/1588114.htm",
+      "s": "cnBeta",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:27:18.000Z",
+      "x": "社交网站 X/Twitter 开始推出家长控制功能，该功能允许家长或法定监护人管理 13 至 17 岁青少年的账号使用时间、内容推荐和互动权限。低于 13 岁的儿童没法管理吗？确实没法管理，因为低于 13 岁账号会被直接"
+    },
+    {
+      "id": "1tcwhrl1q2",
+      "t": "领克 900L 预售：定位 900V 旗舰大七座 SUV，30.98 万-36.98 万元",
+      "u": "https://ithome.com/1/033/264.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:26:49.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天上午开幕的 2026 广州车展期间，领克 900L 正式开启预售。新车定位 900V 超级电混旗舰大七座 SUV，提供 320km（Halo、Ultra）和 430km（Ultra"
+    },
+    {
+      "id": "iznc8g1b83",
+      "t": "微软 Office 平替：Collabora Online 发现内存瘦身秘诀，内存占用最高直降 55%",
+      "u": "https://ithome.com/1/033/236.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:15:17.000Z",
+      "x": "IT之家 11 月 27 日消息，科技媒体 NeoWin 昨日（11 月 26 日）发布博文，报道称伴随着 AI 的深度运用，开源社区涌现了大量微软 Office 平替项目，除了 WordCraft、GridCraft "
+    },
+    {
+      "id": "2vdpyc1cke",
+      "t": "比亚迪海洋网首款旗舰 MPV“海鲸”2027 年第一季度上市：车长 5270mm，轴距 3130mm",
+      "u": "https://ithome.com/1/033/234.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:15:04.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天开幕的 2026 广州车展上，比亚迪海洋网首款旗舰 MPV“海鲸”正式首发亮相。 作为海洋网的第五大独立 IP，新车定位为家用旗舰 MPV，预计售价约 30 万元，计划于 2027"
+    },
+    {
+      "id": "ems73m67l4",
+      "t": "长城魏牌 V9X & V8X EV 新车开启预订，搭载全球首款龙鳞甲混合固液超充电池",
+      "u": "https://ithome.com/1/033/227.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:14:04.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，长城魏牌 V9X & V8X EV 正式开启预订， 搭载全球首款龙鳞甲混合固液超充电池 ，3000 元抵 8000 元购车尾款。 据IT之家了解，魏牌 V"
+    },
+    {
+      "id": "iakahrq2j0",
+      "t": "Google will show solo Android developers' phone numbers and addresses",
+      "u": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+      "s": "Hacker News",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:11:41.000Z",
+      "x": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https"
+    },
+    {
+      "id": "8tl0fhjcyo",
+      "t": "零跑全新 Lafa5 上市：限时 10.28 万-12.88 万元，全域 800V 加持",
+      "u": "https://ithome.com/1/033/224.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:11:22.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天（27 日）上午开幕的 2026 广州车展期间，零跑全新 Lafa5 正式上市。新车提供 5 款不同配置，官方指导价区间为 10.58 万-13.18 万元，上市限时优惠价 10."
+    },
+    {
+      "id": "focnkd18fd",
+      "t": "奕境 X9 纯电版上市：标配华为乾崑智驾的首个千伏纯电车，自称“30 万级最强纯电 SUV”，27.98 万元起",
+      "u": "https://ithome.com/1/033/223.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:09:55.000Z",
+      "x": "IT之家 11 月 27 日现场消息，奕境 X9 纯电版车型今日在 2026 广州车展正式上市， 限时优惠价 27.98 万元起 。作为参照， 此前上市的增程版售价区间为 27.98 万至 35.98 万元 。 纯电后驱"
+    },
+    {
+      "id": "wyoyku1by3",
+      "t": "华为 Mate X8 评测：终局之战",
+      "u": "https://ifanr.com/1695642",
+      "s": "爱范儿",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:06:45.000Z",
+      "x": "1969 年 7 月 20 日，当尼尔·阿姆斯特朗首次踏上松软、冰冷又滑腻的月壤，他说出了那句足以流传千古的评价： That’s one small step for [a] man, one giant leap fo"
+    },
+    {
+      "id": "nywsw41qo3",
+      "t": "联发科技：天玑旗舰智能手机芯片仍正常迭代，2027 年将按既定计划更新",
+      "u": "https://ithome.com/1/033/222.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:06:20.000Z",
+      "x": "IT之家 11 月 27 日消息，据台媒《电子时报》(DIGITIMES) 消息称，联发科技 (MediaTek) 针对近期流言回应称： 天玑系列的旗舰手机 SoC 新品开发未中断 ，2027 年仍会照原定计划推出旗舰手"
+    },
+    {
+      "id": "8dthmmxv6z",
+      "t": "马斯克宣布捐赠加码：每年向美国所有孩子捐赠一股 SpaceX 股票",
+      "u": "https://ithome.com/1/033/220.htm",
+      "s": "IT之家",
+      "c": "science",
+      "d": "2026-11-27",
+      "p": "2026-11-27T03:03:33.000Z",
+      "x": "IT之家 11 月 27 日消息， SpaceX 公司当地时间 11 月 25 日发布公告 ，将为每一个现有的特朗普儿童账户各捐赠 1 股新发行的 A 类普通股，帮助美国儿童建立长期储蓄。此外，SpaceX 首席执行官埃"
+    },
+    {
+      "id": "1iq0g3og4d",
+      "t": "蔚来 firefly 萤火虫达成 10 万台交付里程碑，3 款十万纪念限定新品上线",
+      "u": "https://ithome.com/1/033/219.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:59:44.000Z",
+      "x": "IT之家 11 月 27 日现场消息，今日 2026 广州车展正式拉开帷幕，蔚来旗下品牌 firefly 萤火虫宣布达成 10 万台交付里程碑。 firefly 萤火虫同时宣布，3 款十万纪念款限定新品上线，包含十万发光"
+    },
+    {
+      "id": "1f91o2r1f3",
+      "t": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警",
+      "u": "https://ithome.com/1/033/218.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:54:01.000Z",
+      "x": "IT之家 11 月 27 日消息，科技媒体 BornCity 昨日（11 月 26 日）发布博文，报道称微软通过 Windows Update 更新通道， 面向部分运行 Windows 11 系统的英特尔迷你主机用户推送"
+    },
+    {
+      "id": "1qwhc493ab",
+      "t": "东风日产 NX7 上市发布：全系宁德时代电池 320km 续航，11.99 万元起",
+      "u": "https://ithome.com/1/033/217.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:53:36.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天开幕的广州车展上，东风日产 NX7 正式发布上市，同步开启交付，定位“智能零压 SUV”。 新车共推出三款配置，官方指导价 12.99 万元起，叠加上市权益后 11.99 万元起，"
+    },
+    {
+      "id": "qhtyzw120x",
+      "t": "Show HN: Sqrin – A better screen share for Mac",
+      "u": "https://sqrin.app/",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:53:22.000Z",
+      "x": "Article URL: https://sqrin.app Comments URL: https://news.ycombinator.com/item?id=50662217 Points: 3 # Comment"
+    },
+    {
+      "id": "1imqk6fbgg",
+      "t": "整车购买 43.48 万元起，蔚来 ES8 玄金揽月特别版上市",
+      "u": "https://ithome.com/1/033/216.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:52:36.000Z",
+      "x": "IT之家 11 月 27 日消息，今日 2026 广州车展正式拉开帷幕，蔚来汽车宣布旗下旗舰 SUV 车型蔚来 ES8 玄金揽月特别版正式上市。新车推出整车购买与电池租用两种购车方案，整车购买方案售价为 43.48 万元"
+    },
+    {
+      "id": "qvxbc11a72",
+      "t": "广东移动启动 2G 网络有序退网，将分阶段停止服务",
+      "u": "https://ithome.com/1/033/215.htm",
+      "s": "IT之家",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:45:13.000Z",
+      "x": "IT之家 11 月 27 日消息，中国移动广东公司 11 月 22 日发布《中国移动广东公司关于 2G 有序退网的公告》称，为整合资源提升服务品质，公司决定对 2G 网络实施有序退网，2G 网络退网完成后仅适用 2G 网"
+    },
+    {
+      "id": "1idk2iz1y7",
+      "t": "比亚迪海洋网首款旗舰 MPV“海鲸”全球首发亮相",
+      "u": "https://ithome.com/1/033/214.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:45:11.000Z",
+      "x": "IT之家 11 月 27 日消息，在 2026 广州车展上，比亚迪海洋网首款旗舰 MPV“海鲸”正式亮相。 该车被官方定位为海洋网第五大独立 IP，主打家用旗舰 MPV 市场，采用全新海洋美学 2.0。 “海鲸”的推出填"
+    },
+    {
+      "id": "1e4k8q65cs",
+      "t": "2027 款极氪 7X 车型上市：全系 900V 高压架构，限时权益价 21.68 万元起",
+      "u": "https://ithome.com/1/033/212.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:43:26.000Z",
+      "x": "IT之家 11 月 27 日现场消息，2027 款极氪 7X 车型今日在 2026 广州车展正式上市，定价 22.98 万元起， 限时权益价 21.68 万元起 。 2027 款极氪 7X 带来晨曦金、云珀红两款新外观配"
+    },
+    {
+      "id": "87wgy71m88",
+      "t": "蔚来新乐道 L60 黑骑士版上市：标配曜黑套装，整车购买 21.08 万元起",
+      "u": "https://ithome.com/1/033/211.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:41:19.000Z",
+      "x": "IT之家 11 月 27 日现场消息，今日 2026 广州车展正式拉开帷幕，蔚来旗下品牌乐道汽车宣布，新乐道 L60 黑骑士版正式上市。新车提供 Max+ 黑骑士版与 Ultra+ 黑骑士版两款车型，整车购买价格分别为 "
+    },
+    {
+      "id": "miwuyj14dl",
+      "t": "“9 系之上，唯有世家”：别克全新至境世家开启预售",
+      "u": "https://ithome.com/1/033/210.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:35:44.000Z",
+      "x": "IT之家 11 月 27 日消息，今天（11 月 27 日）召开的 2026 广州车展开幕首日， 别克全新至境世家正式亮相并开启预售，将于 12 月 4 日上市，官方同步喊出“9 系之上，唯有世家”，把新车定位在“9 系"
+    },
+    {
+      "id": "dk8r8cbijw",
+      "t": "问界发布整车一体 L3 架构，赛力斯副总裁周林称 L3 核心体验就是脱手脱眼",
+      "u": "https://ithome.com/1/033/209.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:35:34.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，赛力斯集团副总裁、问界汽车 CTO 周林分享了问界汽车在 L3 时代最新智能驾驶技术成果。 周林提到， 问界的辅助驾驶总里程位居中国市场首位 ，已超过 1"
+    },
+    {
+      "id": "1gxi40h1gh",
+      "t": "一句话就能剪辑视频了，豆包工作独家接入剪映官方插件",
+      "u": "https://ithome.com/1/033/208.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:33:51.000Z",
+      "x": "IT之家 11 月 27 日消息，今天（27 日）上午，豆包官方宣布，豆包工作独家接入剪映官方插件，一句话就能剪辑视频了。 该功能支持 一句话剪辑与多轨编辑 。用户可将视频素材交给豆包工作，用一句话描述需求并调用剪映完成"
+    },
+    {
+      "id": "3k15gf16pi",
+      "t": "问界汽车面向 L3 的研发和测试体系公开，实车测试里程达 1100 万公里",
+      "u": "https://ithome.com/1/033/207.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:28:18.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，赛力斯集团副总裁、问界汽车 CTO 周林分享了问界汽车面向 L3 的研发和测试体系。 据介绍，问界汽车拥有 1300+ 的 L3 整车安全策略、14000"
+    },
+    {
+      "id": "ryvmzt1i25",
+      "t": "宝马新世代 BMW i3 广州车展上市：CLTC 续航最高 1028km，24.99 万元起售",
+      "u": "https://ithome.com/1/033/206.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:25:50.000Z",
+      "x": "IT之家 11 月 27 日现场消息，今日在广州车展，宝马新世代 BMW i3 正式上市。继三个月前成都车展发布新世代 BMW iX3 之后，宝马新世代纯电轿车产品正式落地中国市场。新车为长轴距版，共推出三个版本，采用全"
+    },
+    {
+      "id": "jbdle1d792",
+      "t": "与小米 18 标准版同步发布，消息称小米 AI 眼镜 2 代下月中旬上市",
+      "u": "https://ithome.com/1/033/203.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:21:57.000Z",
+      "x": "IT之家 11 月 27 日消息，《科创板日报》今天（27 日）上午独家获悉，小米 AI 眼镜 2 代或将于 12 月中旬 与小米 18 标准版手机同步发布 ，并于当天上市开售。 据悉，小米 AI 眼镜 2 代包括 Q9"
+    },
+    {
+      "id": "kh6nrzo2ef",
+      "t": "长安汽车：坚决不造速成车，绝不把未经充分验证的产品交给客户",
+      "u": "https://ithome.com/1/033/202.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:18:57.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今日的 2026 广州国际车展上， 长安汽车公布了旗下天枢领航的最新功能和 OTA 升级计划 。 长安汽车表示，针对十年前智能化浪潮扑面而来，是走捷径做集成，还是下苦功从底层架构做"
+    },
+    {
+      "id": "12yydrby80",
+      "t": "赛力斯副总裁周林：问界辅助驾驶里程一直是中国市场第一名，已超过 120 亿公里、L3 核心体验就是脱手脱眼",
+      "u": "https://ithome.com/1/033/201.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:18:55.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在 2026 广州车展上，赛力斯集团副总裁、问界汽车 CTO 周林发表了关于 L3 高阶辅助驾驶的演讲。他指出，L3 智驾并非简单的硬件与算法堆砌，而是一套整车级的系统工程。 周林表"
+    },
+    {
+      "id": "ow9g3q631k",
+      "t": "20.38 万-30.18 万元，小鹏 P7 全新配色“晨曦粉”“暮金灰”上市",
+      "u": "https://ithome.com/1/033/200.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:16:43.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，小鹏 P7 推出了全新外观配色“晨曦粉”“暮金灰”，以及全新内饰配色“云境灰”。该车提供 4 款配置，售价区间 20.38 万-30.18 万元。 「暮金"
+    },
+    {
+      "id": "tlcnoro8ll",
+      "t": "微星推出 MAG OLED 271QEX24 显示器：250nits SDR 亮度，2.5 倍耐刮",
+      "u": "https://ithome.com/1/033/199.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:12:35.000Z",
+      "x": "IT之家 11 月 27 日消息，微星 (MSI) 现已在其官网上线 MAG OLED 271QEX24 显示器。这一型号仍基于三星显示 26.5\" QHD 240Hz 平价 QD-OLED 面板，但规格属性有所改善。 "
+    },
+    {
+      "id": "1k2jzde19a",
+      "t": "2027 款岚图泰山开启预售：华为乾崑智驾 ADS5 + 鸿蒙座舱 HarmonySpace 6，43.99 万元",
+      "u": "https://ithome.com/1/033/198.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:10:22.000Z",
+      "x": "IT之家 11 月 27 日现场消息，2027 款岚图泰山今日开启预售，只有一个版本可选，预售价 43.99 万元。新车将在 12 月上旬正式发售并同步开启交付。 2027 款岚图泰山定位中式豪华大六座 SUV，采用 6"
+    },
+    {
+      "id": "wj0j1o1npu",
+      "t": "2027 年小鹏 5 款全球车型将登陆海外市场：出海不是性价比品牌，稳稳占住中高端市场",
+      "u": "https://ithome.com/1/033/197.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:10:07.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今日的 2026 广州国际车展上，小鹏汽车宣布， 2027 年小鹏 5 款全球车型将登陆海外市场 ，小鹏 P7 车型也将于 2027 年第二季度登陆欧洲市场。 IT之家在发布会现场"
+    },
+    {
+      "id": "1q09uj41up",
+      "t": "奇瑞 QQ 啡车全球众筹：CLTC 纯电续航 420km、L2 级辅助驾驶，9.69 万元",
+      "u": "https://ithome.com/1/033/195.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:06:16.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今天的 2026 广州车展上，奇瑞还带来了全新的 QQ 啡车，号称“快乐起飞”。 据介绍，奇瑞 QQ 啡车拥有「快乐三件套」，包含「自由橘光」定制车衣（奶白油和阳光橘双拼色设计）、"
+    },
+    {
+      "id": "qy3dbzj047",
+      "t": "259 元酷态科 5 号磁吸电能卡 Air 开售，5000mAh 电芯容量",
+      "u": "https://ithome.com/1/033/194.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:04:20.000Z",
+      "x": "IT之家 11 月 27 日消息，酷态科 5 号磁吸电能卡 Air 今日 10:00 开售，日常价 299 元，首销权益价不高于 259 元。 作为酷态科首款超薄磁吸， 该产品薄约 0.77cm，轻约 115g ，全面通"
+    },
+    {
+      "id": "1q2to3zwao",
+      "t": "iOS and HarmonyOS gain ground as Android's Q3 share hits a record low",
+      "u": "https://gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:01:02.000Z",
+      "x": "来源：GSMArena — iOS and HarmonyOS gain ground as Android's Q3 share hits a record low"
+    },
+    {
+      "id": "1seq2wwlv1",
+      "t": "工信部：今年前 10 个月电信业务收入 1.43 万亿元同比降 2.6%，5G 基站达 528.1 万个",
+      "u": "https://ithome.com/1/033/193.htm",
+      "s": "IT之家",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-27T02:00:28.000Z",
+      "x": "IT之家 11 月 27 日消息，工信部今日发布《2026 年前 10 个月通信业经济运行情况》，前 10 个月，通信业运行基本平稳。电信业务总量稳步增长，移动互联网接入流量延续较快增势，5G、千兆、物联网等新型基础设施"
+    },
+    {
+      "id": "bwnwea1050",
+      "t": "国家统计局：1—10 月大规模智算中心建设带动光纤制造、光缆制造行业利润分别增长 6.7 倍和 1.5 倍",
+      "u": "https://ithome.com/1/033/192.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:59:57.000Z",
+      "x": "IT之家 11 月 27 日消息，今天（27 日）上午在解读 2026 年 1—10 月份工业企业利润数据时，国家统计局工业司首席统计师于卫宁表示，高技术制造业引领作用持续凸显。1—10 月份，规模以上高技术制造业利润保"
+    },
+    {
+      "id": "1u6niv81b2",
+      "t": "微软 AI 负责人警告：我们正跨越 AI 危险门槛，安全和对齐是当前最重要任务",
+      "u": "https://ithome.com/1/033/191.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:59:29.000Z",
+      "x": "IT之家 11 月 27 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）于 11 月 25 日在 X 平台发布推文， 示警称 AI 行业“正在跨越一个门槛”，安全与对齐研究必须被置于优"
+    },
+    {
+      "id": "1k12fyii6r",
+      "t": "长安汽车：正在申报第二批 L3 级号牌与 L4 级测试牌照，自动驾驶渗透率力争 30% 以上",
+      "u": "https://ithome.com/1/033/190.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:57:21.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上， 长安汽车宣布，旗下天枢领航智能驾驶正在申报第二批 L3 级号牌与 L4 级测试牌照 ，自动驾驶渗透率力争达到 30% 以上。 长安汽车表示，天枢智能"
+    },
+    {
+      "id": "1j6i1ua1h9",
+      "t": "奇瑞风云全新概念车 AURA 全球首发：犀牛 S 固态电池、L4 猎鹰驾辅技术",
+      "u": "https://ithome.com/1/033/189.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:56:34.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今天的 2026 广州车展上，奇瑞风云全新概念车 AURA 全球首发。 据介绍，奇瑞风云全新概念车 AURA 采用猎狩比例设计，主打低伏、蓄势、力量感；辅以流动张力 + 豹眼细节。"
+    },
+    {
+      "id": "1lpi18h1gm",
+      "t": "重回巅峰：广汽埃安 1-10 月累计销量 32.69 万辆同比增长 56%，预计全年零售将重回 40 万以上",
+      "u": "https://ithome.com/1/033/187.htm",
+      "s": "IT之家",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:54:08.000Z",
+      "x": "IT之家 11 月 27 日消息，广汽埃安今日公布最新销量数据。今年 1 至 10 月，其累计销量达到 32.69 万辆，同比增长 56%。官方预计，全年零售销量将重回 40 万辆以上的发展巅峰。 海外市场成为其重要的增"
+    },
+    {
+      "id": "153cvgpdg7",
+      "t": "长安汽车天枢领航 Ultra 2.0 发布，明年 1 月开启 OTA 升级",
+      "u": "https://ithome.com/1/033/186.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:49:00.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今日的 2026 广州国际车展上，长安汽车发布了 天枢领航 Ultra 2.0 ，将于明年 1 月中旬进行 OTA。 天枢领航 Ultra 1.5 版本计划 12 月 15 日起 "
+    },
+    {
+      "id": "1qdqnh41oy",
+      "t": "CHERRY 上架 MX3.0S PRO NBL 机械键盘《宝可梦》胖丁主题联名款",
+      "u": "https://ithome.com/1/033/185.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:47:28.000Z",
+      "x": "IT之家 11 月 27 日消息，CHERRY（樱桃）现已在电商平台上架 MX3.0S PRO NBL 机械键盘的《宝可梦》胖丁主题联名款。这一配置 支持单模有线连接 ，售价 499 元，12 月 3 日 10:00 开"
+    },
+    {
+      "id": "rc6p5z1dsx",
+      "t": "微软紧急推送 Windows Server 2025 补丁，修复 IPv6 路由冲突网络故障",
+      "u": "https://ithome.com/1/033/184.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:47:18.000Z",
+      "x": "IT之家 11 月 27 日消息，科技媒体 NeoWin 昨日（11 月 26 日）发布博文，报道称微软已为 Windows Server 2025 发布紧急带外（out-of-band）热补丁 KB5138318，修复"
+    },
+    {
+      "id": "1kifwf5xrf",
+      "t": "全新一汽红旗 H9 上市发布：华为乾崑智驾 ADS 5 高阶版，官方指导价 32.98 至 41.98 万元",
+      "u": "https://ithome.com/1/033/183.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:47:07.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今日的广州车展上，一汽红旗 H9 正式上市，官方指导价 32.98 至 41.98 万元。 一汽还为红旗 H9 推出了保价服务，2027 年 5 月 31 日之前只要官方降价或者现"
+    },
+    {
+      "id": "1vh8rwb5ux",
+      "t": "14999 元起华为首款鸿蒙小折叠电脑 MateBook Fold S 今日开售：14.7 英寸 OLED 内屏、麒麟 XE90 芯片",
+      "u": "https://ithome.com/1/033/182.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:42:06.000Z",
+      "x": "IT之家 11 月 27 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 今日正式开售，定价 14999 元起，叠加国补后 13499 元起。IT之家整理如下： 16GB + 256GB（含键盘 + 内胆"
+    },
+    {
+      "id": "92j7ew7ydw",
+      "t": "奇瑞全新艾瑞泽 7 预售：标配 1.5T 鲲鹏动力，8.39 万元起",
+      "u": "https://ithome.com/1/033/181.htm",
+      "s": "IT之家",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:41:00.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今天的 2026 广州车展上，奇瑞全新艾瑞泽 7 开启预售，标配 1.5T 鲲鹏动力， 8.39 万元起 。 尊贵型：8.39 万元 旗舰型：9.29 万元 据官方介绍，艾瑞泽 7"
+    },
+    {
+      "id": "2hn4ddwa8f",
+      "t": "小米 HAD 辅助驾驶最新版本 HyperOS 1.20 发布，澎程全系车型即日起全量推送",
+      "u": "https://ithome.com/1/033/179.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:36:48.000Z",
+      "x": "IT之家 11 月 27 日消息，在今天的 2026 广州车展小米汽车发布会上，小米 HAD 最新版本 Xiaomi HyperOS 1.20 正式发布，该版本引入因果链和车端世界模型，号称能像人一样思考，处理更准确。 "
+    },
+    {
+      "id": "9pwqr4106c",
+      "t": "AMD 新 Vulkan 技术为光追游戏“减负”，显存占用最高降约 92%",
+      "u": "https://ithome.com/1/033/178.htm",
+      "s": "IT之家",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:36:34.000Z",
+      "x": "IT之家 11 月 27 日消息，科技媒体 TweakTown 今天（11 月 27 日）报道，11 月 17~19 日在荷兰召开的 2026 图形编程大会上，AMD 展示了 RT-MLAS 光线追踪优化技术，可以降低复"
+    },
+    {
+      "id": "1tpi9eo1bi",
+      "t": "Microsoft-owned GitHub spotlighted a PS5-to-PC translation layer amid GTA 6 DMCA strikes, then quietly deleted the post",
+      "u": "https://xda-developers.com/microsoft-github-spotlighted-ps5-to-pc-translation-layer-gta-6-dmca-strikes-deleted-post",
+      "s": "XDA Developers",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:33:08.000Z",
+      "x": "In a very odd move, Microsoft-owned GitHub's official Twitter account posted about AnyPS5 , the most notable P"
+    },
+    {
+      "id": "1489tgt1ec",
+      "t": "AOC 推出 24G41SE 显示器：23.8\" 小尺寸，FHD 320Hz",
+      "u": "https://ithome.com/1/033/177.htm",
+      "s": "IT之家",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:32:38.000Z",
+      "x": "IT之家 11 月 27 日消息，AOC 本月 24 日在官网上线了 24G41SE 小尺寸电竞显示器。这一型号 基于 23.8\" Fast IPS 面板 ，分辨率 FHD (1920×1080)，原生刷新率 300Hz"
+    },
+    {
+      "id": "1malxza1o9",
+      "t": "东风奕派 EP7 广州车展首发亮相：全球首款搭载华为乾崑与宁德时代换电的轿跑",
+      "u": "https://ithome.com/1/033/176.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:31:25.000Z",
+      "x": "IT之家 11 月 27 日现场消息，今日广州车展正式拉开帷幕。在本届车展上，东风奕派旗下全新中大型纯电轿车 EP7 迎来首发亮相，该车是全球首款搭载华为乾崑和宁德时代换电的轿跑。 IT之家注意到，东风奕派 EP7 采用"
+    },
+    {
+      "id": "5dm8871chr",
+      "t": "奇瑞全新瑞虎 8 PLUS 全球首秀：全新设计语言、首创 5 度电 HEV",
+      "u": "https://ithome.com/1/033/175.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:30:16.000Z",
+      "x": "IT之家 11 月 27 日现场消息，在今天的 2026 广州国际车展上，奇瑞全新瑞虎 8 PLUS 迎来全球首秀。 新车定位“新电感大家庭 SUV”，全球首创 5 度电 HEV，拥有同级唯一 5.1kWh 大电池，喊出"
+    },
+    {
+      "id": "1g9lh5c80x",
+      "t": "国补到手价 2899-5099 元，荣耀 700 系列手机今日开售",
+      "u": "https://ithome.com/1/033/174.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:18:33.000Z",
+      "x": "IT之家 11 月 27 日消息，据荣耀手机官微，全新 荣耀 700 系列手机将于今天（27 日）上午 10:08 正式开售。 京东 荣耀 700S 12+256GB 国补到手价 2889.15 元 直达链接 该系列提供"
+    },
+    {
+      "id": "kq1r9u1n0x",
+      "t": "消息称部分游戏场景解锁 60FPS！民间移植 PC 版《GTA 6》进展突飞猛进",
+      "u": "https://ithome.com/1/033/173.htm",
+      "s": "IT之家",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:16:56.000Z",
+      "x": "IT之家 11 月 27 日消息，科技媒体 Windows Central 今天（11 月 27 日）发布博文， 报道称民间移植 PC 版《侠盗猎车手 VI》（GTA 6）项目进展突飞猛进，部分场景目前已能解锁 60FP"
+    },
+    {
+      "id": "y79140u2n8",
+      "t": "鸿蒙智行智界 RX 搭载华为巨鲸电池平台，官宣成为行业首个通过电池新团标测试的车型",
+      "u": "https://ithome.com/1/033/171.htm",
+      "s": "IT之家",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:15:18.000Z",
+      "x": "IT之家 11 月 27 日消息，今年 9 月，由中国汽车工程研究院股份有限公司联合近二十余家产学研用单位共同研制的 T/CPQS A0065—2026 《电动汽车用动力电池系统运行周期内安全要求及测试方法》团体标准正式"
+    },
+    {
+      "id": "1p34rrj2v0",
+      "t": "Hard Drive pricing has gotten bad",
+      "u": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:13:49.000Z",
+      "x": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycom"
+    },
+    {
+      "id": "q1at48ljv4",
+      "t": "消息称东京电力公司拟向人工智能基础设施领域投资超 10 万亿日元",
+      "u": "https://ithome.com/1/033/170.htm",
+      "s": "IT之家",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:13:47.000Z",
+      "x": "IT之家 11 月 27 日消息，《日本经济新闻》当地时间昨日报道称， 东京电力公司 (TEPCO) 拟在 2,035 财年内向人工智能基础设施领域投资超 10 万亿日元 （IT之家注：现汇率约合 4,189.3 亿元人"
+    },
+    {
+      "id": "mnua74b0x6",
+      "t": "Your old laptop is a great home server, but most people get these two things wrong",
+      "u": "https://xda-developers.com/your-old-laptop-is-a-great-home-server-but-most-people-get-these-two-things-wrong",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T01:00:20.000Z",
+      "x": "With the RAM apocalypse in full swing, I’ve spent the last couple of months repurposing any and all hardware I"
+    },
+    {
+      "id": "dphztx13li",
+      "t": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "u": "https://wired.com/story/best-black-friday-deals-11-26-2026",
+      "s": "WIRED",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T00:56:52.000Z",
+      "x": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now."
+    },
+    {
+      "id": "pr96b8oakk",
+      "t": "X finally launches parental controls for teen accounts",
+      "u": "https://gsmarena.com/x_finally_launches_parental_controls_for_teen_accounts-news-75655.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-27T00:28:02.000Z",
+      "x": "来源：GSMArena — X finally launches parental controls for teen accounts"
+    },
+    {
+      "id": "1s47xqg1rf",
+      "t": "派早报：1Password 确认内部系统遭入侵等",
+      "u": "https://sspai.com/post/119632",
+      "s": "少数派",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-27T00:27:38.000Z",
+      "x": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。 查看全文"
+    },
+    {
+      "id": "1ue5ytc1sa",
+      "t": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+      "u": "https://ifanr.com/1695611",
+      "s": "爱范儿",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-27T00:08:31.000Z",
+      "x": "国内双 11 手机销量同比降 17%，畅销榜前五都是 iPhone 马斯克：美国每名儿童赠送两股 SpaceX 股票 黄仁勋质疑「10% 灭绝风险」，AI 教父辛顿公开反驳 OpenAI 称 GPT-6.2 计费错误，后"
+    },
+    {
+      "id": "105rjyl7j2",
+      "t": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "u": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-27T00:03:18.000Z",
+      "x": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-bu"
+    },
+    {
+      "id": "1dpxda4z85",
+      "t": "I replaced Google Drive and iCloud with a self-hosted Vaultwarden and Immich stack, and my monthly SaaS bill dropped to zero",
+      "u": "https://xda-developers.com/replaced-google-drive-icloud-with-self-hosted-vaultwarden-immich-stack",
+      "s": "XDA Developers",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-27T00:00:20.000Z",
+      "x": "Monthly subscriptions can start to add up. With a 2TB Google One plan at $9.99 per month paired with a 2TB iCl"
+    },
+    {
+      "id": "165v7lbpkz",
+      "t": "The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple",
+      "u": "https://gsmarena.com/the_us_will_hit_china_and_13_other_trading_partners_with_fresh_tariffs_affecting_apple-news-75659.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T23:15:02.000Z",
+      "x": "来源：GSMArena — The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple"
+    },
+    {
+      "id": "1osq0cm50t",
+      "t": "6 PC games from the 2000s that run properly today only because fans patched them",
+      "u": "https://xda-developers.com/2000s-pc-games-run-properly-because-fans-patched-them",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-26T23:00:20.000Z",
+      "x": "If you've struggled to run your favorite childhood games on your modern PC, there's a very real reason. So man"
+    },
+    {
+      "id": "1dov4oj2c6",
+      "t": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+      "u": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T22:56:12.000Z",
+      "x": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple"
+    },
+    {
+      "id": "vwv1a3a2yd",
+      "t": "I installed these 5 lesser-known Android apps, and my Pixel got a serious upgrade",
+      "u": "https://xda-developers.com/lesser-known-android-apps-gave-my-pixel-a-serious-upgrade",
+      "s": "XDA Developers",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T22:30:21.000Z",
+      "x": "I've been trying Android apps beyond the usual recommendations, and some turned out to be surprisingly useful."
+    },
+    {
+      "id": "1prw8ipcj3",
+      "t": "WhatsApp could soon introduce a travel eSIM feature",
+      "u": "https://gsmarena.com/whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T22:07:02.000Z",
+      "x": "来源：GSMArena — WhatsApp could soon introduce a travel eSIM feature"
+    },
+    {
+      "id": "15lu8issxr",
+      "t": "Turning off band steering fixed more Wi-Fi problems in my house than my mesh system did",
+      "u": "https://xda-developers.com/turning-off-band-steering-fixed-more-wi-fi-problems-than-mesh-system",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T22:00:20.000Z",
+      "x": "It's more of a common practice for homes to replace an aging ISP gateway or standalone router with a multi-nod"
+    },
+    {
+      "id": "igqcc6uxxf",
+      "t": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "u": "https://kendell.dev/blog/arkwrapper",
+      "s": "Hacker News",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:59:19.000Z",
+      "x": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 "
+    },
+    {
+      "id": "1bpng5r4vw",
+      "t": "OnePlus reveals ColorOS 17 plans for native apps, paid AI features, and more",
+      "u": "https://androidauthority.com/oneplus-coloros-17-ama-native-apps-ai-features-3740647",
+      "s": "Android Authority",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:54:46.000Z",
+      "x": "TL;DR OnePlus is exploring wider availability of its native Phone app and plans to bring OPPO’s Calendar app t"
+    },
+    {
+      "id": "1fhudn6xfz",
+      "t": "AI made self-hosting fun again",
+      "u": "https://janlukas.blog/posts/ai-self-hosting",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:47:45.000Z",
+      "x": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50"
+    },
+    {
+      "id": "qa3nad11ui",
+      "t": "Someone built a Microsoft Office alternative for decades-old Atari computers, and it's delightfully retro",
+      "u": "https://xda-developers.com/someone-built-microsoft-office-alternative-for-decades-old-atari-computers",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:46:49.000Z",
+      "x": "The team behind XL Office has dropped a suite of productivity tools for Atari's ancient 8-bit XL and CE PCs, w"
+    },
+    {
+      "id": "lwlumg1t7m",
+      "t": "If I were buying a GPU for gaming and local AI today, this is the one I’d pick",
+      "u": "https://xda-developers.com/if-i-were-buying-a-gpu-for-gaming-and-local-ai-today-this-is-the-one-id-pick",
+      "s": "XDA Developers",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:30:21.000Z",
+      "x": "My GeForce RTX 4070 Ti Super has given me no room for complaints for about two years. It has handled both halv"
+    },
+    {
+      "id": "15lsn661gj",
+      "t": "Backloggd urges users to change their passwords after a breach",
+      "u": "https://engadget.com/2329256/backloggd-breach-november-2026-password-reset",
+      "s": "Engadget",
+      "c": "security",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:26:47.000Z",
+      "x": "If you use Backloggd, you might need to log in again and reset your password."
+    },
+    {
+      "id": "1h8i85vqv6",
+      "t": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More",
+      "u": "https://macrumors.com/2026/11/26/50-best-apple-black-friday-deals",
+      "s": "MacRumors",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:19:53.000Z",
+      "x": "Black Friday is finally here, and now is the best time of the year to shop online for great deals. This year w"
+    },
+    {
+      "id": "nest0cs3dc",
+      "t": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
+      "u": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:09:36.000Z",
+      "x": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company "
+    },
+    {
+      "id": "jepwb586ji",
+      "t": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "u": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:08:05.000Z",
+      "x": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comm"
+    },
+    {
+      "id": "sdi55pvoky",
+      "t": "I own a Kindle, Kobo and a Boox Palma, but this tiny e-reader won me over",
+      "u": "https://xda-developers.com/own-a-kindle-kobo-boox-palma-but-this-tiny-e-reader-won-me-over",
+      "s": "XDA Developers",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:00:21.000Z",
+      "x": "I've now reached a weird stage where I seem to have tested more e-readers than books I've actually read in the"
+    },
+    {
+      "id": "1jiphbq1tw",
+      "t": "Netflix’s coziest show has made a very quiet return",
+      "u": "https://theverge.com/entertainment/1043489/midnight-diner-season3",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T21:00:00.000Z",
+      "x": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but"
+    },
+    {
+      "id": "1iqh0nc1sc",
+      "t": "Company Culture = Slack Emoji ÷ √Headcount",
+      "u": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:49:49.000Z",
+      "x": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycomb"
+    },
+    {
+      "id": "1dnocx2fbf",
+      "t": "Amazon US Black Friday deals: the best smartphone offers",
+      "u": "https://gsmarena.com/amazon_us_black_friday_deals_last_call_for_the_best_smartphone_offers-news-75650.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:49:01.000Z",
+      "x": "来源：GSMArena — Amazon US Black Friday deals: the best smartphone offers"
+    },
+    {
+      "id": "h94k2817lb",
+      "t": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
+      "u": "https://androidauthority.com/galaxy-watch-9-health-features-older-watches-3740608",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:39:41.000Z",
+      "x": "TL;DR Samsung is bringing six Galaxy Watch 9 health and fitness features to the Galaxy Watch 8 series. The upg"
+    },
+    {
+      "id": "1v6drcz1dx",
+      "t": "Anker's USB-C hub with a built-in 2-inch status screen drops to $74.99",
+      "u": "https://xda-developers.com/ankers-usb-c-smart-display-hub-drops-to-just-7499-with-a-built-in-2-inch-status-screen",
+      "s": "XDA Developers",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:30:41.000Z",
+      "x": "If you've ever wondered whether your laptop is really charging, or why a file transfer is crawling, a hub that"
+    },
+    {
+      "id": "1a55au619u",
+      "t": "Readdle’s Documents app adds voice recording with transcripts, summaries, more",
+      "u": "https://9to5mac.com/2026/11/26/readdles-documents-app-adds-voice-recording-with-transcripts-summaries-more",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:30:32.000Z",
+      "x": "Readdle updated its Documents app for iPhone and iPad this week with Voice Notes, a new AI-powered feature tha"
+    },
+    {
+      "id": "3gx5ll1ry3",
+      "t": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)",
+      "u": "https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price",
+      "s": "9to5Mac",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:24:23.000Z",
+      "x": "Update November 26, 2026 : AirPods Pro 3 are still in stock after selling out. They’ve dropped down to their n"
+    },
+    {
+      "id": "16simt012c",
+      "t": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "u": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "s": "TechCrunch",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:03:54.000Z",
+      "x": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesi"
+    },
+    {
+      "id": "1njqwrm1zx",
+      "t": "Is Alice Huang a spy or not?",
+      "u": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+      "s": "TechCrunch",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:00:00.000Z",
+      "x": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with wh"
+    },
+    {
+      "id": "mxzwq8186x",
+      "t": "1Password says it was hacked but users' vaults are safe",
+      "u": "https://engadget.com/2329013/1password-hacked-but-users-vaults-are-safe",
+      "s": "Engadget",
+      "c": "security",
+      "d": "2026-11-27",
+      "p": "2026-11-26T20:00:00.000Z",
+      "x": "1Password assures customers that their logins and other sensitive information were not compromised in a recent"
+    },
+    {
+      "id": "drxy8d1bid",
+      "t": "Judge orders Apple to produce 3,200 documents in Epic Games dispute",
+      "u": "https://9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute",
+      "s": "9to5Mac",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:52:24.000Z",
+      "x": "A federal judge has ordered Apple to produce a random sample of 3,200 documents for Epic Games to review, foll"
+    },
+    {
+      "id": "1sg3rxht3f",
+      "t": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+      "u": "https://engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday",
+      "s": "Engadget",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:44:49.000Z",
+      "x": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries "
+    },
+    {
+      "id": "185248x1xm",
+      "t": "XGIMI Vibe One battery-powered projector hits a record low under $200",
+      "u": "https://androidauthority.com/xgimi-vibe-one-deal-3740619",
+      "s": "Android Authority",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:42:26.000Z",
+      "x": "XGIMI’s fun, battery-powered projector just dropped to its lowest price. The XGIMI Vibe One is down to $189 on"
+    },
+    {
+      "id": "3ukh09qpu3",
+      "t": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
+      "u": "https://gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:33:02.000Z",
+      "x": "来源：GSMArena — Global Xiaomi 17 Ultra starts receiving HyperOS 4"
+    },
+    {
+      "id": "2cfsw3wjlz",
+      "t": "X finally gets parental controls after 20 years",
+      "u": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years",
+      "s": "TechCrunch",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:31:50.000Z",
+      "x": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a"
+    },
+    {
+      "id": "10x7kwfewr",
+      "t": "铠侠携手英伟达完成概念验证：144块SSD将GPU内存扩展至1PB以上",
+      "u": "https://cnbeta.com.tw/articles/tech/1588112.htm",
+      "s": "cnBeta",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:19:00.000Z",
+      "x": "人工智能加速器和GPU的计算能力，如今越来越受限于处理器在任意时刻能够访问的高带宽内存容量。日本存储厂商铠侠认为，如果将企业级SSD直接嵌入服务器机架系统，它们可以成为高带宽内存（HBM）的可行替代方案。为此，铠侠正与英"
+    },
+    {
+      "id": "3ogdetu2ya",
+      "t": "三星计划2028年前在芯片工厂引入无人车、自动驾驶机器人与机械臂",
+      "u": "https://cnbeta.com.tw/articles/tech/1588110.htm",
+      "s": "cnBeta",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:18:37.000Z",
+      "x": "三星电子正计划将机器人技术引入芯片制造流程。该公司已成立一支新的机器人团队，专门开发用于半导体制造的机器人技术。根据三星的官方路线图，到2028年，机器人将正式进入其芯片生产设施。 阅读全文"
+    },
+    {
+      "id": "1bo7gc8c6b",
+      "t": "Rvoip: VoIP stack in Rust",
+      "u": "https://github.com/eisenzopf/rvoip",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:18:09.000Z",
+      "x": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Po"
+    },
+    {
+      "id": "1j8k4ct1vc",
+      "t": "An introduction to uncertainty in machine learning",
+      "u": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+      "s": "Hacker News",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:04:50.000Z",
+      "x": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombina"
+    },
+    {
+      "id": "n9idpj1fv4",
+      "t": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "u": "https://theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "s": "The Verge",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-26T19:00:00.000Z",
+      "x": "The Forerunner 265S is great for runners with small wrists. | Photo by Amelia Holowaty Krales / The Verge The "
+    },
+    {
+      "id": "tyzyij1n60",
+      "t": "Pixel users report broken always-on display in Android Auto after November update",
+      "u": "https://androidauthority.com/pixel-android-auto-aod-bug-3740588",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:55:33.000Z",
+      "x": "TL;DR Pixel users report that the November update breaks the always-on display when connected to Android Auto."
+    },
+    {
+      "id": "1677r1c1lh",
+      "t": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "u": "https://bui.preetham.top/charts",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:37:24.000Z",
+      "x": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Poin"
+    },
+    {
+      "id": "1rxj284jij",
+      "t": "vivo X500s rumored to launch with Dimensity 9600 Pro",
+      "u": "https://gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php",
+      "s": "GSMArena",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:21:02.000Z",
+      "x": "来源：GSMArena — vivo X500s rumored to launch with Dimensity 9600 Pro"
+    },
+    {
+      "id": "1dptv26imb",
+      "t": "George Whitesides, 1939-2026",
+      "u": "https://science.org/content/blog-post/george-whitesides-1939-2026",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:13:07.000Z",
+      "x": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news."
+    },
+    {
+      "id": "rqxpkn1lv3",
+      "t": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+      "u": "https://engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia",
+      "s": "Engadget",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:09:18.000Z",
+      "x": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipm"
+    },
+    {
+      "id": "14lare61c4",
+      "t": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
+      "u": "https://9to5mac.com/2026/11/26/daily-november-26-2026",
+      "s": "9to5Mac",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:06:20.000Z",
+      "x": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’"
+    },
+    {
+      "id": "7pnf0kz3qp",
+      "t": "iOS 28 to ‘revamp’ iPhone notifications, per report",
+      "u": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report",
+      "s": "9to5Mac",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:04:57.000Z",
+      "x": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” Th"
+    },
+    {
+      "id": "qpxeki1cpa",
+      "t": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "u": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again",
+      "s": "Ars Technica",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T18:00:29.000Z",
+      "x": "Sixty years ago, after two failed attempts, Ford won the 24 Hours of Le Mans with its GT40 race car. In the ye"
+    },
+    {
+      "id": "iwemtv7qt1",
+      "t": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds",
+      "u": "https://androidauthority.com/sony-inzone-buds-black-friday-deal-3739518",
+      "s": "Android Authority",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:59:58.000Z",
+      "x": "A gaming headset isn’t always practical, whether you’re playing on a laptop at the kitchen table or gaming on "
+    },
+    {
+      "id": "gjvwxynz3u",
+      "t": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "u": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:47:45.000Z",
+      "x": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: "
+    },
+    {
+      "id": "5qmu701srm",
+      "t": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now",
+      "u": "https://androidauthority.com/white-titan-2-elite-3740551",
+      "s": "Android Authority",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:40:09.000Z",
+      "x": "TL;DR Last week, Unihertz posted a teaser for an upcoming new Titan 2 Elite color option. Today the company re"
+    },
+    {
+      "id": "1416g3bmnn",
+      "t": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "u": "https://github.com/antonpictures/youtube-punisher",
+      "s": "Hacker News",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:36:47.000Z",
+      "x": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item"
+    },
+    {
+      "id": "3sqczlg3w5",
+      "t": "Amazfit Bip Max smartwatch drops to a record low of $89.99",
+      "u": "https://androidauthority.com/amazfit-bip-max-deal-3739534",
+      "s": "Android Authority",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:27:54.000Z",
+      "x": "Amazfit’s newest budget smartwatch just hit its lowest price yet. The Amazfit Bip Max is $89.99 on Amazon righ"
+    },
+    {
+      "id": "oz4wucthrj",
+      "t": "AMD-specific fork of llama.cpp",
+      "u": "https://devnull.land/amd-specific-llama-cpp",
+      "s": "Hacker News",
+      "c": "chip",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:11:29.000Z",
+      "x": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50"
+    },
+    {
+      "id": "1lowkv37fs",
+      "t": "Last call for Amazon UK's top Black Friday deals: flagships, foldables, mid-rangers and more",
+      "u": "https://gsmarena.com/last_call_for_amazon_uks_top_black_friday_deals_flagships_foldables_midrangers_and_more-news-75652.php",
+      "s": "GSMArena",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:11:02.000Z",
+      "x": "来源：GSMArena — Last call for Amazon UK's top Black Friday deals: flagships, foldables, mid-rangers and more"
+    },
+    {
+      "id": "109t86r1mg",
+      "t": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "u": "https://theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "s": "The Verge",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:07:00.000Z",
+      "x": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a n"
+    },
+    {
+      "id": "10rll3j1pd",
+      "t": "Android app developers will soon have to share their address publicly",
+      "u": "https://theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "s": "The Verge",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:06:24.000Z",
+      "x": "Independent Android app developers are worried about their privacy after Google announced that from next year "
+    },
+    {
+      "id": "1ocgkig1ac",
+      "t": "A month with the iPhone Duo has changed how I use my phone",
+      "u": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone",
+      "s": "TechCrunch",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T17:00:00.000Z",
+      "x": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines "
+    },
+    {
+      "id": "1kxx8131ml",
+      "t": "The best Black Friday deals we’ve already found",
+      "u": "https://theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "s": "The Verge",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:55:00.000Z",
+      "x": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday is"
+    },
+    {
+      "id": "9c6tan9ehj",
+      "t": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
+      "u": "https://engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition",
+      "s": "Engadget",
+      "c": "game",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:53:58.000Z",
+      "x": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor "
+    },
+    {
+      "id": "1eoxq2c5o8",
+      "t": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "u": "https://github.com/rxliuli/sim-drop",
+      "s": "Hacker News",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:51:38.000Z",
+      "x": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: get"
+    },
+    {
+      "id": "19zfqq3k4o",
+      "t": "Soundcore Liberty 5 earbuds hit a record low at 42% off",
+      "u": "https://androidauthority.com/soundcore-liberty-5-record-low-deal-3740503",
+      "s": "Android Authority",
+      "c": "ai-hardware",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:39:03.000Z",
+      "x": "Anker’s Soundcore Liberty 5 pack a lot of features for midrange earbuds, and they just hit their lowest price."
+    },
+    {
+      "id": "1wl8onn1r5",
+      "t": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "u": "https://theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "s": "The Verge",
+      "c": "other",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:38:00.000Z",
+      "x": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early rev"
+    },
+    {
+      "id": "15zmtoa14w",
+      "t": "Apple's Official 2026 Black Friday Offer Starts Rolling Out",
+      "u": "https://macrumors.com/2026/11/26/apple-2026-black-friday-offer-now-rolling-out",
+      "s": "MacRumors",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:37:38.000Z",
+      "x": "Apple's annual four-day Black Friday through Cyber Monday shopping event is now live in Australia , New Zealan"
+    },
+    {
+      "id": "j0syv01rwl",
+      "t": "Thanksgiving deals: M5 MacBook Air $400 off, MacBook Neo $100 off, Apple Watch Ultra 4 $150 off, more",
+      "u": "https://9to5mac.com/2026/11/26/deals-macbook-air-neo-apple-watch-ultra-4",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:29:40.000Z",
+      "x": "Black Friday might have started last week, but the Amazon Thanksgiving sale is now live and it is not playing "
+    },
+    {
+      "id": "1bmf10b46p",
+      "t": "Halide Adds Fill Light Feature for iPhone Duo",
+      "u": "https://macrumors.com/2026/11/26/halide-adds-fill-light-feature-for-iphone-duo",
+      "s": "MacRumors",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:17:32.000Z",
+      "x": "Halide 3.4 can use the iPhone Duo 's outer display to light subjects when the device is unfolded. The feature "
+    },
+    {
+      "id": "1hx4g5rhag",
+      "t": "Galaxy S26 FE drops to a record low with $200 off",
+      "u": "https://androidauthority.com/galaxy-s26-fe-record-low-deal-3740545",
+      "s": "Android Authority",
+      "c": "phone",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:08:26.000Z",
+      "x": "Samsung’s Galaxy S26 FE has just hit its lowest price. The unlocked phone is down to $499.99 on Amazon , which"
+    },
+    {
+      "id": "7orswo5cq7",
+      "t": "HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery",
+      "u": "https://gsmarena.com/hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657.php",
+      "s": "GSMArena",
+      "c": "auto",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:07:02.000Z",
+      "x": "来源：GSMArena — HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery"
+    },
+    {
+      "id": "1r2l0i84wp",
+      "t": "MacBook Neo vs MacBook Air: Which should you buy right now?",
+      "u": "https://9to5mac.com/2026/11/26/macbook-air-vs-macbook-neo-buying-guide",
+      "s": "9to5Mac",
+      "c": "pc",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:05:25.000Z",
+      "x": "Apple’s Mac lineup is stronger than ever this year, largely thanks to the new MacBook Neo. If you’re deciding "
+    },
+    {
+      "id": "lzvv211p5j",
+      "t": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "u": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "s": "TechCrunch",
+      "c": "ai",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:00:00.000Z",
+      "x": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most "
+    },
+    {
+      "id": "1umx571jxc",
+      "t": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "u": "https://theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "s": "The Verge",
+      "c": "web",
+      "d": "2026-11-27",
+      "p": "2026-11-26T16:00:00.000Z",
+      "x": "HBO’s A Knight of the Seven Kingdoms takes a surprisingly charming approach to Westerosi medievalism. | Image:"
+    },
     {
       "id": "1oonyy185d",
       "t": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
@@ -58432,1576 +60002,6 @@
       "d": "2026-10-26",
       "p": "2026-10-25T20:27:09.000Z",
       "x": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235"
-    },
-    {
-      "id": "1ey0f0l100",
-      "t": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "u": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead",
-      "s": "TechCrunch",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T20:20:08.000Z",
-      "x": "\"That's a 12-year-old view of the world.\""
-    },
-    {
-      "id": "jkdn5z1su9",
-      "t": "Focused Company Operating Principles",
-      "u": "https://focused.io/operating-principles",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T20:16:51.000Z",
-      "x": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=502356"
-    },
-    {
-      "id": "gtle26127s",
-      "t": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-      "u": "https://theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-      "s": "The Verge",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T20:16:19.000Z",
-      "x": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in s"
-    },
-    {
-      "id": "1ua12401px",
-      "t": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17",
-      "u": "https://gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
-      "s": "GSMArena",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T20:02:02.000Z",
-      "x": "来源：GSMArena — OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17"
-    },
-    {
-      "id": "1ysvcqu1ss",
-      "t": "I wrote my own Chrome extensions after my trusted tools were sold to new owners",
-      "u": "https://xda-developers.com/wrote-my-own-chrome-extensions-after-old-tools-sold-to-new-owners",
-      "s": "XDA Developers",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T20:00:20.000Z",
-      "x": "I never expected to build my own Chrome extensions. Like most people, I preferred finding a ready-made tool th"
-    },
-    {
-      "id": "yi1m3q1jsi",
-      "t": "Eunice is almost here",
-      "u": "https://armincat.com/articles/eunice-is-almost-here",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:40:27.000Z",
-      "x": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/it"
-    },
-    {
-      "id": "hh9001tcpe",
-      "t": "Xbox索要8亿美元授权费导致Netflix退出游戏改编独家合作谈判",
-      "u": "https://cnbeta.com.tw/articles/game/1583822.htm",
-      "s": "cnBeta",
-      "c": "game",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:39:33.000Z",
-      "x": "微软旗下Xbox与流媒体平台Netflix曾就游戏知识产权的影视改编权展开谈判，但双方在授权费用上存在明显分歧，最终未能达成协议。Netflix据称愿意支付5亿美元，换取为期七年的独家影视改编权，而Xbox方面则将报价提"
-    },
-    {
-      "id": "5mtuvj1lsk",
-      "t": "科学家首次在金属中发现“被困电子波” 微小原子缺陷揭开量子谜团",
-      "u": "https://cnbeta.com.tw/articles/science/1583820.htm",
-      "s": "cnBeta",
-      "c": "science",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:39:01.000Z",
-      "x": "美国哥伦比亚大学研究团队宣布取得一项重要量子物理突破。研究人员首次在一种金属材料中直接观察到被束缚的电子波现象，这一发现验证了量子力学长期以来的理论预测，并为未来操控金属中的量子态开辟了新的研究方向。 阅读全文"
-    },
-    {
-      "id": "1cuuqanxlp",
-      "t": "新型防护服涂层可分解神经毒剂 真菌色素与锆材料联手降低化学武器威胁",
-      "u": "https://cnbeta.com.tw/articles/science/1583818.htm",
-      "s": "cnBeta",
-      "c": "science",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:38:16.000Z",
-      "x": "美国西北大学的研究人员正在开发一种新型织物涂层，有望让防护服不仅能够阻挡危险化学物质，还能主动分解并降低部分剧毒物质的毒性。这项研究最初源于军事领域对化学武器防护的需求，未来也可能为农业、化工制造等经常接触有害化学物质的"
-    },
-    {
-      "id": "4smgzo11fv",
-      "t": "苹果首款折叠屏iPhone陷质量疑云 多名用户反映内屏因疑似铰链缺陷损坏",
-      "u": "https://cnbeta.com.tw/articles/tech/1583816.htm",
-      "s": "cnBeta",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:37:38.000Z",
-      "x": "苹果首款折叠屏手机iPhone Duo上市后不久，部分首批用户便在网络上报告了一项严重问题。多起案例显示，设备内屏出现高度一致的损坏现象，外界怀疑问题可能与铰链结构缺陷有关。 阅读全文"
-    },
-    {
-      "id": "jh6il2lr0x",
-      "t": "领先一个时代的百度知道 是不是已经无人在意了？",
-      "u": "https://cnbeta.com.tw/articles/tech/1583814.htm",
-      "s": "cnBeta",
-      "c": "web",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:35:47.000Z",
-      "x": "2010 年的夏天，如果你的电脑报错、蓝屏，大概率你会打开百度搜索，在百度知道的热心网友的帮助下，解决问题 。 但现在呢？世超简单试了一下，搜索 “ 特斯拉Model3 尺寸 ” ，第一页的结果已经没有百度知道了。顶部，"
-    },
-    {
-      "id": "19hqnci165",
-      "t": "Your ESP32 has PSRAM sitting there unused, and most tutorials forget to mention it",
-      "u": "https://xda-developers.com/your-esp32-has-psram-sitting-there-unused-and-most-tutorials-forget-to-mention-it",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:30:20.000Z",
-      "x": "When you’re tinkering with ESP32 microcontrollers, choosing the right setup can make the difference between a "
-    },
-    {
-      "id": "1arq7qgzgr",
-      "t": "Zen Browser is the Arc replacement I was looking for",
-      "u": "https://theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "s": "The Verge",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:24:50.000Z",
-      "x": "Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser I kn"
-    },
-    {
-      "id": "1152axk1v4",
-      "t": "Why I Am a Programmer",
-      "u": "https://alfie.wtf/programming/why-i-am-a-programmer.html",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:11:31.000Z",
-      "x": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinat"
-    },
-    {
-      "id": "19gu3vk1py",
-      "t": "I put a $20 USB hub in my car, and now my dash cam, phone, and Android Auto all run off one port",
-      "u": "https://xda-developers.com/i-put-20-usb-hub-in-car-now-my-dash-cam-phone-android-auto-all-run-off-one-port",
-      "s": "XDA Developers",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T19:00:20.000Z",
-      "x": "Most cars have a fairly limited number of USB ports . One is a given, two is generous, and if you need more th"
-    },
-    {
-      "id": "5uhmbm1igo",
-      "t": "Where the Romans Fought (interactive map)",
-      "u": "https://iosiflazaridis.github.io/battles-of-the-romans",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:58:14.000Z",
-      "x": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.co"
-    },
-    {
-      "id": "voxil8mne9",
-      "t": "What does the bell icon mean on your CarPlay screen?",
-      "u": "https://engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:45:00.000Z",
-      "x": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on "
-    },
-    {
-      "id": "fspzbpxvw1",
-      "t": "Early iPhone Duo buyers report inner display damage caused by a potential hinge defect",
-      "u": "https://gsmarena.com/early_iphone_duo_buyers_report_inner_display_damage_caused_by_a_potential_hinge_defect-news-75201.php",
-      "s": "GSMArena",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:42:50.000Z",
-      "x": "来源：GSMArena — Early iPhone Duo buyers report inner display damage caused by a potential hinge defect"
-    },
-    {
-      "id": "19lpdjdxd3",
-      "t": "I thought Apple CarPlay was better than Android Auto until I tried these hidden features",
-      "u": "https://xda-developers.com/thought-apple-carplay-better-android-auto-until-tried-hidden-features",
-      "s": "XDA Developers",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:30:20.000Z",
-      "x": "Apple CarPlay has always impressed me with its clean interface, slick animations, and seamless integration wit"
-    },
-    {
-      "id": "u0p7ojrr9z",
-      "t": "The most unexpected everyday tool can be found on your phone",
-      "u": "https://engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone",
-      "s": "Engadget",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:30:00.000Z",
-      "x": "If you have an iPhone, that is."
-    },
-    {
-      "id": "bvd7e9jta9",
-      "t": "Dolly Parton's Imagination Library",
-      "u": "https://imaginationlibrary.com/",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:23:54.000Z",
-      "x": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tenness"
-    },
-    {
-      "id": "a1dv2azej8",
-      "t": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "u": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:04:11.000Z",
-      "x": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments UR"
-    },
-    {
-      "id": "1ud54oa1bu",
-      "t": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
-      "u": "https://engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T18:00:00.000Z",
-      "x": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal"
-    },
-    {
-      "id": "17qvczb1kk",
-      "t": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "u": "https://talkweb.eu/openweb/4558",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T17:30:55.000Z",
-      "x": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Poin"
-    },
-    {
-      "id": "1gi5t3416t",
-      "t": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "u": "https://lynchlab.net/llm-skin-cancer",
-      "s": "Hacker News",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T17:15:38.000Z",
-      "x": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 "
-    },
-    {
-      "id": "1b834tvtoc",
-      "t": "Google在芬兰为建设数据中心砍伐约1300英亩森林 当地居民发现狼群进入附近村庄觅食",
-      "u": "https://cnbeta.com.tw/articles/tech/1583812.htm",
-      "s": "cnBeta",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T17:14:18.000Z",
-      "x": "Google在芬兰建设人工智能数据中心引发的环境争议持续发酵。由于相关项目在完成必要的环境影响评估之前就大规模清理森林，芬兰监管机构已要求Google暂停部分场地的准备工作。当地居民还表示，森林遭到砍伐后，野生动物失去栖"
-    },
-    {
-      "id": "1ig9u1bx8e",
-      "t": "This Switch 2 sequel accessory was a few millimeters away from being good",
-      "u": "https://theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-      "s": "The Verge",
-      "c": "game",
-      "d": "2026-10-26",
-      "p": "2026-10-25T17:00:00.000Z",
-      "x": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge The Crkd Nitro Dec"
-    },
-    {
-      "id": "1n37a44vco",
-      "t": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "u": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "s": "TechCrunch",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:57:32.000Z",
-      "x": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered "
-    },
-    {
-      "id": "17dm0bv1uf",
-      "t": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元",
-      "u": "https://cnbeta.com.tw/articles/tech/1583810.htm",
-      "s": "cnBeta",
-      "c": "chip",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:46:17.000Z",
-      "x": "英伟达正计划进一步扩大软件业务，希望在销售人工智能芯片之外，通过企业软件许可获得更加稳定的经常性收入。英伟达首席执行官黄仁勋近日在德国柏林举行的GTC活动上谈及这一战略时表示，为运行人工智能代理而提供的软件，可以采用按G"
-    },
-    {
-      "id": "av1k4c1xxe",
-      "t": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
-      "u": "https://engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone",
-      "s": "Engadget",
-      "c": "ai-hardware",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:45:00.000Z",
-      "x": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features."
-    },
-    {
-      "id": "1rudzny4ik",
-      "t": "Cloudflare警告AI正加速发现软件漏洞 互联网或面临多年安全震荡期",
-      "u": "https://cnbeta.com.tw/articles/tech/1583808.htm",
-      "s": "cnBeta",
-      "c": "web",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:44:58.000Z",
-      "x": "随着人工智能能力不断提升，网络安全行业正在迎来新的挑战。Cloudflare首席执行官Matthew Prince日前表示，近期引发全球大量网站紧急修补的PHP安全漏洞可能只是开始，人工智能未来几年还将持续发现更多隐藏在"
-    },
-    {
-      "id": "2bwmqu1ttw",
-      "t": "苹果零售店推出 iPhone 防盗检测设备：无需拆封即可检查手机是否完整 减少退货欺诈",
-      "u": "https://cnbeta.com.tw/articles/tech/1583806.htm",
-      "s": "cnBeta",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:43:08.000Z",
-      "x": "苹果正在为旗下零售店部署一种新的检测设备，旨在防止消费者利用退货流程实施欺诈。借助这套设备，店员可以在不拆开 iPhone 零售包装的情况下，扫描包装内的手机并运行诊断程序，确认设备是否仍然完整，从而减少库存损失，并让符"
-    },
-    {
-      "id": "vdj9uob8i8",
-      "t": "8BitDo's latest button-only arcade controller is now up for pre-order",
-      "u": "https://engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:42:46.000Z",
-      "x": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November."
-    },
-    {
-      "id": "1j964kpxia",
-      "t": "UTS #39: Unicode Security Mechanisms",
-      "u": "https://unicode.org/reports/tr39",
-      "s": "Hacker News",
-      "c": "security",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:40:37.000Z",
-      "x": "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Poi"
-    },
-    {
-      "id": "1ep8dio1oq",
-      "t": "A mathematician reads the AI future",
-      "u": "https://theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-      "s": "Hacker News",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:31:21.000Z",
-      "x": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news"
-    },
-    {
-      "id": "o746jg1vvn",
-      "t": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "u": "https://dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "s": "Hacker News",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:28:26.000Z",
-      "x": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-"
-    },
-    {
-      "id": "1nr06pqzdk",
-      "t": "JetBrains Thinkrail",
-      "u": "https://github.com/JetBrains/thinkrail",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:27:12.000Z",
-      "x": "Article URL: https://github.com/JetBrains/thinkrail Comments URL: https://news.ycombinator.com/item?id=5023329"
-    },
-    {
-      "id": "odctop14js",
-      "t": "Now you can watch Instagram Reels on your Apple TV",
-      "u": "https://theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "s": "The Verge",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:20:17.000Z",
-      "x": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV . The company firs"
-    },
-    {
-      "id": "1k89lgc1xh",
-      "t": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
-      "u": "https://solidot.org/story?sid=85706",
-      "s": "Solidot 奇客",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:16:11.000Z",
-      "x": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google "
-    },
-    {
-      "id": "1kmdepbp6d",
-      "t": "The internet needs IPv6 and so does your home network",
-      "u": "https://engadget.com/2293285/internet-home-network-needs-ipv6",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:15:00.000Z",
-      "x": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet"
-    },
-    {
-      "id": "7uud8ug35v",
-      "t": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
-      "u": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week",
-      "s": "9to5Mac",
-      "c": "phone",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:06:33.000Z",
-      "x": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also ma"
-    },
-    {
-      "id": "4xxy541prl",
-      "t": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "u": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy",
-      "s": "TechCrunch",
-      "c": "ai",
-      "d": "2026-10-26",
-      "p": "2026-10-25T16:05:00.000Z",
-      "x": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the ro"
-    },
-    {
-      "id": "untnfyq4bq",
-      "t": "《塞尔达传说》制作人青沼英二获颁法国艺术与文学骑士勋章",
-      "u": "https://ithome.com/1/017/536.htm",
-      "s": "IT之家",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-25T00:08:25.000Z",
-      "x": "IT之家 10 月 25 日消息，《塞尔达传说》系列资深制作人青沼英二（Eiji Aonuma），自《时之笛》起就一直守护着时光勇者挺身而出对抗邪恶的故事。如今青沼英二本人也获封英雄头衔，只是没配上一把帅气的剑。本周，法"
-    },
-    {
-      "id": "1tfo5455aq",
-      "t": "You don't need CrystalDiskInfo to check your SSD health, as Windows already tells you a lot",
-      "u": "https://xda-developers.com/you-dont-need-crystaldiskinfo-windows-tells-you-a-lot",
-      "s": "XDA Developers",
-      "c": "pc",
-      "d": "2026-10-25",
-      "p": "2026-10-25T00:00:20.000Z",
-      "x": "CrystalDiskInfo has been synonymous with SSD and HDD monitoring for years. It reads your drive's Self-Monitori"
-    },
-    {
-      "id": "v6261ixh82",
-      "t": "What is the cheapest new gaming console you can buy in 2026?",
-      "u": "https://engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026",
-      "s": "Engadget",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-25T00:00:00.000Z",
-      "x": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option."
-    },
-    {
-      "id": "pn3t971359",
-      "t": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
-      "u": "https://ithome.com/1/017/535.htm",
-      "s": "IT之家",
-      "c": "security",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:57:53.000Z",
-      "x": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。 据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GP"
-    },
-    {
-      "id": "b1yz3n129u",
-      "t": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
-      "u": "https://macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:48:55.000Z",
-      "x": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It invol"
-    },
-    {
-      "id": "ws5n91i61b",
-      "t": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
-      "u": "https://ithome.com/1/017/534.htm",
-      "s": "IT之家",
-      "c": "auto",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:48:40.000Z",
-      "x": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster。特斯拉在 X 平台宣布，这辆 Roadster 正在彼得森汽车博物馆展出，展览时间为 10 月 24 日至 27 日"
-    },
-    {
-      "id": "yhh4xbr5ed",
-      "t": "同人变官方：《赛博朋克 2077》续作设计团队中，半数是被“收编”的模组作者",
-      "u": "https://ithome.com/1/017/533.htm",
-      "s": "IT之家",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:47:48.000Z",
-      "x": "IT之家 10 月 25 日消息，当地时间 23 日，据外媒 VGC 报道，《赛博朋克 2077》续作副总监帕维尔 · 萨斯科透露，续作任务设计团队约有一半成员曾是游戏模组作者。 萨斯科认为，玩家能够随时在游戏内启用或关"
-    },
-    {
-      "id": "1xvv61wc2g",
-      "t": "How to extend the battery life of your Apple AirTags",
-      "u": "https://engadget.com/2292921/how-to-extend-battery-life-apple-airtags",
-      "s": "Engadget",
-      "c": "auto",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:45:00.000Z",
-      "x": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment."
-    },
-    {
-      "id": "ew0t51qoub",
-      "t": "三体宇宙全新剧集《三体・智子灾变》官宣：主创阵容首曝，概念海报同步首发",
-      "u": "https://ithome.com/1/017/532.htm",
-      "s": "IT之家",
-      "c": "web",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:40:51.000Z",
-      "x": "IT之家 10 月 25 日消息，三体宇宙衍生真人剧《三体：智子灾变》已正式官宣， 并首发概念海报 。 本片将由路阳监制，忻钰坤执导 ，剧集聚焦三体危机下的年轻一代。当倒计时笼罩全球，熟悉的世界逐渐失序，普通人将如何面对"
-    },
-    {
-      "id": "qa7j7xr3sh",
-      "t": "任天堂 Switch 2 破解取得进展，《三角符文》《黄昏之血》资源包流出",
-      "u": "https://ithome.com/1/017/531.htm",
-      "s": "IT之家",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:36:38.000Z",
-      "x": "IT之家 10 月 25 日消息，Switch 2 的破解给这台主机的自制程序生态注入了活力。任天堂已经采取措施封堵 ns2jb 漏洞，但又有一则消息正在传开：《三角符文》第 1 至 4 章以及《黄昏之血》测试版的首批次"
-    },
-    {
-      "id": "1fjeq0eq8p",
-      "t": "李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持",
-      "u": "https://ithome.com/1/017/530.htm",
-      "s": "IT之家",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:34:50.000Z",
-      "x": "IT之家 10 月 25 日消息，博主 @不是郑小康 昨晚发文，谈及了华为鸿蒙 HarmonyOS 7 系统的使用感受。他称在华为 Pura X View 的鸿蒙 7 系统中，“貌似”不能 2.4G 和 5G Wi-Fi"
-    },
-    {
-      "id": "j8rveadehy",
-      "t": "全球最大“电力超市”开业，南方区域电力市场正式运行",
-      "u": "https://ithome.com/1/017/529.htm",
-      "s": "IT之家",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:30:42.000Z",
-      "x": "IT之家 10 月 25 日消息，据央视财经报道，10 月 24 日，我国首个区域电力市场 —— 南方区域电力市场正式运行。 此举标志着全国统一电力市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省"
-    },
-    {
-      "id": "87oapetreh",
-      "t": "Common mistakes you should avoid when setting up your home network",
-      "u": "https://engadget.com/2292817/common-mistakes-avoid-setting-up-home-network",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:30:00.000Z",
-      "x": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the futu"
-    },
-    {
-      "id": "1dx78h7p8h",
-      "t": "PHP 基金会负责人坦言资金不足：仅 1 名全职员工",
-      "u": "https://ithome.com/1/017/528.htm",
-      "s": "IT之家",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:27:45.000Z",
-      "x": "IT之家 10 月 25 日消息，本周，PHP 曝出两处高危漏洞，全球随即紧急行动，保护网站免遭黑客攻击。这件事也让人们看到，这门已有三十年历史的开源编程语言，对互联网而言有多重要。 据估算，全球最高有约七成网站依托 P"
-    },
-    {
-      "id": "19vxflqnnc",
-      "t": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
-      "u": "https://ithome.com/1/017/527.htm",
-      "s": "IT之家",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:19:32.000Z",
-      "x": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，"
-    },
-    {
-      "id": "usdf5k1jxt",
-      "t": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂",
-      "u": "https://ithome.com/1/017/526.htm",
-      "s": "IT之家",
-      "c": "auto",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:18:48.000Z",
-      "x": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为， 加拿大本"
-    },
-    {
-      "id": "1gi6e7m12b",
-      "t": "Google has officially turned these Nest thermostats back into dumb thermostats",
-      "u": "https://makeuseof.com/google-nest-thermostats-unsupported",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:14:30.000Z",
-      "x": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombin"
-    },
-    {
-      "id": "len7th14hb",
-      "t": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "u": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "s": "Hacker News",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:11:54.000Z",
-      "x": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycomb"
-    },
-    {
-      "id": "royumvj7fj",
-      "t": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-      "u": "https://ithome.com/1/017/525.htm",
-      "s": "IT之家",
-      "c": "chip",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:09:54.000Z",
-      "x": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GP"
-    },
-    {
-      "id": "ob7hxc1j06",
-      "t": "I use four different browsers on purpose, and it's the best privacy habit I have",
-      "u": "https://xda-developers.com/use-four-different-browsers-on-purpose-best-privacy-habit-i-have",
-      "s": "XDA Developers",
-      "c": "security",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:00:20.000Z",
-      "x": "Long before we had the ChatGPT vs. Claude vs. Gemini vs. Perplexity debate , and even before people started ar"
-    },
-    {
-      "id": "1pocu1jzg3",
-      "t": "Why your EV battery still loses charge while it's parked",
-      "u": "https://engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked",
-      "s": "Engadget",
-      "c": "auto",
-      "d": "2026-10-25",
-      "p": "2026-10-24T23:00:00.000Z",
-      "x": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, a"
-    },
-    {
-      "id": "1ftd5xs150",
-      "t": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
-      "u": "https://ithome.com/1/017/524.htm",
-      "s": "IT之家",
-      "c": "pc",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:59:07.000Z",
-      "x": "IT之家 10 月 25 日消息，微软推出一款名为 Microsoft.UI.Reactor 的实验性框架并开启测试后，出面澄清，并不会停用 WinUI 和 XAML。鉴于微软此前放弃 UWP、关停 Silverligh"
-    },
-    {
-      "id": "rcv1fr15q6",
-      "t": "What kind of cooling system do EV batteries use and how does it work?",
-      "u": "https://engadget.com/2292606/ev-battery-cooling-system-how-works",
-      "s": "Engadget",
-      "c": "auto",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:45:00.000Z",
-      "x": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain co"
-    },
-    {
-      "id": "cpxi4d1ycd",
-      "t": "What are the different types of digital wallets?",
-      "u": "https://engadget.com/2292582/different-types-digital-wallet-explained",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:30:00.000Z",
-      "x": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than ju"
-    },
-    {
-      "id": "15o0hihll9",
-      "t": "马斯克：商业版星链严禁用于进攻性无人机作战 乌军方曾违规使用",
-      "u": "https://cnbeta.com.tw/articles/tech/1583714.htm",
-      "s": "cnBeta",
-      "c": "ai-hardware",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:07:58.000Z",
-      "x": "马斯克发文称，星链作为民用商业服务，绝不允许、也绝不应当被用于操控进攻性无人机实施杀戮行动。星盾是另一套独立系统，归美国政府管控，该系统如何使用由美方自行决定。乌克兰军方违反星链服务条款，将其用于发动造成人员伤亡的进攻性"
-    },
-    {
-      "id": "8uy8v61t5o",
-      "t": "考古学家发现疑似全球最古老沉船 或改写青铜时代地中海贸易史",
-      "u": "https://cnbeta.com.tw/articles/science/1583712.htm",
-      "s": "cnBeta",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:06:40.000Z",
-      "x": "一个国际考古团队近日宣布，他们在土耳其南部海岸附近发现了一艘可能是目前已知世界上最古老的沉船。根据船上遗留货物中的陶器等线索，研究人员初步判断这艘船的年代约为公元前2700年至公元前2400年之间，距今约4500年。如果"
-    },
-    {
-      "id": "1lwtnl7137",
-      "t": "科学家利用激光让晶体内部电极化瞬间有序 持续仅一万亿分之一秒",
-      "u": "https://cnbeta.com.tw/articles/science/1583710.htm",
-      "s": "cnBeta",
-      "c": "science",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:06:14.000Z",
-      "x": "美国奥本大学的物理学家发现，短暂的激光脉冲能够在特定晶体内部诱导出有序的电极化状态，即使材料处于较高温度、内部微小极化区域通常仍然杂乱无章的情况下，也能实现这一变化。这一发现为研究材料内部极快的电学变化提供了新方法，未来"
-    },
-    {
-      "id": "1puj99ojxx",
-      "t": "5 TV features I disable before anyone in my family is allowed to watch anything",
-      "u": "https://xda-developers.com/tv-features-i-disable-before-anyone-is-allowed-to-watch",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:00:20.000Z",
-      "x": "The TV is one of the most important devices in any home, as it's the central piece of an entertainment hub. Ha"
-    },
-    {
-      "id": "msk3ychuy8",
-      "t": "The pros and cons of using an eSIM over a physical SIM card",
-      "u": "https://engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T22:00:00.000Z",
-      "x": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade."
-    },
-    {
-      "id": "1orkec7fdz",
-      "t": "CMF Speaker S unboxing and hands-on",
-      "u": "https://gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
-      "s": "GSMArena",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:59:01.000Z",
-      "x": "来源：GSMArena — CMF Speaker S unboxing and hands-on"
-    },
-    {
-      "id": "1r1nzok1y0",
-      "t": "Argus – a free, open-source agentic security operations platform – MIT",
-      "u": "https://thomasunise.com/argus",
-      "s": "Hacker News",
-      "c": "security",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:54:16.000Z",
-      "x": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points:"
-    },
-    {
-      "id": "1mptes41fl",
-      "t": "We should be more ambitious with the software we build",
-      "u": "https://danluu.com/ambitious",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:47:31.000Z",
-      "x": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points:"
-    },
-    {
-      "id": "vxqih91s1l",
-      "t": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
-      "u": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone",
-      "s": "9to5Mac",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:46:33.000Z",
-      "x": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with"
-    },
-    {
-      "id": "1dv1shy1lx",
-      "t": "Small Programs and Languages",
-      "u": "https://ratfactor.com/cards/pl-small",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:44:23.000Z",
-      "x": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 "
-    },
-    {
-      "id": "1023602b3q",
-      "t": "The Importance of Limitations for Creativity and Learning",
-      "u": "https://ratfactor.com/cards/limitations",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:42:47.000Z",
-      "x": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=502256"
-    },
-    {
-      "id": "1ig8stm7ej",
-      "t": "I ran a 9B model trained on Claude's reasoning on my 8GB GPU, and it made me rethink paying for Claude",
-      "u": "https://xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu",
-      "s": "XDA Developers",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:30:20.000Z",
-      "x": "Claude Pro proves its worth most of the time. Anthropic's models are accessible pretty much anywhere through A"
-    },
-    {
-      "id": "3i8ei0dqdg",
-      "t": "Blue Planet III is keeping the rough edges in the age of AI",
-      "u": "https://theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "s": "The Verge",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:29:12.000Z",
-      "x": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous"
-    },
-    {
-      "id": "9g8nkg10mj",
-      "t": "Uncloud uses the Compose files I already made and lets me spread the work across my home servers",
-      "u": "https://xda-developers.com/uncloud-uses-compose-files-spread-work-across-home-servers",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T21:00:21.000Z",
-      "x": "Adding another home server should mean more room for your applications. Somehow, it also becomes an invitation"
-    },
-    {
-      "id": "1h02v3p83k",
-      "t": "Starlink seems to be working normally again in Ukraine",
-      "u": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine",
-      "s": "TechCrunch",
-      "c": "science",
-      "d": "2026-10-25",
-      "p": "2026-10-24T20:46:34.000Z",
-      "x": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
-    },
-    {
-      "id": "1tu9fyh1qf",
-      "t": "Show HN: Steal My Bitcoin",
-      "u": "https://stealmybitcoin.com/",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T20:30:31.000Z",
-      "x": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent th"
-    },
-    {
-      "id": "d9ccsb1izs",
-      "t": "Your motherboard still has “useless” headers from the 1990s, and licensing agreements are to blame",
-      "u": "https://xda-developers.com/your-motherboard-still-has-useless-headers-from-the-1990s-and-licensing-agreements-are-to-blame",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T20:30:20.000Z",
-      "x": "If you take a long, hard look at your motherboard, you'll notice that it comes with some legacy ports on them,"
-    },
-    {
-      "id": "1suzx0j18b",
-      "t": "Will AI expose the rickety infrastructure of the internet?",
-      "u": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
-      "s": "TechCrunch",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T20:15:33.000Z",
-      "x": "The moment you realize the internet is \"held together by glue and dreams.\""
-    },
-    {
-      "id": "11igd9wgz8",
-      "t": "I tried turning my old Samsung Galaxy into a local LLM-hosting machine, and it worked better than I expected",
-      "u": "https://xda-developers.com/tried-old-samsung-galaxy-local-llm-hosting-machine-worked-better-expected",
-      "s": "XDA Developers",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T20:00:20.000Z",
-      "x": "I have become so dependent on AI that even for small tasks like summarizing or replying to emails, I always tu"
-    },
-    {
-      "id": "laimiq12r5",
-      "t": "Who needs a bulky desktop when this ACEMAGICIAN W1 gaming mini PC with Ryzen 7 and Radeon 780M is down to $504",
-      "u": "https://xda-developers.com/acemagician-w1-gaming-mini-pc-with-ryzen-down-to-504",
-      "s": "XDA Developers",
-      "c": "pc",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:52:10.000Z",
-      "x": "The ACEMAGICIAN W1 mini PC is currently listed at $620 on Amazon and is being discounted down to $504 for a li"
-    },
-    {
-      "id": "cxlln3u6ud",
-      "t": "No signs of AI payoff outside the tech sector",
-      "u": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "s": "Hacker News",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:47:19.000Z",
-      "x": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-th"
-    },
-    {
-      "id": "rch4x0v6ri",
-      "t": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "u": "https://missileer.watch/",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:43:27.000Z",
-      "x": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 99 # "
-    },
-    {
-      "id": "im1uddeu43",
-      "t": "You can strip the ads and recommendations from Google TV in one toggle, and it's buried in your settings",
-      "u": "https://xda-developers.com/apps-only-mode-google-tv",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:30:20.000Z",
-      "x": "Google TV has plenty of benefits, but the home screen's clutter is a common complaint. Series recommendations "
-    },
-    {
-      "id": "10qvhwec0y",
-      "t": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
-      "u": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo",
-      "s": "9to5Mac",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:30:00.000Z",
-      "x": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indi"
-    },
-    {
-      "id": "d6q1tzohiz",
-      "t": "SpeedCrunch 1.1",
-      "u": "https://speedcrunch.org/",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:19:43.000Z",
-      "x": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: "
-    },
-    {
-      "id": "14btz4ut7t",
-      "t": "The Goose Programming Language",
-      "u": "https://aardappel.github.io/goose",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:06:55.000Z",
-      "x": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?i"
-    },
-    {
-      "id": "1b6t3rr111",
-      "t": "I added live TV to Jellyfin with a cheap network tuner, and dropped my streaming TV subscription",
-      "u": "https://xda-developers.com/i-added-live-tv-to-jellyfin-with-a-cheap-network-tuner-and-dropped-my-streaming-tv-subscription",
-      "s": "XDA Developers",
-      "c": "web",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:00:20.000Z",
-      "x": "Cable and streaming TV services like Hulu Live and YouTube TV are monthly expenses I don't need . I don't watc"
-    },
-    {
-      "id": "1tqvink1nc",
-      "t": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "u": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "s": "TechCrunch",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T19:00:00.000Z",
-      "x": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects"
-    },
-    {
-      "id": "1lz018u1sa",
-      "t": "Google is quietly linking your phone number to other Android accounts",
-      "u": "https://engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts",
-      "s": "Engadget",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:45:00.000Z",
-      "x": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inheri"
-    },
-    {
-      "id": "h1mcw6yx9l",
-      "t": "Pennsylvania will require labels on AI-generated ads",
-      "u": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "s": "The Verge",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:32:21.000Z",
-      "x": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act i"
-    },
-    {
-      "id": "1bvb99ytai",
-      "t": "Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others",
-      "u": "https://gsmarena.com/deals_iphone_duo_launches_faces_off_against_galaxy_z_fold8_motorola_razr_fold_and_others-news-75184.php",
-      "s": "GSMArena",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:31:02.000Z",
-      "x": "来源：GSMArena — Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others"
-    },
-    {
-      "id": "4qtsjzwiga",
-      "t": "Why the wires in your ethernet cables are twisted",
-      "u": "https://engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:30:00.000Z",
-      "x": "There's a good reason for that arrangement."
-    },
-    {
-      "id": "1hf63u11wo",
-      "t": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
-      "u": "https://macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:29:16.000Z",
-      "x": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been inf"
-    },
-    {
-      "id": "gq96m914e0",
-      "t": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
-      "u": "https://macrumors.com/how-to/unlock-iphone-duo-apple-watch",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:28:00.000Z",
-      "x": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step "
-    },
-    {
-      "id": "1sz08zkpxo",
-      "t": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
-      "u": "https://macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:27:42.000Z",
-      "x": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test . Despite its IP68 dust-resistance r"
-    },
-    {
-      "id": "rlxhlf5ki8",
-      "t": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
-      "u": "https://engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games",
-      "s": "Engadget",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:09:54.000Z",
-      "x": "You can try out the new feature on the Steam store's homepage."
-    },
-    {
-      "id": "wdie4f1blf",
-      "t": "Xbox Game Pass could let you pick which features you pay for",
-      "u": "https://engadget.com/2296222/xbox-game-pass-pick-which-features",
-      "s": "Engadget",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-24T18:00:00.000Z",
-      "x": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set t"
-    },
-    {
-      "id": "1l7d782z2o",
-      "t": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
-      "u": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later",
-      "s": "9to5Mac",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T17:47:49.000Z",
-      "x": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the pho"
-    },
-    {
-      "id": "obw2ea1u6z",
-      "t": "美国痴呆症经济负担飙升至8180亿美元 家庭承担大部分隐性成本",
-      "u": "https://cnbeta.com.tw/articles/science/1583708.htm",
-      "s": "cnBeta",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T17:28:54.000Z",
-      "x": "一项由美国南加州大学研究团队主导的最新研究显示，阿尔茨海默病及其他相关痴呆症将在2026年给美国带来约8180亿美元的经济负担。这一数字不仅涵盖医疗和长期护理支出，还首次更全面地统计了患者及照护者的收入损失、生活质量下降"
-    },
-    {
-      "id": "1wsyysx100",
-      "t": "YouTube streams may look better and buffer less as soon as early 2027",
-      "u": "https://androidauthority.com/youtube-av2-rollout-update-3727638",
-      "s": "Android Authority",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T17:23:57.000Z",
-      "x": "Credit: Edgar Cervantes / Android Authority TL;DR YouTube has announced that it plans to roll out AV2 to the p"
-    },
-    {
-      "id": "1tvjw9iqtp",
-      "t": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "u": "https://de.numista.com/9866",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:41:55.000Z",
-      "x": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 8"
-    },
-    {
-      "id": "3wb2ogrzor",
-      "t": "Capcom confirms data breach that affected 11.7 million users",
-      "u": "https://engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users",
-      "s": "Engadget",
-      "c": "security",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:40:45.000Z",
-      "x": "Capcom ID is still available to use, but users may see more phishing scam emails."
-    },
-    {
-      "id": "1kisafv889",
-      "t": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "u": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber",
-      "s": "TechCrunch",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:30:00.000Z",
-      "x": "Instacart might sell itself to a larger competitor."
-    },
-    {
-      "id": "2gc8c61bwg",
-      "t": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-      "u": "https://engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port",
-      "s": "Engadget",
-      "c": "game",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:30:00.000Z",
-      "x": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of dis"
-    },
-    {
-      "id": "1d4v3q51v4",
-      "t": "The UK is investing $134 million into an AI Biosecurity Lab",
-      "u": "https://engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab",
-      "s": "Engadget",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:11:53.000Z",
-      "x": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccin"
-    },
-    {
-      "id": "1wu07thztt",
-      "t": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
-      "u": "https://macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:07:36.000Z",
-      "x": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than "
-    },
-    {
-      "id": "sjp2by4jdn",
-      "t": "Roku developer repositories moved from GitHub to GitLab",
-      "u": "https://blog.roku.com/developer/gitlab-move",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:06:26.000Z",
-      "x": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50"
-    },
-    {
-      "id": "1p4678tnug",
-      "t": "苹果首款折叠屏 iPhone Duo 拆解视频：磨砂膜揭开后折痕更明显",
-      "u": "https://cnbeta.com.tw/articles/tech/1583706.htm",
-      "s": "cnBeta",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:02:49.000Z",
-      "x": "苹果首款折叠屏手机 iPhone Duo 于近日正式上市，随着设备开始交付用户，YouTube频道 Kingmi Mobile 发布了相关拆解视频，展示了这款手机的内部结构、屏幕保护层以及电池和排线的布局。拆解结果显示，"
-    },
-    {
-      "id": "zxm1101f9c",
-      "t": "YouTube博主掰断iPhone Duo引发讨论 苹果门店尚未出现大规模屏幕损坏潮",
-      "u": "https://cnbeta.com.tw/articles/tech/1583704.htm",
-      "s": "cnBeta",
-      "c": "phone",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:01:40.000Z",
-      "x": "苹果首款折叠屏手机iPhone Duo上市后不久，多名科技YouTuber发布了极限耐久测试视频，其中部分测试显示设备在高强度弯折和暴力施压条件下出现了屏幕损坏，引发外界对这款产品耐用性的广泛讨论。不过，根据苹果零售渠道"
-    },
-    {
-      "id": "spy62c8ks9",
-      "t": "You can now manage Gemini Notebooks directly from your Gemini chats",
-      "u": "https://androidauthority.com/gemini-notebook-connected-app-3727634",
-      "s": "Android Authority",
-      "c": "ai",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:00:39.000Z",
-      "x": "Credit: Joe Maring / Android Authority TL;DR Gemini Notebook is now available as a Connected App in the Gemini"
-    },
-    {
-      "id": "1empsgf3cm",
-      "t": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
-      "u": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough",
-      "s": "9to5Mac",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:00:00.000Z",
-      "x": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal d"
-    },
-    {
-      "id": "1jjdjcp175",
-      "t": "Block’s new voice model sounds eerily human",
-      "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
-      "s": "TechCrunch",
-      "c": "pc",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:00:00.000Z",
-      "x": "Block said that the voice model can run locally on a MacBook M4 Max"
-    },
-    {
-      "id": "15wwizt1ku",
-      "t": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
-      "u": "https://engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything",
-      "s": "Engadget",
-      "c": "other",
-      "d": "2026-10-25",
-      "p": "2026-10-24T16:00:00.000Z",
-      "x": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for."
-    },
-    {
-      "id": "1hx6h7n12v",
-      "t": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-      "u": "https://ifanr.com/1685660",
-      "s": "爱范儿",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-24T00:26:49.000Z",
-      "x": "周末也值得一看的新闻 Kimi K3.1 Pro 正式上线，支持百万上下文，完整权重将在 11 月 4 日前发布 微信初步适配 iPhone Duo，支持大屏分栏，暂不支持平板登录 全球 PC 三季度出货量下降 21%，"
-    },
-    {
-      "id": "1av1tc7xnz",
-      "t": "Using an Apple Pencil With the iPhone Duo: What to Know",
-      "u": "https://macrumors.com/2026/10/23/iphone-duo-apple-pencil",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-24T00:14:20.000Z",
-      "x": "The iPhone Duo is compatible with the Apple Pencil , if you have the right one. MacRumors videographer Dan Bar"
-    },
-    {
-      "id": "7qn0br17rs",
-      "t": "My Windows 11 PC can run containers without Docker Desktop, and the entire setup took one command",
-      "u": "https://xda-developers.com/my-windows-11-pc-can-run-containers-without-docker-desktop-and-the-setup-took-one-command",
-      "s": "XDA Developers",
-      "c": "pc",
-      "d": "2026-10-24",
-      "p": "2026-10-24T00:01:20.000Z",
-      "x": "It has been a little more than a month since WSL 3.0.1 came out, and it's already changing the way I run my Li"
-    },
-    {
-      "id": "mf7hrh15gw",
-      "t": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-      "u": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display",
-      "s": "9to5Mac",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:50:49.000Z",
-      "x": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company "
-    },
-    {
-      "id": "9vxvszscli",
-      "t": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
-      "u": "https://macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:33:36.000Z",
-      "x": "The option to reserve an iPhone Duo for Apple Store pickup is starting to return on Apple's online store, with"
-    },
-    {
-      "id": "1j25xj6m1v",
-      "t": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "u": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:30:17.000Z",
-      "x": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlY"
-    },
-    {
-      "id": "ayebe14g0s",
-      "t": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
-      "u": "https://macrumors.com/2026/10/23/iphone-duo-fun-apps",
-      "s": "MacRumors",
-      "c": "game",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:22:55.000Z",
-      "x": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers ar"
-    },
-    {
-      "id": "1coqqqn1dg",
-      "t": "Apple’s official DIY repair guides for the iPhone Duo now available",
-      "u": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available",
-      "s": "9to5Mac",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:12:21.000Z",
-      "x": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for us"
-    },
-    {
-      "id": "mrkba612ae",
-      "t": "Startups don’t need to go viral to win customers",
-      "u": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
-      "s": "TechCrunch",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:07:45.000Z",
-      "x": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but k"
-    },
-    {
-      "id": "1a1taf81nb",
-      "t": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "u": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-      "s": "TechCrunch",
-      "c": "ai",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:05:49.000Z",
-      "x": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution woul"
-    },
-    {
-      "id": "1n2xntvwuh",
-      "t": "My favorite alternative to Notion isn't Obsidian or OneNote, it's something that works offline and still syncs everywhere",
-      "u": "https://xda-developers.com/anytype-is-best-notion-alternative-and-note-obsidian-and-onenote",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T23:01:21.000Z",
-      "x": "Notion is often the first app that comes to mind for managing notes, projects, and everyday work. But it's not"
-    },
-    {
-      "id": "gw8g9n1xmh",
-      "t": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "u": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue",
-      "s": "Ars Technica",
-      "c": "science",
-      "d": "2026-10-24",
-      "p": "2026-10-23T22:48:25.000Z",
-      "x": "During a lengthy news conference NASA on Friday provided a detailed overview of how it plans to return astrona"
-    },
-    {
-      "id": "1dagqcx3m9",
-      "t": "OpenAI says it's cutting off internet access for frontier model training",
-      "u": "https://engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training",
-      "s": "Engadget",
-      "c": "ai",
-      "d": "2026-10-24",
-      "p": "2026-10-23T22:37:02.000Z",
-      "x": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put"
-    },
-    {
-      "id": "1qynefy1ut",
-      "t": "German court calls Google aerial imagery 'spying'",
-      "u": "https://courthousenews.com/german-court-calls-google-aerial-imagery-spying",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T22:18:49.000Z",
-      "x": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: htt"
-    },
-    {
-      "id": "zb0e7p15xe",
-      "t": "I'm done paying for remasters when the original games look this good upscaled",
-      "u": "https://xda-developers.com/im-done-paying-for-remasters-when-original-games-look-this-good-upscaled",
-      "s": "XDA Developers",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T22:00:21.000Z",
-      "x": "Over the last couple of weeks, I've taken to revisiting some of the greatest releases of the N64, PS2, and pre"
-    },
-    {
-      "id": "m45696ymkx",
-      "t": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "u": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
-      "s": "TechCrunch",
-      "c": "chip",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:59:19.000Z",
-      "x": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summ"
-    },
-    {
-      "id": "1gfshat1j8",
-      "t": "Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo",
-      "u": "https://gsmarena.com/deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190.php",
-      "s": "GSMArena",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:54:02.000Z",
-      "x": "来源：GSMArena — Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo"
-    },
-    {
-      "id": "sz0epq119d",
-      "t": "Xbox’s first chief operating officer is out after just a few months",
-      "u": "https://theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "s": "The Verge",
-      "c": "game",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:39:26.000Z",
-      "x": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. He"
-    },
-    {
-      "id": "6lc5x8jx7g",
-      "t": "My local models are worse than Claude at almost everything, but they still run most of my workflow for $0",
-      "u": "https://xda-developers.com/my-local-model-is-worse-than-claude-at-almost-everything-but-i-still-use-it-more",
-      "s": "XDA Developers",
-      "c": "ai",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:30:21.000Z",
-      "x": "It's not lost on me that any one of Anthropic's models can outperform the models I run on my 16GB Nvidia GPU. "
-    },
-    {
-      "id": "1b0lnka1lj",
-      "t": "Some iPhone Duo screens aren’t making it through day one",
-      "u": "https://androidauthority.com/iphone-duo-cracked-screens-first-day-3727498",
-      "s": "Android Authority",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:26:00.000Z",
-      "x": "TL;DR Some early iPhone Duo owners are reporting cracked inner screens, with damage appearing near the crease."
-    },
-    {
-      "id": "1l4435u1rg",
-      "t": "CVE Tracker",
-      "u": "https://cve.0xosprey.com/",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:21:47.000Z",
-      "x": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 76 "
-    },
-    {
-      "id": "jdwadj7ql1",
-      "t": "This launcher was made for your dual-screen Android handheld",
-      "u": "https://androidauthority.com/blip-launcher-for-android-handhelds-3727499",
-      "s": "Android Authority",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:14:18.000Z",
-      "x": "Credit: Nick Fernandez / Android Authority TL;DR A developer has created a new Android launcher made for singl"
-    },
-    {
-      "id": "14015r1xy2",
-      "t": "OpenAI now trains its frontier AI models with no internet access",
-      "u": "https://theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "s": "The Verge",
-      "c": "ai",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:11:07.000Z",
-      "x": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking"
-    },
-    {
-      "id": "t9cgrf3npg",
-      "t": "My NAS sits idle 95% of the time, so I moved my desktop's chores onto it",
-      "u": "https://xda-developers.com/nas-sits-idle-most-day-put-its-spare-cpu-to-work-jobs-desktop-used-handle",
-      "s": "XDA Developers",
-      "c": "pc",
-      "d": "2026-10-24",
-      "p": "2026-10-23T21:00:21.000Z",
-      "x": "The reality of owning a heavy desktop workstation is that it draws massive amounts of power at idle, runs loud"
-    },
-    {
-      "id": "1tdzlhhjdq",
-      "t": "OpenAI宣布最先进AI模型训练期间禁止直接访问互联网",
-      "u": "https://cnbeta.com.tw/articles/tech/1583624.htm",
-      "s": "cnBeta",
-      "c": "ai",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:59:53.000Z",
-      "x": "OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是： 前沿模型在训练期间不得直接访问实时互联网 。该公司表示，这一政策将维持到相关安全防护技术取得足够进展为止。 阅读全文"
-    },
-    {
-      "id": "1n22rh2171",
-      "t": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "u": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit",
-      "s": "TechCrunch",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:57:13.000Z",
-      "x": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share"
-    },
-    {
-      "id": "swbl5q19fm",
-      "t": "OnePlus Nord Buds 3 Pro hit their lowest price in months",
-      "u": "https://androidauthority.com/oneplus-nord-buds-3-pro-deal-amazon-3727521",
-      "s": "Android Authority",
-      "c": "ai-hardware",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:54:49.000Z",
-      "x": "The OnePlus Nord Buds 3 Pro are a strong pick for anyone who wants affordable true-wireless earbuds with usefu"
-    },
-    {
-      "id": "1ndjqxy193",
-      "t": "No Source Code? No Problem",
-      "u": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:38:06.000Z",
-      "x": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?i"
-    },
-    {
-      "id": "1niqv1yqre",
-      "t": "A whirlwind tour of systemd-nspawn containers",
-      "u": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers",
-      "s": "Hacker News",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:37:12.000Z",
-      "x": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https:/"
-    },
-    {
-      "id": "1lnyecqm6j",
-      "t": "Your “high performance” power plan might be hurting your CPU's gaming performance",
-      "u": "https://xda-developers.com/your-high-performance-power-plan-might-be-hurting-your-cpus-gaming-performance",
-      "s": "XDA Developers",
-      "c": "chip",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:30:21.000Z",
-      "x": "After a fresh Windows install, PC gamers will immediately rush to the power settings to switch on the \"high pe"
-    },
-    {
-      "id": "1t6wo30wvc",
-      "t": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-      "u": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk",
-      "s": "Ars Technica",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:28:43.000Z",
-      "x": "Defense Secretary Pete Hegseth issued a memo warning military personnel against using nonpublic information to"
-    },
-    {
-      "id": "1364nzz15k",
-      "t": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
-      "u": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today",
-      "s": "9to5Mac",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:23:43.000Z",
-      "x": "Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s Unite"
-    },
-    {
-      "id": "1fesv3110u",
-      "t": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "u": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising",
-      "s": "Ars Technica",
-      "c": "security",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:19:55.000Z",
-      "x": "Using Google's products and services has always been fundamentally precarious—doing so gives the world's large"
-    },
-    {
-      "id": "1r75n3n16t",
-      "t": "9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps",
-      "u": "https://9to5mac.com/2026/10/23/daily-october-23-2026",
-      "s": "9to5Mac",
-      "c": "pc",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:14:02.000Z",
-      "x": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’"
-    },
-    {
-      "id": "935rt91vde",
-      "t": "巴黎三家Apple Store周六均暂停营业 警方加强部署应对示威",
-      "u": "https://cnbeta.com.tw/articles/tech/1583622.htm",
-      "s": "cnBeta",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:12:33.000Z",
-      "x": "苹果计划于10月24日星期六关闭法国境内7家Apple Store，其中包括巴黎的三家门店：香榭丽舍大道店、歌剧院店和圣日耳曼市场店。巴黎周边购物中心内的苹果门店预计照常营业。三家巴黎门店将于次日重新开放，但营业时间缩短"
-    },
-    {
-      "id": "msifsfw70x",
-      "t": "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
-      "u": "https://androidauthority.com/google-health-5-11-3727492",
-      "s": "Android Authority",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:06:16.000Z",
-      "x": "TL;DR Google Health version 5.11 is rolling out now on Android and iOS. The update makes changes including an "
-    },
-    {
-      "id": "1bemiy618h",
-      "t": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "u": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now",
-      "s": "TechCrunch",
-      "c": "other",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:03:14.000Z",
-      "x": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, inv"
-    },
-    {
-      "id": "lkkhhnnjs7",
-      "t": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
-      "u": "https://macrumors.com/2026/10/23/apple-southgate-reopens",
-      "s": "MacRumors",
-      "c": "phone",
-      "d": "2026-10-24",
-      "p": "2026-10-23T20:02:59.000Z",
-      "x": "Following more than three months of renovations, the Apple SouthGate store in Bath, England reopened today, ju"
     }
   ]
 }
